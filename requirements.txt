@@ -1,0 +1,4 @@
+# Versions used for the submission. The tabular calculation uses only the standard library.
+numpy==2.3.5
+matplotlib==3.10.8
+

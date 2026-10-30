@@ -1,0 +1,12 @@
+{
+  "source": "production_order.xlsx",
+  "independent_reader": "python_expat_sax_engine",
+  "production_table_rows": 2751,
+  "columns": 11,
+  "compared_cells": 30261,
+  "mismatches": 0,
+  "numeric_absolute_tolerance": 1e-10,
+  "input_sha256": "a89890dedc54d62fcea938e14040261e676ad851267ff7766fc875da6979a206",
+  "verification_timestamp": "2026-10-21T21:10:43.876312+00:00",
+  "scope": "Dual-engine standard library audit comparing ElementTree against Expat SAX."
+}

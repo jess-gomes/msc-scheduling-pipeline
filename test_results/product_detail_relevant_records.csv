@@ -1,0 +1,4138 @@
+ProductId,NAME,VALUE
+90369500,PlanningHierarchy5,LPM
+90301901,PlanningHierarchy5,LPM
+9777906,PlanningHierarchy5,CF
+9771205,PlanningHierarchy5,CF
+9776206,PlanningHierarchy5,CF
+90491500,Franchise,BT
+9777004,PlanningHierarchy5,CF
+90108301,PlanningHierarchy5,LPM
+2788703,TotalShelfLife,
+2788703,MinRemainingShelfLife,
+90108501,PlanningHierarchy5,LPM
+90369900,PlanningHierarchy5,LPM
+4020002,MinRemainingShelfLife,
+4020002,TotalShelfLife,
+4022402,MinRemainingShelfLife,
+4022402,TotalShelfLife,
+90174702,PlanningHierarchy5,OX
+90183501,PlanningHierarchy5,LST
+90183501,PlanningHierarchy1,ADLT MTWSH
+90181801,Franchise,OR
+90181801,PlanningHierarchy5,LST
+90181801,PlanningHierarchy1,ADLT MTWSH
+90184001,Franchise,OR
+90184301,PlanningHierarchy1,ADLT MTWSH
+90183501,Franchise,OR
+90183102,Franchise,OR
+90183102,PlanningHierarchy5,LST
+90183102,PlanningHierarchy1,ADLT MTWSH
+90184301,Franchise,OR
+90184301,PlanningHierarchy5,LST
+90184501,Franchise,OR
+90184501,PlanningHierarchy5,LST
+90184501,PlanningHierarchy1,ADLT MTWSH
+90369900,MinRemainingShelfLife,
+90369900,TotalShelfLife,
+4016303,MinRemainingShelfLife,
+4016303,TotalShelfLife,
+90369500,TotalShelfLife,
+90369500,MinRemainingShelfLife,
+90184001,PlanningHierarchy5,LST
+90184001,PlanningHierarchy1,ADLT MTWSH
+90183701,Franchise,OR
+90184701,PlanningHierarchy5,LST
+90183701,PlanningHierarchy5,LST
+90183701,PlanningHierarchy1,ADLT MTWSH
+90184701,Franchise,OR
+90184701,PlanningHierarchy1,ADLT MTWSH
+4019803,MinRemainingShelfLife,
+4019803,TotalShelfLife,
+5904104,PlanningHierarchy5,LST
+5100004,PlanningHierarchy5,LST
+4054303,PlanningHierarchy5,LST
+2172804,MinRemainingShelfLife,
+2172804,TotalShelfLife,
+4311003,Franchise,OR
+9430805,MinRemainingShelfLife,
+9430805,TotalShelfLife,
+9755406,MinRemainingShelfLife,
+9755406,TotalShelfLife,
+9755207,MinRemainingShelfLife,
+9430506,MinRemainingShelfLife,
+9430506,TotalShelfLife,
+9755207,TotalShelfLife,
+4847501,PlanningHierarchy5,LST
+9454803,MinRemainingShelfLife,
+9454803,TotalShelfLife,
+9961402,MinRemainingShelfLife,
+9961402,TotalShelfLife,
+9755605,MinRemainingShelfLife,
+90832500,PlanningHierarchy1,ADLT MTWSH
+9430805,Franchise,BB
+90537000,MinRemainingShelfLife,
+90537000,TotalShelfLife,
+90539100,MinRemainingShelfLife,
+9755605,TotalShelfLife,
+90539100,TotalShelfLife,
+90545700,TotalShelfLife,
+90545700,MinRemainingShelfLife,
+90540000,Franchise,OR
+5902302,PlanningHierarchy5,LST
+90536200,Franchise,OR
+90539700,Franchise,OR
+90536400,Franchise,OR
+2779603,MinRemainingShelfLife,
+2779603,TotalShelfLife,
+2779703,MinRemainingShelfLife,
+2779703,TotalShelfLife,
+90539100,Franchise,OR
+90536500,Franchise,OR
+90545700,Franchise,BT
+90540100,Franchise,OR
+4847501,TotalShelfLife,
+90539300,Franchise,OR
+90539600,Franchise,OR
+90539500,Franchise,OR
+90537000,Franchise,OR
+90536300,MinRemainingShelfLife,
+90536300,TotalShelfLife,
+90536400,MinRemainingShelfLife,
+90536400,TotalShelfLife,
+90536500,MinRemainingShelfLife,
+90536200,MinRemainingShelfLife,
+90536200,TotalShelfLife,
+90536500,TotalShelfLife,
+90539900,Franchise,OR
+90539400,Franchise,OR
+90536300,Franchise,OR
+9437203,Franchise,BB
+9450001,Franchise,BB
+9755605,Franchise,BB
+9449901,PlanningHierarchy5,JB
+9449901,PlanningHierarchy1,BB CLNS LQ
+9430405,Franchise,BB
+4847501,MinRemainingShelfLife,
+90174702,PlanningHierarchy1,CND
+9423501,Franchise,BB
+9961402,Franchise,BB
+9424301,Franchise,BB
+5465702,Franchise,WH
+9583503,Franchise,BB
+9422502,Franchise,BB
+9328105,Franchise,BB
+90156500,PlanningHierarchy1,BB CLNS LQ
+2833806,PlanningHierarchy5,JB
+2833806,PlanningHierarchy1,BB SHP
+9431304,Franchise,BB
+9974204,PlanningHierarchy5,PNT
+9974204,PlanningHierarchy1,BB CLNS LQ
+3640004,PlanningHierarchy5,LST
+3640004,PlanningHierarchy1,ADLT MTWSH
+9436400,PlanningHierarchy5,JB
+9436400,PlanningHierarchy1,BB SHP
+90788800,PlanningHierarchy5,LST
+90788800,PlanningHierarchy1,ADLT MTWSH
+90715600,PlanningHierarchy5,LST
+90715600,PlanningHierarchy1,ADLT MTWSH
+90715700,PlanningHierarchy5,LST
+90715700,PlanningHierarchy1,ADLT MTWSH
+4830001,PlanningHierarchy5,CF
+4830001,PlanningHierarchy1,LNRS
+90596001,PlanningHierarchy5,OX
+90596001,PlanningHierarchy1,SHP
+90174802,PlanningHierarchy5,OX
+90174802,PlanningHierarchy1,CND
+90396701,PlanningHierarchy5,OX
+9424401,Franchise,BB
+90450700,Franchise,BT
+5466101,Franchise,WH
+90396701,PlanningHierarchy1,SHP
+2833806,MinRemainingShelfLife,
+2833806,TotalShelfLife,
+9974204,MinRemainingShelfLife,
+9974204,TotalShelfLife,
+5110401,Franchise,OR
+1400900,Franchise,BB
+1400900,PlanningHierarchy5,NTS
+1400900,PlanningHierarchy1,BB CLNS LQ
+2886502,Franchise,BT
+4911504,Franchise,BB
+5902204,Franchise,OR
+4912404,Franchise,BB
+4847501,Franchise,OR
+5904104,Franchise,OR
+4054303,Franchise,OR
+9449901,MinRemainingShelfLife,
+9449901,TotalShelfLife,
+9776602,Franchise,WH
+5902302,Franchise,OR
+2885901,Franchise,BT
+2842301,Franchise,BT
+2842101,Franchise,BT
+90095000,Franchise,BT
+90436600,MinRemainingShelfLife,
+90436600,TotalShelfLife,
+90625700,MinRemainingShelfLife,
+90625700,TotalShelfLife,
+9907404,MinRemainingShelfLife,
+9907404,TotalShelfLife,
+9907504,MinRemainingShelfLife,
+9907504,TotalShelfLife,
+9814804,TotalShelfLife,
+6651815,MinRemainingShelfLife,
+90092000,Franchise,BT
+9814704,TotalShelfLife,
+9814804,MinRemainingShelfLife,
+9907804,MinRemainingShelfLife,
+9907804,TotalShelfLife,
+9814904,MinRemainingShelfLife,
+9814904,TotalShelfLife,
+9815103,MinRemainingShelfLife,
+6651815,TotalShelfLife,
+9908004,MinRemainingShelfLife,
+9908004,TotalShelfLife,
+9815103,TotalShelfLife,
+90491600,Franchise,BT
+8698209,PlanningHierarchy1,ADLT MTWSH
+7650712,Franchise,OR
+7650712,PlanningHierarchy5,LST
+7650712,PlanningHierarchy1,KDS MTWSH
+9280305,Franchise,BT
+90805600,PlanningHierarchy5,CF
+90805600,PlanningHierarchy1,LNRS
+90505201,PlanningHierarchy5,NTG
+90505201,PlanningHierarchy1,ACN FCL CLNS
+90823800,PlanningHierarchy5,OX
+90823800,PlanningHierarchy1,SHP
+90823600,PlanningHierarchy5,OX
+90823600,PlanningHierarchy1,CND
+90823900,PlanningHierarchy5,OX
+90823900,PlanningHierarchy1,SHP
+6132316,PlanningHierarchy5,OX
+6132316,PlanningHierarchy1,CND
+6913809,PlanningHierarchy5,JB
+6913809,PlanningHierarchy1,BB BOD CR OIL
+2463408,PlanningHierarchy5,JB
+2463408,PlanningHierarchy1,BB BOD CR OIL
+8930701,Franchise,WH
+8930701,PlanningHierarchy1,LNRS
+90276900,Franchise,BT
+90156500,Franchise,BB
+90483102,PlanningHierarchy1,SHP
+8023815,PlanningHierarchy5,OX
+8023815,PlanningHierarchy1,CND
+90483102,PlanningHierarchy5,OX
+9343704,PlanningHierarchy5,JA
+9343704,PlanningHierarchy1,ADTL BOD CLNS
+2886404,Franchise,BT
+2899702,Franchise,WH
+9814704,MinRemainingShelfLife,
+90809200,PlanningHierarchy5,CF
+90276800,Franchise,BT
+90823700,PlanningHierarchy5,OX
+90823700,PlanningHierarchy1,CND
+9064300,Franchise,BT
+9064300,PlanningHierarchy5,BB
+9064300,PlanningHierarchy1,ADLT BOD MST
+90050000,Franchise,BT
+5465703,Franchise,WH
+5471703,Franchise,WH
+9770906,PlanningHierarchy5,CF
+90809200,PlanningHierarchy1,LNRS
+8023117,PlanningHierarchy5,OX
+8023117,PlanningHierarchy1,SHP
+90091200,Franchise,BT
+90092900,Franchise,BT
+90092100,PlanningHierarchy5,LPM
+90092100,PlanningHierarchy1,ADTL BOD CLNS
+90566102,PlanningHierarchy5,PNT
+6132016,PlanningHierarchy5,OX
+6132016,PlanningHierarchy1,SHP
+90566102,PlanningHierarchy1,BB CLNS LQ
+9817007,PlanningHierarchy5,CF
+90039200,Franchise,WH
+9817007,PlanningHierarchy1,LNRS
+90641600,PlanningHierarchy5,NTS
+90641600,PlanningHierarchy1,BB BOD CR OIL
+2899401,Franchise,WH
+6681808,PlanningHierarchy1,SHP
+6664008,PlanningHierarchy5,OX
+6664008,PlanningHierarchy1,CND
+9712402,PlanningHierarchy5,JB
+9712402,PlanningHierarchy1,BB BOD CR OIL
+3963003,Franchise,BB
+9432502,Franchise,BB
+9432004,Franchise,BB
+9791603,Franchise,BB
+9435603,Franchise,BB
+90594100,Franchise,BB
+9430704,Franchise,BB
+9328009,Franchise,BB
+9328600,PlanningHierarchy5,JB
+9328600,PlanningHierarchy1,BB CLNS LQ
+5100004,Franchise,OR
+90277000,Franchise,BT
+90092100,Franchise,BT
+6682507,PlanningHierarchy5,OX
+6682507,PlanningHierarchy1,CND
+90641500,PlanningHierarchy5,NTS
+90637400,PlanningHierarchy5,LST
+90637400,PlanningHierarchy1,ADLT MTWSH
+90422601,Franchise,BT
+9432802,Franchise,BB
+90238101,Franchise,WH
+2907906,Franchise,WH
+2541704,PlanningHierarchy5,LPM
+2541704,PlanningHierarchy1,SHP
+9818203,Franchise,WH
+9818203,PlanningHierarchy5,CF
+9818203,PlanningHierarchy1,LNRS
+6646009,PlanningHierarchy5,OX
+6646009,PlanningHierarchy1,CND
+6681808,PlanningHierarchy5,OX
+90087000,Franchise,BT
+2788902,Franchise,BT
+90641500,PlanningHierarchy1,BB BOD CR OIL
+90039200,PlanningHierarchy5,VN
+90039200,PlanningHierarchy1,LNRS
+1400600,Franchise,BB
+9775502,Franchise,WH
+5461902,Franchise,WH
+90174702,MinRemainingShelfLife,
+90174702,TotalShelfLife,
+90140600,Franchise,BT
+90174802,MinRemainingShelfLife,
+90174802,TotalShelfLife,
+90396701,MinRemainingShelfLife,
+90396701,TotalShelfLife,
+6130120,PlanningHierarchy5,OX
+6130120,PlanningHierarchy1,CND
+90561901,PlanningHierarchy5,LST
+90561901,PlanningHierarchy1,ADLT MTWSH
+6590210,PlanningHierarchy5,LST
+6590210,PlanningHierarchy1,ADLT MTWSH
+8192306,PlanningHierarchy5,JA
+8192306,PlanningHierarchy1,ADTL BOD CLNS
+90091800,Franchise,BT
+1132405,PlanningHierarchy5,LST
+1132405,PlanningHierarchy1,ADLT MTWSH
+90049100,Franchise,BT
+4811005,PlanningHierarchy1,BB BOD CR OIL
+4811005,PlanningHierarchy5,JB
+2899901,Franchise,WH
+8959905,Franchise,WH
+2908601,Franchise,WH
+2908601,PlanningHierarchy5,CF
+2908601,PlanningHierarchy1,LNRS
+90108301,Franchise,BT
+8017709,PlanningHierarchy5,LST
+8017709,PlanningHierarchy1,ADLT MTWSH
+9504501,Franchise,BB
+2168114,PlanningHierarchy5,CF
+2168114,PlanningHierarchy1,LNRS
+90108501,Franchise,BT
+5100004,MinRemainingShelfLife,
+5100004,TotalShelfLife,
+8931601,Franchise,WH
+90093800,Franchise,BT
+6130820,PlanningHierarchy5,OX
+6130820,PlanningHierarchy1,SHP
+9432306,PlanningHierarchy5,JB
+9432306,PlanningHierarchy1,BB SHP
+6139322,PlanningHierarchy5,OX
+6139322,PlanningHierarchy1,CND
+3065712,Franchise,BT
+5461902,PlanningHierarchy5,CF
+90450700,PlanningHierarchy5,LPM
+2463408,MinRemainingShelfLife,
+2463408,TotalShelfLife,
+90093000,Franchise,BT
+90102500,Franchise,BT
+90094800,Franchise,BT
+3923211,Franchise,WH
+6646009,MinRemainingShelfLife,
+6132016,MinRemainingShelfLife,
+6132016,TotalShelfLife,
+6132316,MinRemainingShelfLife,
+6646009,TotalShelfLife,
+6132316,TotalShelfLife,
+6664008,MinRemainingShelfLife,
+8931601,PlanningHierarchy1,LNRS
+6682507,TotalShelfLife,
+6664008,TotalShelfLife,
+6681808,MinRemainingShelfLife,
+6681808,TotalShelfLife,
+6682507,MinRemainingShelfLife,
+90092600,Franchise,BT
+6913809,MinRemainingShelfLife,
+8023117,MinRemainingShelfLife,
+6913809,TotalShelfLife,
+8023117,TotalShelfLife,
+8023815,MinRemainingShelfLife,
+8023815,TotalShelfLife,
+9712402,MinRemainingShelfLife,
+9712402,TotalShelfLife,
+90250202,PlanningHierarchy5,LST
+90250202,PlanningHierarchy1,ADLT MTWSH
+90277200,Franchise,BT
+2745003,PlanningHierarchy5,LST
+2745003,PlanningHierarchy1,ADLT MTWSH
+2791102,Franchise,BT
+90639700,PlanningHierarchy5,JB
+90342900,PlanningHierarchy5,LPM
+90639700,PlanningHierarchy1,BB BOD CR OIL
+90639900,PlanningHierarchy5,JB
+90639900,PlanningHierarchy1,BB BOD CR OIL
+9449501,Franchise,BB
+90641100,PlanningHierarchy5,JB
+90641100,PlanningHierarchy1,BB BOD CR OIL
+6701909,PlanningHierarchy5,OX
+6701909,PlanningHierarchy1,SHP
+90783500,PlanningHierarchy5,LST
+5197516,PlanningHierarchy5,LST
+5197516,PlanningHierarchy1,ADLT MTWSH
+90783500,PlanningHierarchy1,ADLT MTWSH
+1092405,PlanningHierarchy5,LST
+90639600,PlanningHierarchy1,BB BOD CR OIL
+8959605,Franchise,WH
+90639600,PlanningHierarchy5,JB
+90642200,PlanningHierarchy1,BB BOD CR OIL
+90642200,PlanningHierarchy5,JB
+90343000,PlanningHierarchy5,LPM
+90642400,PlanningHierarchy5,JB
+90642400,PlanningHierarchy1,BB BOD CR OIL
+90049900,Franchise,BT
+7968207,Franchise,OR
+7968207,PlanningHierarchy5,LST
+7968207,PlanningHierarchy1,ADLT MTWSH
+9815103,PlanningHierarchy5,LST
+9817007,MinRemainingShelfLife,
+9817007,TotalShelfLife,
+9814804,PlanningHierarchy5,LST
+2788703,PlanningHierarchy5,LPM
+8192207,PlanningHierarchy5,JA
+8192207,PlanningHierarchy1,ADTL BOD CLNS
+90641900,PlanningHierarchy5,JB
+90641900,PlanningHierarchy1,BB BOD CR OIL
+2971102,Franchise,BT
+2971002,Franchise,BT
+2565207,Franchise,BT
+2565702,Franchise,BT
+2971202,Franchise,BT
+9295606,PlanningHierarchy5,LST
+9295606,PlanningHierarchy1,ADLT MTWSH
+1092405,PlanningHierarchy1,ADLT MTWSH
+90238902,PlanningHierarchy5,LST
+90238902,PlanningHierarchy1,ADLT MTWSH
+90420701,PlanningHierarchy5,LST
+90642300,PlanningHierarchy5,JB
+90642300,PlanningHierarchy1,BB BOD CR OIL
+90034800,Franchise,WH
+1933203,Franchise,BT
+90642100,PlanningHierarchy1,BB BOD CR OIL
+90642100,PlanningHierarchy5,JB
+2971302,Franchise,BT
+9908004,PlanningHierarchy5,LST
+90641800,PlanningHierarchy5,JB
+6772306,PlanningHierarchy5,OX
+6772306,PlanningHierarchy1,SHP
+90898600,PlanningHierarchy5,NTS
+9814904,PlanningHierarchy5,LST
+5465703,PlanningHierarchy5,CF
+5471702,PlanningHierarchy5,CF
+5471703,PlanningHierarchy5,CF
+90641800,PlanningHierarchy1,BB BOD CR OIL
+6776306,PlanningHierarchy1,CND
+90642000,PlanningHierarchy5,JB
+90642000,PlanningHierarchy1,BB BOD CR OIL
+90640000,PlanningHierarchy5,JB
+6776306,PlanningHierarchy5,OX
+90640000,PlanningHierarchy1,BB BOD CR OIL
+90102700,Franchise,BT
+3682519,Franchise,WH
+90369200,PlanningHierarchy5,LPM
+90420701,PlanningHierarchy1,KDS MTWSH
+4828902,PlanningHierarchy5,CF
+8191611,PlanningHierarchy5,JA
+8191611,PlanningHierarchy1,ADTL BOD CLNS
+4828902,PlanningHierarchy1,LNRS
+6563708,PlanningHierarchy5,OX
+6563708,PlanningHierarchy1,SHP
+2907502,PlanningHierarchy5,CF
+2907202,PlanningHierarchy5,CF
+5466101,PlanningHierarchy5,CF
+90277100,Franchise,BT
+90369500,Franchise,BT
+9327201,Franchise,BB
+9327201,PlanningHierarchy5,JB
+9327201,PlanningHierarchy1,BB SHP
+9437103,Franchise,BB
+9437103,PlanningHierarchy5,JB
+9437103,PlanningHierarchy1,BB SHP
+90369200,Franchise,BT
+7321808,PlanningHierarchy5,LST
+7321808,PlanningHierarchy1,ADLT MTWSH
+90450900,Franchise,BT
+90781000,PlanningHierarchy5,OX
+90781000,PlanningHierarchy1,SHP
+90788500,PlanningHierarchy5,JA
+90788500,PlanningHierarchy1,ADTL BOD CLNS
+90783100,PlanningHierarchy5,OX
+90783100,PlanningHierarchy1,CND
+90679400,MinRemainingShelfLife,
+90679400,TotalShelfLife,
+2541704,TotalShelfLife,
+2541704,MinRemainingShelfLife,
+7984909,PlanningHierarchy5,OX
+90369900,Franchise,BT
+90095100,Franchise,BT
+90436700,Franchise,BT
+90369200,MinRemainingShelfLife,
+90369200,TotalShelfLife,
+90246902,PlanningHierarchy1,ADLT MTWSH
+90183902,PlanningHierarchy5,LST
+90183902,PlanningHierarchy1,ADLT MTWSH
+90783700,PlanningHierarchy5,LST
+90783700,PlanningHierarchy1,ADLT MTWSH
+90246902,PlanningHierarchy5,LST
+9907804,PlanningHierarchy5,LST
+90898600,PlanningHierarchy1,BB CLNS LQ
+6099923,MinRemainingShelfLife,
+6099923,TotalShelfLife,
+8192605,PlanningHierarchy5,JA
+8192605,PlanningHierarchy1,ADLT BOD MST
+1016416,Franchise,BT
+1016416,PlanningHierarchy5,C&C
+1016416,PlanningHierarchy1,ACN FCL CLNS
+9907404,PlanningHierarchy5,LST
+9487502,PlanningHierarchy1,BB BOD CR OIL
+9487502,PlanningHierarchy5,JB
+6038007,PlanningHierarchy5,OX
+6038007,PlanningHierarchy1,SHP
+9439000,Franchise,BB
+9439000,PlanningHierarchy5,JB
+9439000,PlanningHierarchy1,BB SHP
+6651815,PlanningHierarchy5,LST
+9280305,PlanningHierarchy5,BB
+9280305,PlanningHierarchy1,ADTL BOD CLNS
+3445104,PlanningHierarchy5,LST
+3445104,PlanningHierarchy1,ADLT MTWSH
+90417003,PlanningHierarchy5,LST
+90417003,PlanningHierarchy1,ADLT MTWSH
+6693911,PlanningHierarchy5,OX
+6693911,PlanningHierarchy1,SHP
+6694110,PlanningHierarchy5,OX
+6694110,PlanningHierarchy1,CND
+6710510,PlanningHierarchy5,OX
+6645510,PlanningHierarchy5,OX
+6710510,PlanningHierarchy1,CND
+6645510,PlanningHierarchy1,SHP
+6563806,PlanningHierarchy1,CND
+6563806,PlanningHierarchy5,OX
+9425300,Franchise,BB
+9425300,PlanningHierarchy5,JB
+9425300,PlanningHierarchy1,BB CLNS LQ
+6674008,PlanningHierarchy5,OX
+6674008,PlanningHierarchy1,SHP
+6789005,PlanningHierarchy5,OX
+7985009,PlanningHierarchy5,OX
+6789005,PlanningHierarchy1,CND
+7985009,PlanningHierarchy1,CND
+6788905,PlanningHierarchy5,OX
+6788905,PlanningHierarchy1,SHP
+90497101,PlanningHierarchy5,LST
+90497101,PlanningHierarchy1,ADLT MTWSH
+90383904,PlanningHierarchy5,LST
+90383904,PlanningHierarchy1,ADLT MTWSH
+9814704,PlanningHierarchy5,LST
+9907504,PlanningHierarchy5,LST
+9282402,Franchise,BT
+9282402,PlanningHierarchy5,JA
+9282402,PlanningHierarchy1,ADTL BOD CLNS
+6409308,PlanningHierarchy5,OX
+6409308,PlanningHierarchy1,SHP
+2905104,Franchise,WH
+6130223,MinRemainingShelfLife,
+1930807,PlanningHierarchy1,ADLT MTWSH
+1930410,PlanningHierarchy5,LST
+1930410,PlanningHierarchy1,ADLT MTWSH
+4848002,Franchise,OR
+4848002,PlanningHierarchy1,KDS MTWSH
+3444904,PlanningHierarchy5,LST
+3444904,PlanningHierarchy1,ADLT MTWSH
+90047701,Franchise,BT
+1830405,PlanningHierarchy5,LST
+1830405,PlanningHierarchy1,ADLT MTWSH
+1930807,PlanningHierarchy5,LST
+2908201,PlanningHierarchy5,CF
+2908201,PlanningHierarchy1,LNRS
+90436600,Franchise,BT
+1467601,Franchise,BT
+1467601,PlanningHierarchy5,JA
+1467601,PlanningHierarchy1,ADTL BOD CLNS
+8021907,PlanningHierarchy5,OX
+7984909,PlanningHierarchy1,SHP
+8022007,PlanningHierarchy5,OX
+8021907,PlanningHierarchy1,SHP
+8022007,PlanningHierarchy1,CND
+90052601,Franchise,BT
+7090405,TotalShelfLife,
+7090405,MinRemainingShelfLife,
+6675008,PlanningHierarchy1,CND
+6060108,PlanningHierarchy5,OX
+6060108,PlanningHierarchy1,SHP
+6675008,PlanningHierarchy5,OX
+7125315,PlanningHierarchy5,LST
+7125315,PlanningHierarchy1,ADLT MTWSH
+90436803,PlanningHierarchy5,LST
+90436803,PlanningHierarchy1,ADLT MTWSH
+90183303,PlanningHierarchy5,LST
+90183303,PlanningHierarchy1,ADLT MTWSH
+8025306,PlanningHierarchy1,ADLT MTWSH
+90565302,PlanningHierarchy5,LST
+90565302,PlanningHierarchy1,ADLT MTWSH
+90520301,Franchise,BT
+4830001,Franchise,WH
+7828506,PlanningHierarchy5,LST
+7828506,PlanningHierarchy1,ADLT MTWSH
+6121510,PlanningHierarchy5,LST
+6121510,PlanningHierarchy1,ADLT MTWSH
+90497201,PlanningHierarchy5,LST
+90497201,PlanningHierarchy1,ADLT MTWSH
+7381306,PlanningHierarchy5,LST
+7381306,PlanningHierarchy1,ADLT MTWSH
+6701909,MinRemainingShelfLife,
+6776306,TotalShelfLife,
+6701909,TotalShelfLife,
+6772306,MinRemainingShelfLife,
+6772306,TotalShelfLife,
+6776306,MinRemainingShelfLife,
+90520702,PlanningHierarchy5,LST
+90520702,PlanningHierarchy1,ADLT MTWSH
+9815805,PlanningHierarchy5,CF
+7125413,PlanningHierarchy5,LST
+7125413,PlanningHierarchy1,ADLT MTWSH
+90561801,PlanningHierarchy5,LST
+90561801,PlanningHierarchy1,ADLT MTWSH
+5193920,PlanningHierarchy5,LST
+5193920,PlanningHierarchy1,ADLT MTWSH
+90783600,PlanningHierarchy5,LST
+90783600,PlanningHierarchy1,ADLT MTWSH
+5166900,PlanningHierarchy5,JB
+5166900,PlanningHierarchy1,BB BOD CR OIL
+90521102,PlanningHierarchy5,LST
+90521102,PlanningHierarchy1,ADLT MTWSH
+8912904,Franchise,OR
+8912702,Franchise,OR
+90679100,PlanningHierarchy5,NTG
+90156500,PlanningHierarchy5,JB
+5904403,PlanningHierarchy5,LST
+9196608,PlanningHierarchy1,ADLT MTWSH
+5904403,PlanningHierarchy1,ADLT MTWSH
+2841005,Franchise,BT
+90034502,Franchise,WH
+90641800,TotalShelfLife,
+90641900,MinRemainingShelfLife,
+90641100,MinRemainingShelfLife,
+90641100,TotalShelfLife,
+90641900,TotalShelfLife,
+90642000,MinRemainingShelfLife,
+90641800,MinRemainingShelfLife,
+90642000,TotalShelfLife,
+9436900,PlanningHierarchy5,JB
+9436900,PlanningHierarchy1,BB SHP
+90642200,TotalShelfLife,
+90642300,MinRemainingShelfLife,
+90642300,TotalShelfLife,
+90642400,MinRemainingShelfLife,
+90642400,TotalShelfLife,
+90642100,MinRemainingShelfLife,
+90642100,TotalShelfLife,
+90642200,MinRemainingShelfLife,
+90301901,MinRemainingShelfLife,
+90301901,TotalShelfLife,
+6414511,PlanningHierarchy5,LST
+6414511,PlanningHierarchy1,ADLT MTWSH
+9196608,PlanningHierarchy5,LST
+90108301,MinRemainingShelfLife,
+90108301,TotalShelfLife,
+6130023,PlanningHierarchy1,SHP
+6130023,PlanningHierarchy5,OX
+9436500,Franchise,BB
+9436500,PlanningHierarchy5,JB
+9436500,PlanningHierarchy1,BB SHP
+90108501,MinRemainingShelfLife,
+90301901,Franchise,BT
+90639600,TotalShelfLife,
+90639700,MinRemainingShelfLife,
+90639700,TotalShelfLife,
+90639600,MinRemainingShelfLife,
+90639900,MinRemainingShelfLife,
+90108501,TotalShelfLife,
+90639900,TotalShelfLife,
+90640000,MinRemainingShelfLife,
+90640000,TotalShelfLife,
+4912501,Franchise,BB
+4912501,PlanningHierarchy5,AVN BB
+4912501,PlanningHierarchy1,BB CLNS LQ
+9449702,PlanningHierarchy5,JB
+9449702,PlanningHierarchy1,BB CLNS LQ
+9814904,Franchise,OR
+9907804,Franchise,OR
+6651815,Franchise,OR
+9814804,Franchise,OR
+9815103,Franchise,OR
+8876104,Franchise,OR
+9814704,Franchise,OR
+9907504,Franchise,OR
+9907404,Franchise,OR
+9908004,Franchise,OR
+7321708,PlanningHierarchy5,LST
+7321708,PlanningHierarchy1,ADLT MTWSH
+689116,Franchise,BT
+9771205,MinRemainingShelfLife,
+9771205,TotalShelfLife,
+90280802,Franchise,BT
+4910600,Franchise,BB
+4910600,PlanningHierarchy5,AVN BB
+4910600,PlanningHierarchy1,BB CLNS LQ
+5133511,PlanningHierarchy5,LST
+5133511,PlanningHierarchy1,ADLT MTWSH
+7223209,Franchise,OR
+7223209,PlanningHierarchy5,LST
+7223209,PlanningHierarchy1,ADLT MTWSH
+90641500,TotalShelfLife,
+90641600,MinRemainingShelfLife,
+90641600,TotalShelfLife,
+90628000,MinRemainingShelfLife,
+90628000,TotalShelfLife,
+90521002,PlanningHierarchy5,LST
+90521002,PlanningHierarchy1,ADLT MTWSH
+6999211,PlanningHierarchy5,LST
+6999211,PlanningHierarchy1,KDS MTWSH
+8193005,Franchise,BT
+8193005,PlanningHierarchy5,JA
+8193005,PlanningHierarchy1,ADLT BOD MST
+90637500,TotalShelfLife,
+90637500,MinRemainingShelfLife,
+90504901,PlanningHierarchy5,NTG
+90504901,PlanningHierarchy1,ACN FCL CLNS
+90637700,MinRemainingShelfLife,
+90637700,TotalShelfLife,
+90521302,PlanningHierarchy5,LST
+90521302,PlanningHierarchy1,ADLT MTWSH
+90039904,PlanningHierarchy5,LST
+90039904,PlanningHierarchy1,ADLT MTWSH
+90504701,PlanningHierarchy1,ACN FCL CLNS
+90504701,PlanningHierarchy5,NTG
+90437002,PlanningHierarchy5,LST
+90437002,PlanningHierarchy1,ADLT MTWSH
+5217921,PlanningHierarchy5,LST
+5217921,PlanningHierarchy1,ADLT MTWSH
+90521702,PlanningHierarchy5,LST
+90521702,PlanningHierarchy1,ADLT MTWSH
+8573707,Franchise,OR
+90483102,MinRemainingShelfLife,
+90483102,TotalShelfLife,
+90566102,MinRemainingShelfLife,
+90566102,TotalShelfLife,
+4830002,PlanningHierarchy5,CF
+4830002,PlanningHierarchy1,LNRS
+90638100,TotalShelfLife,
+90638100,MinRemainingShelfLife,
+90638500,MinRemainingShelfLife,
+90638500,TotalShelfLife,
+9424000,Franchise,BB
+90639200,TotalShelfLife,
+90639300,MinRemainingShelfLife,
+90639100,MinRemainingShelfLife,
+90639100,TotalShelfLife,
+90639300,TotalShelfLife,
+9778302,Franchise,WH
+90639200,MinRemainingShelfLife,
+90641500,MinRemainingShelfLife,
+90250103,PlanningHierarchy5,LST
+90250103,PlanningHierarchy1,ADLT MTWSH
+90587500,Franchise,BT
+5461902,MinRemainingShelfLife,
+90275901,Franchise,BT
+90565101,PlanningHierarchy5,LST
+90565101,PlanningHierarchy1,ADLT MTWSH
+90587600,Franchise,BT
+6663910,MinRemainingShelfLife,
+6663910,TotalShelfLife,
+90140500,Franchise,BT
+5491702,PlanningHierarchy5,CF
+5500602,PlanningHierarchy5,CF
+5489102,PlanningHierarchy5,CF
+9437303,PlanningHierarchy1,BB SHP
+9437303,PlanningHierarchy5,JB
+8573507,PlanningHierarchy5,LST
+8573507,PlanningHierarchy1,ADLT MTWSH
+5494202,PlanningHierarchy5,CF
+5462101,PlanningHierarchy5,CF
+4022402,PlanningHierarchy5,JB
+5481001,PlanningHierarchy5,CF
+5480002,PlanningHierarchy5,CF
+5462001,PlanningHierarchy5,CF
+90587800,Franchise,BT
+90275502,Franchise,BT
+90276602,Franchise,BT
+2907701,PlanningHierarchy5,CF
+2907701,PlanningHierarchy1,LNRS
+6652114,Franchise,OR
+9776206,MinRemainingShelfLife,
+9776206,TotalShelfLife,
+9777004,MinRemainingShelfLife,
+9777004,TotalShelfLife,
+9777906,MinRemainingShelfLife,
+9777906,TotalShelfLife,
+4020002,PlanningHierarchy5,JB
+2899901,PlanningHierarchy5,SF
+2899901,PlanningHierarchy1,LNRS
+4016303,PlanningHierarchy5,JB
+9436400,Franchise,BB
+90292601,PlanningHierarchy5,NTG
+2905601,Franchise,WH
+2905601,PlanningHierarchy5,CF
+2905601,PlanningHierarchy1,LNRS
+90184102,PlanningHierarchy5,LST
+90184102,PlanningHierarchy1,ADLT MTWSH
+90183802,PlanningHierarchy1,ADLT MTWSH
+90042502,PlanningHierarchy5,LST
+90042502,PlanningHierarchy1,ADLT MTWSH
+90183802,PlanningHierarchy5,LST
+4019803,PlanningHierarchy5,JB
+90247002,PlanningHierarchy5,LST
+90247002,PlanningHierarchy1,ADLT MTWSH
+6479010,PlanningHierarchy5,LST
+6479010,PlanningHierarchy1,ADLT MTWSH
+90562001,PlanningHierarchy5,LST
+90246702,PlanningHierarchy5,LST
+90320200,PlanningHierarchy5,JB
+90246702,PlanningHierarchy1,ADLT MTWSH
+90562001,PlanningHierarchy1,ADLT MTWSH
+1933003,Franchise,BT
+8776502,PlanningHierarchy5,CF
+8776702,PlanningHierarchy5,CF
+5461901,PlanningHierarchy5,CF
+5470001,PlanningHierarchy5,CF
+90679100,PlanningHierarchy1,ADLT BOD MST
+90276401,Franchise,BT
+90276201,Franchise,BT
+90370101,Franchise,BT
+6663910,PlanningHierarchy5,OX
+6663910,PlanningHierarchy1,SHP
+90420302,PlanningHierarchy5,LST
+90565201,PlanningHierarchy5,LST
+90420302,PlanningHierarchy1,ADLT MTWSH
+90565201,PlanningHierarchy1,ADLT MTWSH
+8192805,Franchise,BT
+90093303,Franchise,BT
+90276101,Franchise,BT
+9283603,Franchise,BT
+9283603,PlanningHierarchy5,JA
+9283603,PlanningHierarchy1,ADTL BOD CLNS
+90114101,PlanningHierarchy5,CF
+9779304,PlanningHierarchy5,CF
+6130023,MinRemainingShelfLife,
+6130023,TotalShelfLife,
+6130120,MinRemainingShelfLife,
+6130120,TotalShelfLife,
+6130820,MinRemainingShelfLife,
+8776603,PlanningHierarchy5,CF
+9283902,Franchise,BT
+9283902,PlanningHierarchy5,JA
+9283902,PlanningHierarchy1,ADTL BOD CLNS
+5461902,TotalShelfLife,
+5465702,MinRemainingShelfLife,
+5465702,TotalShelfLife,
+5465703,MinRemainingShelfLife,
+5465703,TotalShelfLife,
+5466101,MinRemainingShelfLife,
+5466101,TotalShelfLife,
+90504601,PlanningHierarchy5,NTG
+90504601,PlanningHierarchy1,ACN FCL CLNS
+9298104,PlanningHierarchy1,ADLT MTWSH
+90109001,PlanningHierarchy5,CF
+90491301,PlanningHierarchy5,LST
+90491301,PlanningHierarchy1,ADLT MTWSH
+9777004,Franchise,WH
+90034800,PlanningHierarchy5,VN
+90034800,PlanningHierarchy1,LNRS
+90086803,Franchise,BT
+90102902,PlanningHierarchy1,ADTL BOD CLNS
+90597801,PlanningHierarchy5,LPM
+90597801,PlanningHierarchy1,SHP
+6130223,PlanningHierarchy5,OX
+90639500,MinRemainingShelfLife,
+90638900,MinRemainingShelfLife,
+90638900,TotalShelfLife,
+90639500,TotalShelfLife,
+90645200,MinRemainingShelfLife,
+90645200,TotalShelfLife,
+9777906,Franchise,WH
+9771205,Franchise,WH
+2841403,Franchise,BT
+2841403,PlanningHierarchy5,NTG
+2841403,PlanningHierarchy1,ADLT BOD MST
+2842003,Franchise,BT
+2842003,PlanningHierarchy1,ADLT BOD MST
+2842003,PlanningHierarchy5,NTG
+7963106,Franchise,OR
+7963106,PlanningHierarchy5,LST
+7963106,PlanningHierarchy1,ADLT MTWSH
+90276701,Franchise,BT
+9286501,PlanningHierarchy5,JA
+9286501,PlanningHierarchy1,ADTL BOD CLNS
+9776206,Franchise,WH
+6130223,PlanningHierarchy1,SHP
+6130321,PlanningHierarchy5,OX
+6130321,PlanningHierarchy1,CND
+6099923,PlanningHierarchy5,OX
+6099923,PlanningHierarchy1,SHP
+90637100,MinRemainingShelfLife,
+90637100,TotalShelfLife,
+90637400,MinRemainingShelfLife,
+90106202,PlanningHierarchy5,LPM
+90106202,PlanningHierarchy1,ADTL BOD CLNS
+90451002,PlanningHierarchy5,CF
+90451002,PlanningHierarchy1,LNRS
+9423701,Franchise,BB
+9423701,PlanningHierarchy5,JB
+9423701,PlanningHierarchy1,BB CLNS LQ
+90053202,Franchise,BT
+8180710,Franchise,OR
+90637400,TotalShelfLife,
+90637800,MinRemainingShelfLife,
+90637800,TotalShelfLife,
+6130820,TotalShelfLife,
+6139322,MinRemainingShelfLife,
+6139322,TotalShelfLife,
+90638200,MinRemainingShelfLife,
+90638200,TotalShelfLife,
+90638700,MinRemainingShelfLife,
+90638700,TotalShelfLife,
+6109911,PlanningHierarchy5,LST
+6109911,PlanningHierarchy1,ADLT MTWSH
+9432306,MinRemainingShelfLife,
+2172804,PlanningHierarchy5,CF
+2675506,Franchise,WH
+9432306,TotalShelfLife,
+9280205,Franchise,BT
+9280205,PlanningHierarchy5,BB
+9280205,PlanningHierarchy1,ADTL BOD CLNS
+90326802,Franchise,BT
+90276002,Franchise,BT
+2779603,PlanningHierarchy5,LPM
+2779703,PlanningHierarchy5,LPM
+90106102,PlanningHierarchy5,LPM
+90106102,PlanningHierarchy1,ADTL BOD CLNS
+90275601,Franchise,BT
+90102902,PlanningHierarchy5,LPM
+4996200,Franchise,BB
+4996200,PlanningHierarchy5,AVN BB
+4996200,PlanningHierarchy1,BB CLNS LQ
+90545801,PlanningHierarchy5,NTG
+90545801,PlanningHierarchy1,ACN FCL CLNS
+90504501,PlanningHierarchy5,NTG
+90504501,PlanningHierarchy1,ACN FCL CLNS
+6130321,MinRemainingShelfLife,
+6130321,TotalShelfLife,
+90275701,Franchise,BT
+6130223,TotalShelfLife,
+6109810,PlanningHierarchy5,LST
+6109810,PlanningHierarchy1,ADLT MTWSH
+90238802,PlanningHierarchy5,LST
+90238802,PlanningHierarchy1,ADLT MTWSH
+8191311,PlanningHierarchy5,JA
+8191311,PlanningHierarchy1,ADTL BOD CLNS
+90370201,Franchise,BT
+9776805,Franchise,WH
+90276302,Franchise,BT
+8573407,PlanningHierarchy5,LST
+90783100,TotalShelfLife,
+90781000,MinRemainingShelfLife,
+90781000,TotalShelfLife,
+90783100,MinRemainingShelfLife,
+90276800,PlanningHierarchy5,LPM
+90276800,PlanningHierarchy1,HND SOP
+8356603,Franchise,OR
+8356603,PlanningHierarchy5,LST
+8356603,PlanningHierarchy1,ADLT MTWSH
+8573407,PlanningHierarchy1,ADLT MTWSH
+90156402,PlanningHierarchy5,JB
+90156402,PlanningHierarchy1,BB SHP
+6652114,PlanningHierarchy5,LST
+2841403,TotalShelfLife,
+2842003,MinRemainingShelfLife,
+2842003,TotalShelfLife,
+2841403,MinRemainingShelfLife,
+90587800,PlanningHierarchy5,NTG
+1933003,PlanningHierarchy5,LPM
+1933003,PlanningHierarchy1,SHP
+2905704,Franchise,WH
+9436900,Franchise,BB
+90276900,PlanningHierarchy5,LPM
+90276900,PlanningHierarchy1,HND SOP
+90275401,Franchise,BT
+90566000,Franchise,BB
+90102600,PlanningHierarchy5,LPM
+90102600,PlanningHierarchy1,ADTL BOD CLNS
+1416202,Franchise,BT
+1416202,PlanningHierarchy5,JA
+1416202,PlanningHierarchy1,ADTL BOD CLNS
+90714400,PlanningHierarchy5,LST
+2675308,Franchise,WH
+90714400,PlanningHierarchy1,ADLT MTWSH
+90715300,PlanningHierarchy5,LST
+90715300,PlanningHierarchy1,ADLT MTWSH
+2908406,Franchise,WH
+90587800,PlanningHierarchy1,ADLT BOD MST
+90275502,PlanningHierarchy5,LPM
+90275502,PlanningHierarchy1,HND SOP
+90276602,PlanningHierarchy5,LPM
+90276602,PlanningHierarchy1,HND SOP
+2842101,PlanningHierarchy1,ADLT BOD MST
+8931001,PlanningHierarchy5,CF
+90504301,PlanningHierarchy5,NTG
+90504301,PlanningHierarchy1,ACN FCL CLNS
+90545901,PlanningHierarchy5,NTG
+8699405,Franchise,OR
+8699405,PlanningHierarchy5,LST
+8699405,PlanningHierarchy1,ADLT MTWSH
+9343504,PlanningHierarchy5,JA
+9343504,PlanningHierarchy1,ADTL BOD CLNS
+90545901,PlanningHierarchy1,ACN FCL CLNS
+2842301,PlanningHierarchy5,NTG
+2885901,PlanningHierarchy5,NTG
+2885901,PlanningHierarchy1,ADLT BOD MST
+2842301,PlanningHierarchy1,ADLT BOD MST
+2842101,PlanningHierarchy5,NTG
+2483006,Franchise,WH
+1282005,Franchise,WH
+2908003,Franchise,WH
+2675407,Franchise,WH
+2675207,Franchise,WH
+4019402,Franchise,BB
+8191406,PlanningHierarchy5,JA
+8191406,PlanningHierarchy1,ADTL BOD CLNS
+90194201,PlanningHierarchy5,LST
+90194201,PlanningHierarchy1,ADLT MTWSH
+90044301,PlanningHierarchy5,LPM
+90044301,PlanningHierarchy1,ADTL BOD CLNS
+90301303,PlanningHierarchy5,JB
+90051401,PlanningHierarchy5,LPM
+90051401,PlanningHierarchy1,ADTL BOD CLNS
+90048601,PlanningHierarchy5,LPM
+90048601,PlanningHierarchy1,ADTL BOD CLNS
+90301303,PlanningHierarchy1,BB CTN
+90051801,PlanningHierarchy5,LPM
+90051801,PlanningHierarchy1,ADTL BOD CLNS
+90504801,PlanningHierarchy5,NTG
+8930701,PlanningHierarchy5,CF
+90504801,PlanningHierarchy1,ACN FCL CLNS
+9437003,PlanningHierarchy1,BB SHP
+90046801,PlanningHierarchy5,LPM
+90046801,PlanningHierarchy1,ADTL BOD CLNS
+9437003,PlanningHierarchy5,JB
+8698209,PlanningHierarchy5,LST
+8192805,PlanningHierarchy5,JA
+8192805,PlanningHierarchy1,ADLT BOD MST
+90504402,PlanningHierarchy5,NTG
+90504402,PlanningHierarchy1,ACN FCL CLNS
+90052601,PlanningHierarchy5,LPM
+90052601,PlanningHierarchy1,ADTL BOD CLNS
+90047401,PlanningHierarchy5,LPM
+90047401,PlanningHierarchy1,ADTL BOD CLNS
+9298004,PlanningHierarchy5,LST
+8025306,PlanningHierarchy5,LST
+9776805,MinRemainingShelfLife,
+9776805,TotalShelfLife,
+90047101,PlanningHierarchy5,LPM
+90047901,PlanningHierarchy5,LPM
+90047901,PlanningHierarchy1,ADTL BOD CLNS
+90053701,PlanningHierarchy5,LPM
+90053701,PlanningHierarchy1,ADTL BOD CLNS
+90047101,PlanningHierarchy1,ADTL BOD CLNS
+90048501,PlanningHierarchy5,LPM
+90048501,PlanningHierarchy1,ADTL BOD CLNS
+7222406,PlanningHierarchy5,LST
+90639300,PlanningHierarchy5,LST
+90639300,PlanningHierarchy1,ADLT MTWSH
+7222406,PlanningHierarchy1,ADLT MTWSH
+90044601,PlanningHierarchy5,LPM
+90044601,PlanningHierarchy1,ADTL BOD CLNS
+90044901,PlanningHierarchy5,LPM
+90044901,PlanningHierarchy1,ADTL BOD CLNS
+90052801,PlanningHierarchy5,LPM
+90052801,PlanningHierarchy1,ADTL BOD CLNS
+90046601,PlanningHierarchy5,LPM
+90046601,PlanningHierarchy1,ADTL BOD CLNS
+1933303,PlanningHierarchy5,LPM
+1933303,PlanningHierarchy1,SHP
+90054001,PlanningHierarchy5,LPM
+90054001,PlanningHierarchy1,ADTL BOD CLNS
+90714500,PlanningHierarchy5,LST
+90714500,PlanningHierarchy1,ADLT MTWSH
+90051501,PlanningHierarchy5,LPM
+90051501,PlanningHierarchy1,ADTL BOD CLNS
+90051901,PlanningHierarchy5,LPM
+90051901,PlanningHierarchy1,ADTL BOD CLNS
+90057601,PlanningHierarchy5,LPM
+90057601,PlanningHierarchy1,ADTL BOD CLNS
+90047701,PlanningHierarchy5,LPM
+90047701,PlanningHierarchy1,ADTL BOD CLNS
+90053901,PlanningHierarchy5,LPM
+90053901,PlanningHierarchy1,ADTL BOD CLNS
+90043001,PlanningHierarchy5,LPM
+90043001,PlanningHierarchy1,ADTL BOD CLNS
+90052101,PlanningHierarchy5,LPM
+90052101,PlanningHierarchy1,ADTL BOD CLNS
+90051301,PlanningHierarchy5,LPM
+90051301,PlanningHierarchy1,ADTL BOD CLNS
+8573707,PlanningHierarchy5,LST
+8573707,PlanningHierarchy1,ADLT MTWSH
+6060108,MinRemainingShelfLife,
+5904703,PlanningHierarchy5,LST
+5904703,PlanningHierarchy1,ADLT MTWSH
+5400402,PlanningHierarchy5,LST
+5904002,PlanningHierarchy5,LST
+5904002,PlanningHierarchy1,ADLT MTWSH
+90185001,Franchise,OR
+2779703,Franchise,BT
+6788905,TotalShelfLife,
+6789005,MinRemainingShelfLife,
+6789005,TotalShelfLife,
+7984909,MinRemainingShelfLife,
+7984909,TotalShelfLife,
+7985009,MinRemainingShelfLife,
+7985009,TotalShelfLife,
+9813002,Franchise,WH
+9813002,PlanningHierarchy5,VN
+9813002,PlanningHierarchy1,LNRS
+6060108,TotalShelfLife,
+6674008,MinRemainingShelfLife,
+6675008,TotalShelfLife,
+6674008,TotalShelfLife,
+6675008,MinRemainingShelfLife,
+6788905,MinRemainingShelfLife,
+6652114,PlanningHierarchy1,ADLT MTWSH
+7684707,PlanningHierarchy1,ADLT MTWSH
+90054801,PlanningHierarchy5,LPM
+90054801,PlanningHierarchy1,ADTL BOD CLNS
+9449702,Franchise,BB
+2683903,PlanningHierarchy5,LST
+90140700,PlanningHierarchy5,JA
+90140700,PlanningHierarchy1,ADTL BOD CLNS
+9438900,Franchise,BB
+9438900,PlanningHierarchy5,JB
+9438900,PlanningHierarchy1,BB SHP
+8021907,MinRemainingShelfLife,
+8021907,TotalShelfLife,
+8022007,MinRemainingShelfLife,
+8022007,TotalShelfLife,
+90049601,PlanningHierarchy5,LPM
+90049601,PlanningHierarchy1,ADTL BOD CLNS
+90046701,PlanningHierarchy1,ADTL BOD CLNS
+90046701,PlanningHierarchy5,LPM
+90715200,PlanningHierarchy5,LST
+90185001,MinRemainingShelfLife,
+90048704,Franchise,BT
+90052102,Franchise,BT
+90053604,Franchise,BT
+90047902,Franchise,BT
+90052205,Franchise,BT
+90597901,PlanningHierarchy5,LPM
+90597901,PlanningHierarchy1,SHP
+90185001,TotalShelfLife,
+90639100,PlanningHierarchy5,LST
+90639100,PlanningHierarchy1,ADLT MTWSH
+9437102,Franchise,BB
+9437102,PlanningHierarchy5,JB
+9437102,PlanningHierarchy1,BB SHP
+9298004,PlanningHierarchy1,ADLT MTWSH
+6109711,Franchise,OR
+6109711,PlanningHierarchy5,LST
+7828607,Franchise,OR
+7828607,PlanningHierarchy5,LST
+7828607,PlanningHierarchy1,ADLT MTWSH
+6109711,PlanningHierarchy1,ADLT MTWSH
+6478914,Franchise,OR
+6478914,PlanningHierarchy5,LST
+6478914,PlanningHierarchy1,ADLT MTWSH
+90679300,PlanningHierarchy1,BB BOD CR OIL
+90679500,PlanningHierarchy5,JB
+90679500,PlanningHierarchy1,BB BOD CR OIL
+90679300,PlanningHierarchy5,JB
+3834621,Franchise,WH
+3834621,PlanningHierarchy5,CF
+3834621,PlanningHierarchy1,LNRS
+7090906,PlanningHierarchy5,OX
+90092400,PlanningHierarchy5,LPM
+90092400,PlanningHierarchy1,ADTL BOD CLNS
+90679300,TotalShelfLife,
+90679500,MinRemainingShelfLife,
+90679500,TotalShelfLife,
+90053402,Franchise,BT
+90048805,Franchise,BT
+90048602,Franchise,BT
+90052304,Franchise,BT
+6109711,TotalShelfLife,
+90053505,Franchise,BT
+6478914,MinRemainingShelfLife,
+6478914,TotalShelfLife,
+90715200,PlanningHierarchy1,ADLT MTWSH
+7828607,MinRemainingShelfLife,
+7828607,TotalShelfLife,
+90679300,MinRemainingShelfLife,
+90369800,Franchise,BT
+90369400,Franchise,BT
+90280401,Franchise,BT
+4054303,MinRemainingShelfLife,
+4054303,TotalShelfLife,
+8192005,PlanningHierarchy5,JA
+8192005,PlanningHierarchy1,ADTL BOD CLNS
+90369400,MinRemainingShelfLife,
+90369400,TotalShelfLife,
+90369800,MinRemainingShelfLife,
+90369800,TotalShelfLife,
+90280401,MinRemainingShelfLife,
+90280401,TotalShelfLife,
+5902302,MinRemainingShelfLife,
+5902302,TotalShelfLife,
+5904104,MinRemainingShelfLife,
+5904104,TotalShelfLife,
+2904601,Franchise,WH
+2904601,PlanningHierarchy5,CF
+2904601,PlanningHierarchy1,LNRS
+1830405,MinRemainingShelfLife,
+1930410,TotalShelfLife,
+1930807,MinRemainingShelfLife,
+1830405,TotalShelfLife,
+1930410,MinRemainingShelfLife,
+7222406,Franchise,OR
+3444904,TotalShelfLife,
+3445104,MinRemainingShelfLife,
+3445104,TotalShelfLife,
+6109711,MinRemainingShelfLife,
+1930807,TotalShelfLife,
+3444904,MinRemainingShelfLife,
+90092000,PlanningHierarchy5,LPM
+90092000,PlanningHierarchy1,ADTL BOD CLNS
+90049202,PlanningHierarchy5,LPM
+90049202,PlanningHierarchy1,ADTL BOD CLNS
+90052901,PlanningHierarchy5,LPM
+90052901,PlanningHierarchy1,ADTL BOD CLNS
+90050000,PlanningHierarchy5,LPM
+90050000,PlanningHierarchy1,ADTL BOD CLNS
+1933203,MinRemainingShelfLife,
+1933203,TotalShelfLife,
+90451002,MinRemainingShelfLife,
+90451002,TotalShelfLife,
+1933303,MinRemainingShelfLife,
+1933303,TotalShelfLife,
+2791102,MinRemainingShelfLife,
+2791102,TotalShelfLife,
+8573607,PlanningHierarchy5,LST
+8573607,PlanningHierarchy1,ADLT MTWSH
+90102800,PlanningHierarchy5,LPM
+90102800,PlanningHierarchy1,ADTL BOD CLNS
+2908101,Franchise,WH
+2908101,PlanningHierarchy5,CF
+2908101,PlanningHierarchy1,LNRS
+9728602,PlanningHierarchy5,JA
+9728602,PlanningHierarchy1,ADTL BOD CLNS
+9817904,Franchise,WH
+9817904,PlanningHierarchy5,CF
+9817904,PlanningHierarchy1,LNRS
+2905501,Franchise,WH
+2905501,PlanningHierarchy5,CF
+2905501,PlanningHierarchy1,LNRS
+6633906,MinRemainingShelfLife,
+6633906,TotalShelfLife,
+2885901,MinRemainingShelfLife,
+2788902,MinRemainingShelfLife,
+2788902,TotalShelfLife,
+2885901,TotalShelfLife,
+1933003,MinRemainingShelfLife,
+2842301,MinRemainingShelfLife,
+2788902,PlanningHierarchy5,LPM
+2788902,PlanningHierarchy1,SHP
+2842301,TotalShelfLife,
+8776802,PlanningHierarchy5,CF
+90102902,MinRemainingShelfLife,
+90102902,TotalShelfLife,
+90106102,MinRemainingShelfLife,
+90106102,TotalShelfLife,
+90106202,MinRemainingShelfLife,
+90106202,TotalShelfLife,
+6693911,MinRemainingShelfLife,
+6693911,TotalShelfLife,
+6694110,MinRemainingShelfLife,
+6694110,TotalShelfLife,
+6710510,MinRemainingShelfLife,
+6710510,TotalShelfLife,
+1924902,MinRemainingShelfLife,
+1924902,TotalShelfLife,
+1933003,TotalShelfLife,
+90087000,PlanningHierarchy5,LPM
+90087000,PlanningHierarchy1,ADTL BOD CLNS
+2790602,MinRemainingShelfLife,
+2790602,TotalShelfLife,
+1400600,PlanningHierarchy5,NTS
+1400600,PlanningHierarchy1,BB SHP
+4910801,Franchise,BB
+4910801,PlanningHierarchy5,AVN BB
+4910801,PlanningHierarchy1,BB CLNS LQ
+90737800,MinRemainingShelfLife,
+90737800,TotalShelfLife,
+90737900,MinRemainingShelfLife,
+90043001,MinRemainingShelfLife,
+90043001,TotalShelfLife,
+90276800,MinRemainingShelfLife,
+90276800,TotalShelfLife,
+90276900,MinRemainingShelfLife,
+90276900,TotalShelfLife,
+90277000,MinRemainingShelfLife,
+90277000,TotalShelfLife,
+9436600,Franchise,BB
+9436600,PlanningHierarchy5,JB
+9436600,PlanningHierarchy1,BB SHP
+90343000,Franchise,BT
+2905901,Franchise,WH
+2905901,PlanningHierarchy5,CF
+2905901,PlanningHierarchy1,LNRS
+7222406,MinRemainingShelfLife,
+7222406,TotalShelfLife,
+2899401,PlanningHierarchy5,SF
+2899401,PlanningHierarchy1,LNRS
+90277100,MinRemainingShelfLife,
+90277100,TotalShelfLife,
+90277200,MinRemainingShelfLife,
+90277200,TotalShelfLife,
+5400402,PlanningHierarchy1,ADLT MTWSH
+5903806,PlanningHierarchy5,LST
+5903806,PlanningHierarchy1,ADLT MTWSH
+5903705,PlanningHierarchy1,ADLT MTWSH
+1500404,PlanningHierarchy5,LST
+5904203,PlanningHierarchy5,LST
+1500404,PlanningHierarchy1,ADLT MTWSH
+5904203,PlanningHierarchy1,ADLT MTWSH
+5903705,PlanningHierarchy5,LST
+90048104,Franchise,BT
+90737900,TotalShelfLife,
+90048005,Franchise,BT
+9298104,PlanningHierarchy5,LST
+90140600,PlanningHierarchy5,JA
+90140600,PlanningHierarchy1,ADTL BOD CLNS
+90094600,PlanningHierarchy5,LPM
+90094600,PlanningHierarchy1,ADTL BOD CLNS
+90044301,TotalShelfLife,
+90044301,MinRemainingShelfLife,
+90342900,Franchise,BT
+90044601,MinRemainingShelfLife,
+90044601,TotalShelfLife,
+6645510,MinRemainingShelfLife,
+6645510,TotalShelfLife,
+90729400,PlanningHierarchy5,LST
+90729400,PlanningHierarchy1,ADLT MTWSH
+90277000,PlanningHierarchy5,LPM
+90277000,PlanningHierarchy1,HND SOP
+90054801,MinRemainingShelfLife,
+90054801,TotalShelfLife,
+90048501,MinRemainingShelfLife,
+90048501,TotalShelfLife,
+90048601,MinRemainingShelfLife,
+90048601,TotalShelfLife,
+90140500,PlanningHierarchy5,JA
+90140500,PlanningHierarchy1,ADTL BOD CLNS
+90039903,PlanningHierarchy5,LST
+90044901,MinRemainingShelfLife,
+90044901,TotalShelfLife,
+2842101,MinRemainingShelfLife,
+2842101,TotalShelfLife,
+90046601,MinRemainingShelfLife,
+90046601,TotalShelfLife,
+90046701,MinRemainingShelfLife,
+8845205,PlanningHierarchy1,ADLT MTWSH
+90046701,TotalShelfLife,
+90046801,MinRemainingShelfLife,
+90046801,TotalShelfLife,
+90047101,MinRemainingShelfLife,
+90047101,TotalShelfLife,
+90047401,TotalShelfLife,
+90047701,MinRemainingShelfLife,
+90047701,TotalShelfLife,
+90047401,MinRemainingShelfLife,
+9437500,Franchise,BB
+9437500,PlanningHierarchy5,JB
+9437500,PlanningHierarchy1,BB SHP
+9343602,Franchise,BT
+9343602,PlanningHierarchy5,JA
+9343602,PlanningHierarchy1,ADLT BOD MST
+90092600,PlanningHierarchy5,LPM
+90092600,PlanningHierarchy1,ADTL BOD CLNS
+90047901,MinRemainingShelfLife,
+90047901,TotalShelfLife,
+9314001,Franchise,BB
+9314001,PlanningHierarchy5,JB
+9314001,PlanningHierarchy1,BB CLNS LQ
+9285702,Franchise,BT
+2788703,Franchise,BT
+8698310,Franchise,OR
+8698310,PlanningHierarchy1,ADLT MTWSH
+8191406,Franchise,BT
+1639405,Franchise,OR
+90638500,PlanningHierarchy5,LST
+90638500,PlanningHierarchy1,ADLT MTWSH
+90638100,PlanningHierarchy5,LST
+90638100,PlanningHierarchy1,ADLT MTWSH
+90049100,PlanningHierarchy5,LPM
+90049100,PlanningHierarchy1,HND SOP
+90628000,PlanningHierarchy5,LST
+90628000,PlanningHierarchy1,ADLT MTWSH
+90091800,PlanningHierarchy5,LPM
+90091800,PlanningHierarchy1,ADTL BOD CLNS
+4019603,PlanningHierarchy5,JB
+4019603,PlanningHierarchy1,BB CTN
+4019403,PlanningHierarchy5,JB
+4019403,PlanningHierarchy1,BB CTN
+90185001,PlanningHierarchy1,ADLT MTWSH
+9423601,Franchise,BB
+9423601,PlanningHierarchy5,JB
+9423601,PlanningHierarchy1,BB CLNS LQ
+4848602,Franchise,OR
+4848602,PlanningHierarchy1,KDS MTWSH
+90057601,TotalShelfLife,
+5904503,PlanningHierarchy5,LST
+5904503,PlanningHierarchy1,ADLT MTWSH
+5903603,PlanningHierarchy5,LST
+5903603,PlanningHierarchy1,ADLT MTWSH
+5400202,PlanningHierarchy5,LST
+5400202,PlanningHierarchy1,ADLT MTWSH
+9427102,Franchise,BB
+9427102,PlanningHierarchy5,JB
+9427102,PlanningHierarchy1,BB CND
+3881511,Franchise,WH
+3881511,PlanningHierarchy5,CF
+3881511,PlanningHierarchy1,LNRS
+4022402,Franchise,BB
+90369500,PlanningHierarchy1,ADTL BOD CLNS
+4020002,Franchise,BB
+4016303,Franchise,BB
+90156402,MinRemainingShelfLife,
+90156402,TotalShelfLife,
+90108301,PlanningHierarchy1,ADTL BOD CLNS
+90051301,MinRemainingShelfLife,
+90051301,TotalShelfLife,
+90051401,MinRemainingShelfLife,
+90051401,TotalShelfLife,
+90051501,MinRemainingShelfLife,
+8931601,PlanningHierarchy5,VN
+2658901,PlanningHierarchy5,JA
+2658901,PlanningHierarchy1,ADTL BOD CLNS
+90301901,PlanningHierarchy1,ADTL BOD CLNS
+90280401,PlanningHierarchy1,ADTL BOD CLNS
+6238007,PlanningHierarchy5,LST
+6238007,PlanningHierarchy1,ADLT MTWSH
+90051501,TotalShelfLife,
+90140500,MinRemainingShelfLife,
+90140500,TotalShelfLife,
+90140600,MinRemainingShelfLife,
+90140600,TotalShelfLife,
+90140700,MinRemainingShelfLife,
+90140700,TotalShelfLife,
+90140800,MinRemainingShelfLife,
+90140800,TotalShelfLife,
+1924902,PlanningHierarchy5,LPM
+1924902,PlanningHierarchy1,SHP
+8698310,PlanningHierarchy5,LST
+90369800,PlanningHierarchy1,ADTL BOD CLNS
+90369400,PlanningHierarchy1,ADTL BOD CLNS
+9777906,PlanningHierarchy1,LNRS
+9771205,PlanningHierarchy1,LNRS
+1466302,Franchise,BT
+1466302,PlanningHierarchy5,JA
+1466302,PlanningHierarchy1,ADTL BOD CLNS
+9776206,PlanningHierarchy1,LNRS
+90052901,MinRemainingShelfLife,
+90052901,TotalShelfLife,
+90052601,MinRemainingShelfLife,
+90052601,TotalShelfLife,
+90052801,MinRemainingShelfLife,
+90052801,TotalShelfLife,
+1969215,Franchise,WH
+1969215,PlanningHierarchy5,CF
+1969215,PlanningHierarchy1,LNRS
+90108501,PlanningHierarchy1,ADTL BOD CLNS
+90051801,MinRemainingShelfLife,
+90051801,TotalShelfLife,
+90051901,MinRemainingShelfLife,
+90051901,TotalShelfLife,
+90052101,MinRemainingShelfLife,
+90052101,TotalShelfLife,
+9777004,PlanningHierarchy1,LNRS
+90049202,MinRemainingShelfLife,
+90049202,TotalShelfLife,
+90369900,PlanningHierarchy1,ADTL BOD CLNS
+90049601,MinRemainingShelfLife,
+90049601,TotalShelfLife,
+90505201,MinRemainingShelfLife,
+90505201,TotalShelfLife,
+90057601,MinRemainingShelfLife,
+90823200,PlanningHierarchy1,CND
+90823300,PlanningHierarchy5,OX
+90823300,PlanningHierarchy1,SHP
+90823200,PlanningHierarchy5,OX
+4019803,Franchise,BB
+2788304,PlanningHierarchy5,LPM
+2788304,PlanningHierarchy1,SHP
+90342102,PlanningHierarchy5,LPM
+90342102,PlanningHierarchy1,SHP
+90053701,MinRemainingShelfLife,
+90053701,TotalShelfLife,
+90053901,MinRemainingShelfLife,
+90053901,TotalShelfLife,
+90054001,MinRemainingShelfLife,
+90054001,TotalShelfLife,
+5471702,MinRemainingShelfLife,
+9449501,PlanningHierarchy5,JB
+9449501,PlanningHierarchy1,BB CLNS LQ
+5471702,TotalShelfLife,
+5471703,MinRemainingShelfLife,
+1933405,PlanningHierarchy5,LPM
+1933405,PlanningHierarchy1,SHP
+5471703,TotalShelfLife,
+5480002,MinRemainingShelfLife,
+5480002,TotalShelfLife,
+9343704,Franchise,BT
+2790704,PlanningHierarchy5,LPM
+2790704,PlanningHierarchy1,SHP
+2907202,MinRemainingShelfLife,
+2907202,TotalShelfLife,
+2907502,MinRemainingShelfLife,
+2907502,TotalShelfLife,
+1933706,PlanningHierarchy5,LPM
+1933706,PlanningHierarchy1,SHP
+90637700,PlanningHierarchy5,LST
+90637700,PlanningHierarchy1,ADLT MTWSH
+90637500,PlanningHierarchy5,LST
+90637500,PlanningHierarchy1,ADLT MTWSH
+8845205,PlanningHierarchy5,LST
+2841706,PlanningHierarchy5,NTG
+2841706,PlanningHierarchy1,ADLT BOD MST
+8025406,PlanningHierarchy1,ADLT MTWSH
+9778302,PlanningHierarchy5,CF
+9778302,PlanningHierarchy1,LNRS
+90156402,Franchise,BB
+9424000,PlanningHierarchy5,JB
+9424000,PlanningHierarchy1,BB CLNS LQ
+90342102,MinRemainingShelfLife,
+90342102,TotalShelfLife,
+8193205,Franchise,BT
+2790602,PlanningHierarchy5,LPM
+2790602,PlanningHierarchy1,SHP
+9437400,Franchise,BB
+9437400,PlanningHierarchy5,JB
+9437400,PlanningHierarchy1,BB SHP
+90095100,PlanningHierarchy5,LPM
+90095100,PlanningHierarchy1,ADTL BOD CLNS
+9064100,Franchise,BT
+9064100,PlanningHierarchy5,BB
+9064100,PlanningHierarchy1,ADLT BOD MST
+8192005,Franchise,BT
+1933405,MinRemainingShelfLife,
+1933706,MinRemainingShelfLife,
+1933706,TotalShelfLife,
+1933405,TotalShelfLife,
+2788304,MinRemainingShelfLife,
+2788304,TotalShelfLife,
+2790704,MinRemainingShelfLife,
+2790704,TotalShelfLife,
+127404,Franchise,WH
+127404,PlanningHierarchy5,CF
+127404,PlanningHierarchy1,LNRS
+2841706,MinRemainingShelfLife,
+2841706,TotalShelfLife,
+9450001,PlanningHierarchy1,BB CLNS LQ
+9423501,PlanningHierarchy1,BB CLNS LQ
+9424301,PlanningHierarchy1,BB CLNS LQ
+8025306,Franchise,OR
+4019403,MinRemainingShelfLife,
+4019403,TotalShelfLife,
+4019603,MinRemainingShelfLife,
+4019603,TotalShelfLife,
+9431100,PlanningHierarchy5,JB
+9431100,PlanningHierarchy1,BB SHP
+3682519,PlanningHierarchy5,CF
+3682519,PlanningHierarchy1,LNRS
+9341105,PlanningHierarchy5,JA
+9341105,PlanningHierarchy1,ADTL BOD CLNS
+2790804,MinRemainingShelfLife,
+2790804,TotalShelfLife,
+90092400,Franchise,BT
+90050800,PlanningHierarchy5,LPM
+90050800,PlanningHierarchy1,ADTL BOD CLNS
+9777302,PlanningHierarchy5,CF
+9777302,PlanningHierarchy1,LNRS
+90049900,PlanningHierarchy5,LPM
+90049900,PlanningHierarchy1,HND SOP
+5904104,PlanningHierarchy1,ADLT MTWSH
+5100004,PlanningHierarchy1,MDC MTWSH
+90450700,TotalShelfLife,
+90450700,MinRemainingShelfLife,
+4054303,PlanningHierarchy1,ADLT MTWSH
+2791102,PlanningHierarchy5,LPM
+2791102,PlanningHierarchy1,SHP
+4847501,PlanningHierarchy1,ADLT MTWSH
+5902302,PlanningHierarchy1,ADLT MTWSH
+9284403,Franchise,BT
+9284403,PlanningHierarchy5,JA
+9284403,PlanningHierarchy1,ADTL BOD CLNS
+9285702,PlanningHierarchy5,JA
+9285702,PlanningHierarchy1,ADTL BOD CLNS
+9815103,PlanningHierarchy1,ADLT MTWSH
+90052801,Franchise,BT
+9814804,PlanningHierarchy1,ADLT MTWSH
+4848602,PlanningHierarchy5,LST
+2788703,PlanningHierarchy1,SHP
+7671306,PlanningHierarchy5,LST
+7671306,PlanningHierarchy1,ADLT MTWSH
+9088406,Franchise,OR
+9088406,PlanningHierarchy5,LST
+7671606,Franchise,OR
+7671606,PlanningHierarchy5,LST
+9088406,PlanningHierarchy1,ADLT MTWSH
+7671306,Franchise,OR
+9436703,PlanningHierarchy5,JB
+9436703,PlanningHierarchy1,BB SHP
+9908004,PlanningHierarchy1,ADLT MTWSH
+7859808,PlanningHierarchy5,OX
+90342900,PlanningHierarchy1,ADTL BOD CLNS
+67106,Franchise,WH
+90343000,PlanningHierarchy1,ADTL BOD CLNS
+90369200,PlanningHierarchy1,ADTL BOD CLNS
+90277200,PlanningHierarchy5,LPM
+90277200,PlanningHierarchy1,HND SOP
+5166900,Franchise,BB
+90034402,Franchise,WH
+90292601,Franchise,BT
+90095000,PlanningHierarchy5,LPM
+90095000,PlanningHierarchy1,ADTL BOD CLNS
+90044601,Franchise,BT
+90679100,MinRemainingShelfLife,
+90679100,TotalShelfLife,
+90679200,MinRemainingShelfLife,
+90679600,TotalShelfLife,
+90679700,MinRemainingShelfLife,
+90679700,TotalShelfLife,
+90679200,TotalShelfLife,
+90679600,MinRemainingShelfLife,
+90639200,PlanningHierarchy5,LST
+90639200,PlanningHierarchy1,ADLT MTWSH
+1933203,PlanningHierarchy5,LPM
+1933203,PlanningHierarchy1,SHP
+2904801,Franchise,WH
+2904801,PlanningHierarchy5,CF
+2904801,PlanningHierarchy1,LNRS
+90051901,Franchise,BT
+8323607,Franchise,BT
+8323607,PlanningHierarchy5,JA
+8323607,PlanningHierarchy1,ADTL BOD CLNS
+8025406,PlanningHierarchy5,LST
+90140800,PlanningHierarchy5,JA
+90140800,PlanningHierarchy1,ADTL BOD CLNS
+2685702,Franchise,OR
+2685702,PlanningHierarchy5,LST
+2685702,PlanningHierarchy1,ADLT MTWSH
+8931001,Franchise,WH
+8931001,PlanningHierarchy1,LNRS
+4848002,PlanningHierarchy5,LST
+90051501,Franchise,BT
+9776602,PlanningHierarchy5,CF
+9776602,PlanningHierarchy1,LNRS
+90277100,PlanningHierarchy5,LPM
+90277100,PlanningHierarchy1,HND SOP
+7684707,PlanningHierarchy5,LST
+9775502,PlanningHierarchy5,CF
+9775502,PlanningHierarchy1,LNRS
+9285801,PlanningHierarchy5,JA
+9285801,PlanningHierarchy1,ADTL BOD CLNS
+9424401,PlanningHierarchy1,BB CLNS LQ
+3809416,PlanningHierarchy5,CF
+3809416,PlanningHierarchy1,LNRS
+90185001,PlanningHierarchy5,LST
+5465702,PlanningHierarchy5,CF
+90057601,Franchise,BT
+9422800,PlanningHierarchy5,JB
+9422800,PlanningHierarchy1,BB CLNS LQ
+90383802,PlanningHierarchy5,LST
+2683903,PlanningHierarchy1,KDS MTWSH
+90140700,Franchise,BT
+90280401,PlanningHierarchy5,LPM
+1132305,PlanningHierarchy5,LST
+1132305,PlanningHierarchy1,ADLT MTWSH
+90369800,PlanningHierarchy5,LPM
+90369400,PlanningHierarchy5,LPM
+6109710,Franchise,OR
+6109710,PlanningHierarchy5,LST
+6109710,PlanningHierarchy1,ADLT MTWSH
+90091200,PlanningHierarchy5,LPM
+90091200,PlanningHierarchy1,ADTL BOD CLNS
+90092900,PlanningHierarchy5,LPM
+90092900,PlanningHierarchy1,ADTL BOD CLNS
+8193205,PlanningHierarchy5,JA
+8193205,PlanningHierarchy1,ADLT BOD MST
+9814904,PlanningHierarchy1,ADLT MTWSH
+90048601,Franchise,BT
+1132305,Franchise,OR
+90044301,Franchise,BT
+90043001,Franchise,BT
+90052101,Franchise,BT
+90051301,Franchise,BT
+90051401,Franchise,BT
+90638700,PlanningHierarchy5,LST
+90638700,PlanningHierarchy1,ADLT MTWSH
+90645200,PlanningHierarchy5,LST
+90645200,PlanningHierarchy1,ADLT MTWSH
+90679700,PlanningHierarchy5,JB
+90679700,PlanningHierarchy1,BB BOD CR OIL
+90047101,Franchise,BT
+3065712,PlanningHierarchy5,C&C
+3065712,PlanningHierarchy1,ACN FCL CLNS
+5461902,PlanningHierarchy1,LNRS
+90093800,PlanningHierarchy5,LPM
+90093800,PlanningHierarchy1,ADTL BOD CLNS
+9282902,Franchise,BT
+9282902,PlanningHierarchy5,JA
+9282902,PlanningHierarchy1,ADTL BOD CLNS
+90094600,Franchise,BT
+90638900,PlanningHierarchy5,LST
+90638900,PlanningHierarchy1,ADLT MTWSH
+90049601,Franchise,BT
+90052901,Franchise,BT
+90637800,PlanningHierarchy5,LST
+90637800,PlanningHierarchy1,MDC MTWSH
+90637100,PlanningHierarchy5,LST
+90637100,PlanningHierarchy1,ADLT MTWSH
+90638200,PlanningHierarchy5,LST
+90638200,PlanningHierarchy1,ADLT MTWSH
+90046801,Franchise,BT
+90320200,Franchise,BB
+90639500,PlanningHierarchy5,LST
+90639500,PlanningHierarchy1,ADLT MTWSH
+90679200,PlanningHierarchy5,NTG
+90679200,PlanningHierarchy1,ADLT BOD MST
+7321708,Franchise,OR
+90054001,Franchise,BT
+90053901,Franchise,BT
+90655800,PlanningHierarchy5,JB
+90655800,PlanningHierarchy1,BB CLNS LQ
+90663100,PlanningHierarchy5,JB
+90663100,PlanningHierarchy1,BB CTN
+90641700,PlanningHierarchy5,JB
+90641700,PlanningHierarchy1,BB BOD CR OIL
+90729401,PlanningHierarchy5,LST
+90729401,PlanningHierarchy1,ADLT MTWSH
+90051801,Franchise,BT
+90094204,PlanningHierarchy5,LPM
+90639800,PlanningHierarchy5,JB
+90639800,PlanningHierarchy1,BB BOD CR OIL
+90094204,PlanningHierarchy1,ADTL BOD CLNS
+90047401,Franchise,BT
+9298004,Franchise,OR
+7987311,PlanningHierarchy5,OX
+7987311,PlanningHierarchy1,CND
+90046701,Franchise,BT
+2659201,PlanningHierarchy5,JA
+2659201,PlanningHierarchy1,ADTL BOD CLNS
+3809416,Franchise,WH
+4711111,Franchise,WH
+4711111,PlanningHierarchy5,CF
+4711111,PlanningHierarchy1,LNRS
+90054801,Franchise,BT
+2683903,Franchise,OR
+90051002,PlanningHierarchy5,LPM
+90051002,PlanningHierarchy1,ADTL BOD CLNS
+90050400,Franchise,BT
+90095200,Franchise,BT
+1924902,Franchise,BT
+8698209,Franchise,OR
+4019602,Franchise,BB
+7650712,MinRemainingShelfLife,
+7650712,TotalShelfLife,
+90656000,PlanningHierarchy5,JB
+90656000,PlanningHierarchy1,BB CTN
+2745003,Franchise,OR
+90679600,PlanningHierarchy5,JB
+90679600,PlanningHierarchy1,BB BOD CR OIL
+9285801,Franchise,BT
+9422800,Franchise,BB
+9728602,Franchise,BT
+90050700,Franchise,BT
+90047901,Franchise,BT
+90053701,Franchise,BT
+8573607,Franchise,OR
+90102800,Franchise,BT
+90044901,Franchise,BT
+8845205,Franchise,OR
+1933303,Franchise,BT
+4811005,MinRemainingShelfLife,
+6038007,TotalShelfLife,
+4811005,TotalShelfLife,
+6038007,MinRemainingShelfLife,
+9286501,Franchise,BT
+8573507,Franchise,OR
+9328600,Franchise,BB
+90050902,PlanningHierarchy5,LPM
+90050902,PlanningHierarchy1,ADTL BOD CLNS
+90046601,Franchise,BT
+90042502,MinRemainingShelfLife,
+90042502,TotalShelfLife,
+7321808,Franchise,OR
+6590210,TotalShelfLife,
+7381306,MinRemainingShelfLife,
+6479010,TotalShelfLife,
+7381306,TotalShelfLife,
+6590210,MinRemainingShelfLife,
+9298104,Franchise,OR
+90639800,MinRemainingShelfLife,
+90641700,TotalShelfLife,
+90639800,TotalShelfLife,
+90641700,MinRemainingShelfLife,
+2659201,Franchise,BT
+7828506,MinRemainingShelfLife,
+7828506,TotalShelfLife,
+2790602,Franchise,BT
+90053302,Franchise,BT
+90050902,MinRemainingShelfLife,
+90050902,TotalShelfLife,
+90051002,MinRemainingShelfLife,
+90051002,TotalShelfLife,
+8191311,Franchise,BT
+90655800,MinRemainingShelfLife,
+90655800,TotalShelfLife,
+90656000,MinRemainingShelfLife,
+90656000,TotalShelfLife,
+90183303,TotalShelfLife,
+90183303,MinRemainingShelfLife,
+90183802,MinRemainingShelfLife,
+90048501,Franchise,BT
+8017709,MinRemainingShelfLife,
+8017709,TotalShelfLife,
+8192306,Franchise,BT
+1132405,Franchise,OR
+2168114,Franchise,WH
+90049202,Franchise,BT
+6409308,TotalShelfLife,
+1092405,MinRemainingShelfLife,
+1092405,TotalShelfLife,
+9295606,MinRemainingShelfLife,
+9295606,TotalShelfLife,
+90663100,MinRemainingShelfLife,
+90663100,TotalShelfLife,
+2658901,Franchise,BT
+6238007,Franchise,OR
+8192605,Franchise,BT
+3923211,PlanningHierarchy5,CF
+3923211,PlanningHierarchy1,LNRS
+90050800,Franchise,BT
+9777302,Franchise,WH
+9343504,Franchise,BT
+9286402,Franchise,BT
+9907404,PlanningHierarchy1,ADLT MTWSH
+90102600,Franchise,BT
+90050400,PlanningHierarchy5,LPM
+90050400,PlanningHierarchy1,ADTL BOD CLNS
+90095200,PlanningHierarchy5,LPM
+2908201,Franchise,WH
+90095200,PlanningHierarchy1,ADTL BOD CLNS
+8025406,Franchise,OR
+5197516,TotalShelfLife,
+5193920,MinRemainingShelfLife,
+7684707,Franchise,OR
+5193920,TotalShelfLife,
+5197516,MinRemainingShelfLife,
+8191706,Franchise,BT
+6109810,MinRemainingShelfLife,
+8192207,Franchise,BT
+9431100,Franchise,BB
+6409308,MinRemainingShelfLife,
+2907701,Franchise,WH
+6109810,TotalShelfLife,
+6109911,MinRemainingShelfLife,
+6109911,TotalShelfLife,
+6121510,MinRemainingShelfLife,
+6479010,MinRemainingShelfLife,
+6121510,TotalShelfLife,
+8191611,Franchise,BT
+90383904,TotalShelfLife,
+90417003,MinRemainingShelfLife,
+90383904,MinRemainingShelfLife,
+90183902,MinRemainingShelfLife,
+9341105,Franchise,BT
+90183902,TotalShelfLife,
+90184102,MinRemainingShelfLife,
+90183802,TotalShelfLife,
+90184102,TotalShelfLife,
+2172804,Franchise,WH
+2779603,Franchise,BT
+8853705,MinRemainingShelfLife,
+8853705,TotalShelfLife,
+90247002,TotalShelfLife,
+90250103,MinRemainingShelfLife,
+90250103,TotalShelfLife,
+90250202,MinRemainingShelfLife,
+90250202,TotalShelfLife,
+9907804,PlanningHierarchy1,ADLT MTWSH
+6651815,PlanningHierarchy1,ADLT MTWSH
+90238802,MinRemainingShelfLife,
+2907604,Franchise,WH
+8573407,Franchise,OR
+9814704,PlanningHierarchy1,ADLT MTWSH
+9907504,PlanningHierarchy1,ADLT MTWSH
+90093000,PlanningHierarchy5,LPM
+90093000,PlanningHierarchy1,ADTL BOD CLNS
+90102500,PlanningHierarchy5,LPM
+90102500,PlanningHierarchy1,ADTL BOD CLNS
+90094800,PlanningHierarchy5,LPM
+90094800,PlanningHierarchy1,ADTL BOD CLNS
+1969115,Franchise,WH
+1969115,PlanningHierarchy5,CF
+1969115,PlanningHierarchy1,LNRS
+90320200,PlanningHierarchy1,BB BOD CR OIL
+90417003,TotalShelfLife,
+90420302,MinRemainingShelfLife,
+90420302,TotalShelfLife,
+90420701,MinRemainingShelfLife,
+90420701,TotalShelfLife,
+90246702,MinRemainingShelfLife,
+90246702,TotalShelfLife,
+90246902,MinRemainingShelfLife,
+90679800,MinRemainingShelfLife,
+90050700,PlanningHierarchy5,LPM
+90050700,PlanningHierarchy1,ADTL BOD CLNS
+90679800,TotalShelfLife,
+90246902,TotalShelfLife,
+90247002,MinRemainingShelfLife,
+4022402,PlanningHierarchy1,BB CTN
+9284003,Franchise,BT
+9284003,PlanningHierarchy5,JA
+9284003,PlanningHierarchy1,ADTL BOD CLNS
+4019803,PlanningHierarchy1,BB CTN
+4020002,PlanningHierarchy1,BB CTN
+4016303,PlanningHierarchy1,BB CTN
+90491301,TotalShelfLife,
+90491301,MinRemainingShelfLife,
+7090806,PlanningHierarchy5,OX
+7860008,PlanningHierarchy5,OX
+90238802,TotalShelfLife,
+90238902,MinRemainingShelfLife,
+90238902,TotalShelfLife,
+90497101,MinRemainingShelfLife,
+90497101,TotalShelfLife,
+90497201,MinRemainingShelfLife,
+90497201,TotalShelfLife,
+90561801,MinRemainingShelfLife,
+90094101,PlanningHierarchy1,ADTL BOD CLNS
+90284302,PlanningHierarchy5,JA
+90284302,PlanningHierarchy1,ADTL BOD CLNS
+90094101,PlanningHierarchy5,LPM
+90091301,PlanningHierarchy5,LPM
+90091301,PlanningHierarchy1,ADTL BOD CLNS
+90284202,PlanningHierarchy1,ADTL BOD CLNS
+90106301,PlanningHierarchy5,LPM
+90106301,PlanningHierarchy1,ADTL BOD CLNS
+90284202,PlanningHierarchy5,JA
+90342900,MinRemainingShelfLife,
+90562001,MinRemainingShelfLife,
+90562001,TotalShelfLife,
+90561801,TotalShelfLife,
+90561901,MinRemainingShelfLife,
+90561901,TotalShelfLife,
+90679400,PlanningHierarchy5,JB
+90679400,PlanningHierarchy1,BB BOD CR OIL
+90103001,PlanningHierarchy5,LPM
+90103001,PlanningHierarchy1,ADTL BOD CLNS
+90284402,PlanningHierarchy5,JA
+90284402,PlanningHierarchy1,ADTL BOD CLNS
+90106401,PlanningHierarchy5,LPM
+90342900,TotalShelfLife,
+90343000,MinRemainingShelfLife,
+90343000,TotalShelfLife,
+2172804,PlanningHierarchy1,LNRS
+2779603,PlanningHierarchy1,SHP
+2779703,PlanningHierarchy1,SHP
+90106401,PlanningHierarchy1,ADTL BOD CLNS
+90311903,PlanningHierarchy1,SHP
+90311903,PlanningHierarchy5,LPM
+90679800,PlanningHierarchy5,PNT
+90679800,PlanningHierarchy1,BB BOD CR OIL
+90284101,PlanningHierarchy5,JA
+90106501,PlanningHierarchy1,ADTL BOD CLNS
+90284101,PlanningHierarchy1,ADTL BOD CLNS
+90106501,PlanningHierarchy5,LPM
+90927800,MinRemainingShelfLife,
+90927800,TotalShelfLife,
+8853705,PlanningHierarchy5,LPM
+8853705,PlanningHierarchy1,SHP
+7090405,PlanningHierarchy5,OX
+7090405,PlanningHierarchy1,SHP
+8191706,PlanningHierarchy5,JA
+8191706,PlanningHierarchy1,ADTL BOD CLNS
+90102700,PlanningHierarchy5,LPM
+90102700,PlanningHierarchy1,ADTL BOD CLNS
+2790804,PlanningHierarchy5,LPM
+2790804,PlanningHierarchy1,SHP
+6633906,PlanningHierarchy5,OX
+6633906,PlanningHierarchy1,SHP
+90140800,Franchise,BT
+90048400,Franchise,BT
+90048400,PlanningHierarchy5,LPM
+90048400,PlanningHierarchy1,HND SOP
+90625700,PlanningHierarchy5,LST
+90625700,PlanningHierarchy1,ADLT MTWSH
+9313400,Franchise,BB
+9313400,PlanningHierarchy5,JB
+9313400,PlanningHierarchy1,BB CLNS LQ
+90565101,MinRemainingShelfLife,
+90565302,MinRemainingShelfLife,
+90565101,TotalShelfLife,
+90565302,TotalShelfLife,
+90565201,MinRemainingShelfLife,
+90565201,TotalShelfLife,
+90587700,Franchise,BT
+4912302,Franchise,BB
+4912302,PlanningHierarchy5,AVN BB
+4912302,PlanningHierarchy1,BB CLNS LQ
+9449702,MinRemainingShelfLife,
+90674000,MinRemainingShelfLife,
+90674000,TotalShelfLife,
+9286402,PlanningHierarchy5,JA
+9286402,PlanningHierarchy1,ADTL BOD CLNS
+1090304,Franchise,BT
+1090304,PlanningHierarchy5,JA
+90705200,MinRemainingShelfLife,
+90705200,TotalShelfLife,
+1090304,PlanningHierarchy1,ADTL BOD CLNS
+9449702,TotalShelfLife,
+8930602,PlanningHierarchy1,LNRS
+1500404,MinRemainingShelfLife,
+1500404,TotalShelfLife,
+90783700,TotalShelfLife,
+90048902,Franchise,BT
+90262101,PlanningHierarchy5,LST
+90262101,PlanningHierarchy1,ADLT MTWSH
+4675504,PlanningHierarchy5,LST
+4675504,PlanningHierarchy1,ADLT MTWSH
+8776502,MinRemainingShelfLife,
+8776502,TotalShelfLife,
+8776603,MinRemainingShelfLife,
+8776603,TotalShelfLife,
+8776702,MinRemainingShelfLife,
+8776702,TotalShelfLife,
+6563708,MinRemainingShelfLife,
+90436700,PlanningHierarchy5,LPM
+90436600,PlanningHierarchy5,LPM
+5400202,TotalShelfLife,
+5903603,TotalShelfLife,
+5903705,MinRemainingShelfLife,
+5400402,MinRemainingShelfLife,
+5400402,TotalShelfLife,
+5903603,MinRemainingShelfLife,
+5903705,TotalShelfLife,
+90436700,MinRemainingShelfLife,
+90436700,TotalShelfLife,
+90783600,TotalShelfLife,
+90783700,MinRemainingShelfLife,
+90783500,MinRemainingShelfLife,
+90783500,TotalShelfLife,
+90783600,MinRemainingShelfLife,
+4671605,MinRemainingShelfLife,
+5494202,Franchise,WH
+5500602,Franchise,WH
+5489102,Franchise,WH
+8776603,Franchise,WH
+8776502,Franchise,WH
+5462101,Franchise,WH
+5481001,Franchise,WH
+5480002,Franchise,WH
+5462001,Franchise,WH
+8776702,Franchise,WH
+5461901,Franchise,WH
+5470001,Franchise,WH
+8776802,Franchise,WH
+5491702,Franchise,WH
+5500602,MinRemainingShelfLife,
+5461901,MinRemainingShelfLife,
+5461901,TotalShelfLife,
+5462001,MinRemainingShelfLife,
+5462001,TotalShelfLife,
+5462101,MinRemainingShelfLife,
+5462101,TotalShelfLife,
+5470001,MinRemainingShelfLife,
+5500602,TotalShelfLife,
+6563708,TotalShelfLife,
+6563806,MinRemainingShelfLife,
+6563806,TotalShelfLife,
+2907502,Franchise,WH
+2907202,Franchise,WH
+5471702,Franchise,WH
+90597801,MinRemainingShelfLife,
+90597801,TotalShelfLife,
+90597901,MinRemainingShelfLife,
+90597901,TotalShelfLife,
+5470001,TotalShelfLife,
+5481001,MinRemainingShelfLife,
+4671605,TotalShelfLife,
+4675504,MinRemainingShelfLife,
+5400202,MinRemainingShelfLife,
+4675504,TotalShelfLife,
+5481001,TotalShelfLife,
+5489102,MinRemainingShelfLife,
+5489102,TotalShelfLife,
+5491702,MinRemainingShelfLife,
+5491702,TotalShelfLife,
+5494202,MinRemainingShelfLife,
+5494202,TotalShelfLife,
+9779304,MinRemainingShelfLife,
+9779304,TotalShelfLife,
+9815805,MinRemainingShelfLife,
+9815805,TotalShelfLife,
+9770906,MinRemainingShelfLife,
+9770906,TotalShelfLife,
+90436700,PlanningHierarchy1,SHP
+90788800,TotalShelfLife,
+4671605,PlanningHierarchy5,LST
+90788800,MinRemainingShelfLife,
+4671605,PlanningHierarchy1,ADLT MTWSH
+90450900,PlanningHierarchy5,LPM
+2907906,PlanningHierarchy5,CF
+90504301,MinRemainingShelfLife,
+9437203,TotalShelfLife,
+9776603,PlanningHierarchy5,CF
+8776802,TotalShelfLife,
+8776802,MinRemainingShelfLife,
+7987311,MinRemainingShelfLife,
+7987311,TotalShelfLife,
+90422501,PlanningHierarchy5,LPM
+2908405,TotalShelfLife,
+2899702,MinRemainingShelfLife,
+2899702,TotalShelfLife,
+2907906,MinRemainingShelfLife,
+2907906,TotalShelfLife,
+2908405,MinRemainingShelfLife,
+90005102,PlanningHierarchy5,CF
+90078503,PlanningHierarchy5,LPM
+90078403,PlanningHierarchy5,LPM
+90049404,PlanningHierarchy5,LPM
+9817806,PlanningHierarchy5,CF
+90052204,PlanningHierarchy5,LPM
+3640004,MinRemainingShelfLife,
+3640004,TotalShelfLife,
+9818406,PlanningHierarchy5,CF
+90048004,PlanningHierarchy5,LPM
+90805600,MinRemainingShelfLife,
+9818106,PlanningHierarchy5,CF
+9818105,PlanningHierarchy5,CF
+90044203,PlanningHierarchy5,LPM
+90193601,Franchise,OR
+90078203,PlanningHierarchy5,LPM
+9959105,PlanningHierarchy5,CF
+90238101,MinRemainingShelfLife,
+90238101,TotalShelfLife,
+2899702,PlanningHierarchy5,CF
+2908405,PlanningHierarchy5,CF
+90046104,PlanningHierarchy5,LPM
+90044103,PlanningHierarchy5,LPM
+90045003,PlanningHierarchy5,LPM
+90078303,PlanningHierarchy5,LPM
+90049303,PlanningHierarchy5,LPM
+90109001,MinRemainingShelfLife,
+90109001,TotalShelfLife,
+90114101,MinRemainingShelfLife,
+90114101,TotalShelfLife,
+90805600,TotalShelfLife,
+9959106,PlanningHierarchy5,CF
+90504301,TotalShelfLife,
+90504402,MinRemainingShelfLife,
+90504402,TotalShelfLife,
+90504501,MinRemainingShelfLife,
+90504501,TotalShelfLife,
+90504601,MinRemainingShelfLife,
+90504601,TotalShelfLife,
+90504701,MinRemainingShelfLife,
+90504701,TotalShelfLife,
+90504801,MinRemainingShelfLife,
+90238101,PlanningHierarchy5,VN
+90422601,PlanningHierarchy5,LPM
+2908405,Franchise,WH
+90044103,Franchise,BT
+90078303,Franchise,BT
+90049303,Franchise,BT
+90422501,Franchise,BT
+90005102,Franchise,WH
+90078503,Franchise,BT
+90078403,Franchise,BT
+90049404,Franchise,BT
+90045003,Franchise,BT
+9959106,Franchise,WH
+9817806,Franchise,WH
+90052204,Franchise,BT
+9818106,Franchise,WH
+9818406,Franchise,WH
+90048004,Franchise,BT
+9818105,Franchise,WH
+6611415,PlanningHierarchy5,LST
+6611415,PlanningHierarchy1,ADLT MTWSH
+90044203,Franchise,BT
+90078203,Franchise,BT
+9959105,Franchise,WH
+90046104,Franchise,BT
+90103001,MinRemainingShelfLife,
+90437102,PlanningHierarchy5,LST
+5217325,PlanningHierarchy5,LST
+5217325,PlanningHierarchy1,ADLT MTWSH
+7671406,PlanningHierarchy5,LST
+7671406,PlanningHierarchy1,ADLT MTWSH
+90437102,PlanningHierarchy1,ADLT MTWSH
+90103001,TotalShelfLife,
+90106301,MinRemainingShelfLife,
+90078503,TotalShelfLife,
+90106301,TotalShelfLife,
+90106401,MinRemainingShelfLife,
+90078303,MinRemainingShelfLife,
+90106401,TotalShelfLife,
+90078303,TotalShelfLife,
+90078403,MinRemainingShelfLife,
+90078403,TotalShelfLife,
+90078503,MinRemainingShelfLife,
+90078203,MinRemainingShelfLife,
+90078203,TotalShelfLife,
+8146905,PlanningHierarchy5,OX
+8146905,PlanningHierarchy1,SHP
+8146105,PlanningHierarchy5,OX
+8146105,PlanningHierarchy1,CND
+8146705,PlanningHierarchy5,OX
+8146705,PlanningHierarchy1,CND
+90545901,TotalShelfLife,
+90504801,TotalShelfLife,
+90504901,MinRemainingShelfLife,
+90504901,TotalShelfLife,
+90091301,MinRemainingShelfLife,
+90091301,TotalShelfLife,
+90094101,MinRemainingShelfLife,
+90094101,TotalShelfLife,
+8146808,PlanningHierarchy5,OX
+8146808,PlanningHierarchy1,SHP
+90545801,MinRemainingShelfLife,
+90545801,TotalShelfLife,
+90545901,MinRemainingShelfLife,
+9814905,PlanningHierarchy5,LST
+9814905,PlanningHierarchy1,ADLT MTWSH
+90034302,Franchise,WH
+90106501,MinRemainingShelfLife,
+90106501,TotalShelfLife,
+90284101,MinRemainingShelfLife,
+90284101,TotalShelfLife,
+90284202,MinRemainingShelfLife,
+90284202,TotalShelfLife,
+90284302,MinRemainingShelfLife,
+90284302,TotalShelfLife,
+90284402,MinRemainingShelfLife,
+90284402,TotalShelfLife,
+90909900,PlanningHierarchy5,LST
+90909900,PlanningHierarchy1,ADLT MTWSH
+90422501,MinRemainingShelfLife,
+90422501,TotalShelfLife,
+90422601,MinRemainingShelfLife,
+90422601,TotalShelfLife,
+90193201,PlanningHierarchy5,LST
+90193201,PlanningHierarchy1,ADLT MTWSH
+90238301,Franchise,OR
+90238301,PlanningHierarchy5,LST
+90238301,PlanningHierarchy1,KDS MTWSH
+90193601,PlanningHierarchy5,LST
+90193601,PlanningHierarchy1,ADLT MTWSH
+90193201,Franchise,OR
+9959105,MinRemainingShelfLife,
+9959105,TotalShelfLife,
+9959106,MinRemainingShelfLife,
+9959106,TotalShelfLife,
+9776603,PlanningHierarchy1,LNRS
+90048004,TotalShelfLife,
+90048004,MinRemainingShelfLife,
+90049303,MinRemainingShelfLife,
+90049303,TotalShelfLife,
+90049404,MinRemainingShelfLife,
+90049404,TotalShelfLife,
+90052204,MinRemainingShelfLife,
+90052204,TotalShelfLife,
+90044103,MinRemainingShelfLife,
+90034902,Franchise,WH
+90044103,TotalShelfLife,
+90044203,MinRemainingShelfLife,
+90044203,TotalShelfLife,
+90045003,MinRemainingShelfLife,
+5903806,MinRemainingShelfLife,
+5903806,TotalShelfLife,
+5904002,MinRemainingShelfLife,
+90045003,TotalShelfLife,
+90320200,MinRemainingShelfLife,
+90320200,TotalShelfLife,
+90046104,MinRemainingShelfLife,
+90046104,TotalShelfLife,
+9487502,MinRemainingShelfLife,
+9487502,TotalShelfLife,
+90005102,MinRemainingShelfLife,
+90005102,TotalShelfLife,
+9817806,MinRemainingShelfLife,
+9817806,TotalShelfLife,
+9818105,MinRemainingShelfLife,
+9818105,TotalShelfLife,
+9818106,MinRemainingShelfLife,
+9818106,TotalShelfLife,
+9818406,MinRemainingShelfLife,
+9818406,TotalShelfLife,
+90450900,MinRemainingShelfLife,
+90450900,TotalShelfLife,
+5904002,TotalShelfLife,
+5904203,MinRemainingShelfLife,
+8930602,PlanningHierarchy5,CF
+67106,PlanningHierarchy5,VN
+90034402,PlanningHierarchy5,VN
+8930602,MinRemainingShelfLife,
+8930602,TotalShelfLife,
+90034502,PlanningHierarchy5,VN
+90034902,PlanningHierarchy5,VN
+90034302,PlanningHierarchy5,VN
+8930802,PlanningHierarchy5,VN
+90910000,PlanningHierarchy5,LST
+90910000,PlanningHierarchy1,ADLT MTWSH
+9436703,MinRemainingShelfLife,
+4828902,MinRemainingShelfLife,
+4828902,TotalShelfLife,
+4830002,MinRemainingShelfLife,
+4830002,TotalShelfLife,
+90053402,MinRemainingShelfLife,
+90053402,TotalShelfLife,
+90053505,MinRemainingShelfLife,
+90053505,TotalShelfLife,
+90053604,MinRemainingShelfLife,
+90053604,TotalShelfLife,
+90047902,MinRemainingShelfLife,
+90047902,TotalShelfLife,
+90048602,MinRemainingShelfLife,
+90048602,TotalShelfLife,
+90048704,MinRemainingShelfLife,
+90048704,TotalShelfLife,
+90052102,MinRemainingShelfLife,
+90052102,TotalShelfLife,
+90052205,MinRemainingShelfLife,
+90052205,TotalShelfLife,
+90052304,MinRemainingShelfLife,
+90052304,TotalShelfLife,
+90927800,PlanningHierarchy5,LST
+90927800,PlanningHierarchy1,ADLT MTWSH
+7090806,MinRemainingShelfLife,
+7090806,TotalShelfLife,
+7090906,MinRemainingShelfLife,
+7090906,TotalShelfLife,
+7859808,MinRemainingShelfLife,
+7859808,TotalShelfLife,
+7860008,MinRemainingShelfLife,
+7860008,TotalShelfLife,
+90048005,MinRemainingShelfLife,
+90048005,TotalShelfLife,
+90048104,MinRemainingShelfLife,
+90048104,TotalShelfLife,
+90048805,MinRemainingShelfLife,
+90048805,TotalShelfLife,
+90034502,PlanningHierarchy1,LNRS
+4311003,MinRemainingShelfLife,
+4311003,TotalShelfLife,
+90422501,PlanningHierarchy1,ADTL BOD CLNS
+90049404,PlanningHierarchy1,ADTL BOD CLNS
+90034902,PlanningHierarchy1,LNRS
+9817806,PlanningHierarchy1,LNRS
+90034302,PlanningHierarchy1,LNRS
+90005102,PlanningHierarchy1,LNRS
+90078503,PlanningHierarchy1,ADTL BOD CLNS
+90078403,PlanningHierarchy1,ADTL BOD CLNS
+90052204,PlanningHierarchy1,ADTL BOD CLNS
+9818106,PlanningHierarchy1,LNRS
+9818406,PlanningHierarchy1,LNRS
+90048004,PlanningHierarchy1,ADTL BOD CLNS
+9818105,PlanningHierarchy1,LNRS
+90044203,PlanningHierarchy1,ADTL BOD CLNS
+90078203,PlanningHierarchy1,ADTL BOD CLNS
+9770906,PlanningHierarchy1,LNRS
+9959105,PlanningHierarchy1,LNRS
+90046104,PlanningHierarchy1,ADTL BOD CLNS
+90809200,MinRemainingShelfLife,
+90809200,TotalShelfLife,
+366907,PlanningHierarchy5,LST
+366907,PlanningHierarchy1,ADLT MTWSH
+90521402,PlanningHierarchy5,LST
+8930802,PlanningHierarchy1,LNRS
+90521402,PlanningHierarchy1,ADLT MTWSH
+9815805,PlanningHierarchy1,LNRS
+90450700,PlanningHierarchy1,ADTL BOD CLNS
+90436600,PlanningHierarchy1,SHP
+90238101,PlanningHierarchy1,LNRS
+5494202,PlanningHierarchy1,LNRS
+5462101,PlanningHierarchy1,LNRS
+5481001,PlanningHierarchy1,LNRS
+2907502,PlanningHierarchy1,LNRS
+5480002,PlanningHierarchy1,LNRS
+5462001,PlanningHierarchy1,LNRS
+5491702,PlanningHierarchy1,LNRS
+5500602,PlanningHierarchy1,LNRS
+5489102,PlanningHierarchy1,LNRS
+90109001,PlanningHierarchy1,LNRS
+90422601,PlanningHierarchy1,ADTL BOD CLNS
+2907906,PlanningHierarchy1,LNRS
+90114101,PlanningHierarchy1,LNRS
+9779304,PlanningHierarchy1,LNRS
+90491500,MinRemainingShelfLife,
+90491500,TotalShelfLife,
+90491600,MinRemainingShelfLife,
+90491600,TotalShelfLife,
+90450900,PlanningHierarchy1,ADTL BOD CLNS
+9770906,Franchise,WH
+9815805,Franchise,WH
+67106,PlanningHierarchy1,LNRS
+90034402,PlanningHierarchy1,LNRS
+5110401,MinRemainingShelfLife,
+5110401,TotalShelfLife,
+90109001,Franchise,WH
+90114101,Franchise,WH
+9779304,Franchise,WH
+90292601,PlanningHierarchy1,ADLT BOD MST
+8776603,PlanningHierarchy1,LNRS
+2899702,PlanningHierarchy1,LNRS
+8776502,PlanningHierarchy1,LNRS
+2907202,PlanningHierarchy1,LNRS
+8776702,PlanningHierarchy1,LNRS
+5466101,PlanningHierarchy1,LNRS
+5461901,PlanningHierarchy1,LNRS
+5470001,PlanningHierarchy1,LNRS
+8776802,PlanningHierarchy1,LNRS
+9436703,TotalShelfLife,
+5465703,PlanningHierarchy1,LNRS
+5465702,PlanningHierarchy1,LNRS
+5471702,PlanningHierarchy1,LNRS
+5471703,PlanningHierarchy1,LNRS
+2908405,PlanningHierarchy1,LNRS
+90044103,PlanningHierarchy1,ADTL BOD CLNS
+90078303,PlanningHierarchy1,ADTL BOD CLNS
+90049303,PlanningHierarchy1,ADTL BOD CLNS
+90045003,PlanningHierarchy1,ADTL BOD CLNS
+9959106,PlanningHierarchy1,LNRS
+4303202,Franchise,OR
+4305003,Franchise,OR
+8930602,Franchise,WH
+5110401,PlanningHierarchy5,LST
+90048104,PlanningHierarchy5,LPM
+90048005,PlanningHierarchy5,LPM
+90491500,PlanningHierarchy5,LPM
+4311003,PlanningHierarchy5,LST
+8930802,Franchise,WH
+90491600,PlanningHierarchy5,LPM
+90053402,PlanningHierarchy5,LPM
+90048805,PlanningHierarchy5,LPM
+90048602,PlanningHierarchy5,LPM
+90052304,PlanningHierarchy5,LPM
+90480200,Franchise,BT
+90478700,Franchise,BT
+90478900,Franchise,BT
+90053505,PlanningHierarchy5,LPM
+90048704,PlanningHierarchy5,LPM
+90052102,PlanningHierarchy5,LPM
+90047902,PlanningHierarchy5,LPM
+90052205,PlanningHierarchy5,LPM
+90053604,PlanningHierarchy5,LPM
+7090906,Franchise,BT
+7859808,Franchise,BT
+7090806,Franchise,BT
+7860008,Franchise,BT
+67106,MinRemainingShelfLife,
+67106,TotalShelfLife,
+5904503,MinRemainingShelfLife,
+5904503,TotalShelfLife,
+5904203,TotalShelfLife,
+5904403,MinRemainingShelfLife,
+5904403,TotalShelfLife,
+5904703,MinRemainingShelfLife,
+90292601,MinRemainingShelfLife,
+90292601,TotalShelfLife,
+90034302,MinRemainingShelfLife,
+90034302,TotalShelfLife,
+90034402,MinRemainingShelfLife,
+90034402,TotalShelfLife,
+8930802,TotalShelfLife,
+8930802,MinRemainingShelfLife,
+90034502,MinRemainingShelfLife,
+90034502,TotalShelfLife,
+90034902,MinRemainingShelfLife,
+90034902,TotalShelfLife,
+9437203,MinRemainingShelfLife,
+8146705,MinRemainingShelfLife,
+8146705,TotalShelfLife,
+8146808,MinRemainingShelfLife,
+8146105,MinRemainingShelfLife,
+8146105,TotalShelfLife,
+8146808,TotalShelfLife,
+8146905,MinRemainingShelfLife,
+8146905,TotalShelfLife,
+90587500,PlanningHierarchy5,NTG
+90587500,PlanningHierarchy1,ADLT BOD MST
+7125521,PlanningHierarchy5,LST
+90276401,PlanningHierarchy5,LPM
+90809400,PlanningHierarchy5,PNT
+9504501,PlanningHierarchy1,BB CLNS LQ
+90039903,Franchise,OR
+7125412,Franchise,OR
+3016813,Franchise,BT
+90823600,MinRemainingShelfLife,
+90823600,TotalShelfLife,
+90823700,MinRemainingShelfLife,
+90823700,TotalShelfLife,
+90823800,MinRemainingShelfLife,
+90745200,PlanningHierarchy5,JB
+90745200,PlanningHierarchy1,BB CTN
+5904703,TotalShelfLife,
+90276201,PlanningHierarchy5,LPM
+90276201,PlanningHierarchy1,HND SOP
+90370101,PlanningHierarchy5,LPM
+90370101,PlanningHierarchy1,HND SOP
+7671206,PlanningHierarchy5,LST
+7671206,PlanningHierarchy1,ADLT MTWSH
+90525302,PlanningHierarchy5,LST
+90525302,PlanningHierarchy1,ADLT MTWSH
+9088508,PlanningHierarchy5,LST
+9088508,PlanningHierarchy1,ADLT MTWSH
+7125521,PlanningHierarchy1,ADLT MTWSH
+90276401,PlanningHierarchy1,HND SOP
+7671606,PlanningHierarchy1,ADLT MTWSH
+7223009,Franchise,OR
+7223009,PlanningHierarchy5,LST
+7223009,PlanningHierarchy1,ADLT MTWSH
+90525600,PlanningHierarchy5,JB
+90539300,PlanningHierarchy5,LST
+90539600,PlanningHierarchy5,LST
+5217920,PlanningHierarchy5,LST
+9152406,PlanningHierarchy5,LST
+5135110,PlanningHierarchy1,ADLT MTWSH
+6354516,PlanningHierarchy5,LST
+90520902,PlanningHierarchy5,LST
+90520902,PlanningHierarchy1,ADLT MTWSH
+5135110,PlanningHierarchy5,LST
+90587600,PlanningHierarchy5,NTG
+90587600,PlanningHierarchy1,ADLT BOD MST
+8323405,Franchise,OR
+8323405,PlanningHierarchy5,LST
+8323405,PlanningHierarchy1,ADLT MTWSH
+1500504,Franchise,OR
+1500504,PlanningHierarchy5,LST
+1500504,PlanningHierarchy1,ADLT MTWSH
+1930306,Franchise,OR
+1930306,PlanningHierarchy5,LST
+1930306,PlanningHierarchy1,ADLT MTWSH
+689116,MinRemainingShelfLife,
+689116,TotalShelfLife,
+90383802,Franchise,OR
+90539500,PlanningHierarchy5,LST
+9454803,PlanningHierarchy5,JB
+8674205,Franchise,OR
+90170401,Franchise,OR
+90170401,PlanningHierarchy5,LST
+90170401,PlanningHierarchy1,ADLT MTWSH
+7222807,PlanningHierarchy5,LST
+7222807,PlanningHierarchy1,ADLT MTWSH
+8674205,PlanningHierarchy5,LST
+8674205,PlanningHierarchy1,ADLT MTWSH
+1930706,Franchise,OR
+1930706,PlanningHierarchy5,LST
+1930706,PlanningHierarchy1,ADLT MTWSH
+7758806,Franchise,OR
+7758806,PlanningHierarchy5,LST
+7758806,PlanningHierarchy1,ADLT MTWSH
+90809400,PlanningHierarchy1,BB BOD CR OIL
+9152606,Franchise,OR
+8921904,Franchise,OR
+90823800,TotalShelfLife,
+90823900,MinRemainingShelfLife,
+90823900,TotalShelfLife,
+9432502,PlanningHierarchy5,JB
+6354516,PlanningHierarchy1,ADLT MTWSH
+90039804,PlanningHierarchy5,LST
+90039804,PlanningHierarchy1,ADLT MTWSH
+90521602,PlanningHierarchy5,LST
+90521602,PlanningHierarchy1,ADLT MTWSH
+6611510,PlanningHierarchy5,LST
+6611510,PlanningHierarchy1,ADLT MTWSH
+366706,PlanningHierarchy5,LST
+366706,PlanningHierarchy1,ADLT MTWSH
+5559118,PlanningHierarchy5,LST
+5559118,PlanningHierarchy1,ADLT MTWSH
+9430405,PlanningHierarchy5,JB
+3963003,PlanningHierarchy5,JB
+3963003,PlanningHierarchy1,BB SHP
+1930706,MinRemainingShelfLife,
+1930706,TotalShelfLife,
+90520802,PlanningHierarchy5,LST
+90520802,PlanningHierarchy1,ADLT MTWSH
+90525402,PlanningHierarchy5,LST
+90525402,PlanningHierarchy1,ADLT MTWSH
+5134911,PlanningHierarchy5,LST
+5134911,PlanningHierarchy1,ADLT MTWSH
+90275901,PlanningHierarchy5,LPM
+5559816,PlanningHierarchy5,LST
+5559816,PlanningHierarchy1,ADLT MTWSH
+90601501,PlanningHierarchy5,LST
+90601501,PlanningHierarchy1,ADLT MTWSH
+90521202,PlanningHierarchy5,LST
+90521202,PlanningHierarchy1,ADLT MTWSH
+90040004,PlanningHierarchy5,LST
+90040004,PlanningHierarchy1,ADLT MTWSH
+1930306,MinRemainingShelfLife,
+1930306,TotalShelfLife,
+9400606,PlanningHierarchy1,ADLT MTWSH
+7125715,PlanningHierarchy5,LST
+7125715,PlanningHierarchy1,ADLT MTWSH
+9400606,PlanningHierarchy5,LST
+9430405,PlanningHierarchy1,BB SHP
+90275901,PlanningHierarchy1,HND SOP
+9152806,TotalShelfLife,
+9152806,MinRemainingShelfLife,
+9504502,PlanningHierarchy5,JB
+9504502,PlanningHierarchy1,BB CLNS LQ
+7125714,MinRemainingShelfLife,
+7125714,TotalShelfLife,
+7382223,MinRemainingShelfLife,
+7382223,TotalShelfLife,
+7222807,MinRemainingShelfLife,
+5217920,Franchise,OR
+9432502,PlanningHierarchy1,BB SHP
+90280802,PlanningHierarchy1,ADTL BOD CLNS
+90280802,PlanningHierarchy5,LPM
+90048302,Franchise,BT
+90046402,Franchise,BT
+7671606,TotalShelfLife,
+7758806,MinRemainingShelfLife,
+9152406,Franchise,OR
+90181801,MinRemainingShelfLife,
+90181801,TotalShelfLife,
+90183102,MinRemainingShelfLife,
+90183102,TotalShelfLife,
+90183501,MinRemainingShelfLife,
+90183501,TotalShelfLife,
+90537000,PlanningHierarchy1,ADLT MTWSH
+9430506,PlanningHierarchy1,BB SHP
+90539500,PlanningHierarchy1,ADLT MTWSH
+9454803,PlanningHierarchy1,BB CLNS LQ
+1500504,MinRemainingShelfLife,
+1500504,TotalShelfLife,
+90539600,PlanningHierarchy1,ADLT MTWSH
+90525600,PlanningHierarchy1,BB CLNS LQ
+90539300,PlanningHierarchy1,ADLT MTWSH
+90183701,TotalShelfLife,
+90184001,MinRemainingShelfLife,
+90184001,TotalShelfLife,
+90183701,MinRemainingShelfLife,
+90184301,MinRemainingShelfLife,
+90184301,TotalShelfLife,
+90184501,MinRemainingShelfLife,
+90184501,TotalShelfLife,
+90184701,MinRemainingShelfLife,
+90184701,TotalShelfLife,
+7223009,TotalShelfLife,
+7671306,MinRemainingShelfLife,
+7671306,TotalShelfLife,
+90788500,MinRemainingShelfLife,
+90788500,TotalShelfLife,
+7222807,TotalShelfLife,
+7223009,MinRemainingShelfLife,
+7671606,MinRemainingShelfLife,
+90539900,PlanningHierarchy1,ADLT MTWSH
+90539400,PlanningHierarchy1,ADLT MTWSH
+5217324,Franchise,OR
+7125314,Franchise,OR
+5419733,Franchise,OR
+9731308,Franchise,OR
+9088406,TotalShelfLife,
+9088406,MinRemainingShelfLife,
+90536400,PlanningHierarchy1,ADLT MTWSH
+9428506,PlanningHierarchy1,BB BOD CR LTN
+4071504,Franchise,OR
+4071504,PlanningHierarchy5,LST
+90383802,TotalShelfLife,
+90184803,PlanningHierarchy5,LST
+90184803,PlanningHierarchy1,ADLT MTWSH
+4071504,PlanningHierarchy1,ADLT MTWSH
+4973002,Franchise,OR
+4973002,PlanningHierarchy5,LST
+4973002,PlanningHierarchy1,ADLT MTWSH
+90193502,Franchise,OR
+90193502,PlanningHierarchy5,LST
+90193502,PlanningHierarchy1,ADLT MTWSH
+90238401,Franchise,OR
+90238401,PlanningHierarchy5,LST
+90238401,PlanningHierarchy1,ADLT MTWSH
+8323405,TotalShelfLife,
+7758806,TotalShelfLife,
+8674205,MinRemainingShelfLife,
+8674205,TotalShelfLife,
+8323405,MinRemainingShelfLife,
+90557800,PlanningHierarchy5,LPM
+90557700,PlanningHierarchy5,LPM
+2565702,PlanningHierarchy5,JA
+2565702,PlanningHierarchy1,BOD CLNS ALL OTH
+2565207,PlanningHierarchy1,BOD CLNS ALL OTH
+9434904,PlanningHierarchy5,JB
+9434904,PlanningHierarchy1,BB SHP
+2971002,PlanningHierarchy5,JA
+2971002,PlanningHierarchy1,HND SOP
+2565207,PlanningHierarchy5,JA
+9328405,PlanningHierarchy1,BB BOD CR LTN
+9430304,PlanningHierarchy1,BB SHP
+90170401,MinRemainingShelfLife,
+90170401,TotalShelfLife,
+90383802,MinRemainingShelfLife,
+7222516,Franchise,OR
+9430806,PlanningHierarchy5,JB
+9430806,PlanningHierarchy1,BB SHP
+90865000,PlanningHierarchy5,LST
+90865000,PlanningHierarchy1,ADLT MTWSH
+6354421,Franchise,OR
+90040003,Franchise,OR
+7125520,Franchise,OR
+9731408,Franchise,OR
+90574001,PlanningHierarchy1,SHP
+90513001,PlanningHierarchy5,OX
+7125714,Franchise,OR
+7382223,Franchise,OR
+9152806,Franchise,OR
+6354515,Franchise,OR
+2971102,PlanningHierarchy5,JA
+2971102,PlanningHierarchy1,HND SOP
+2971202,PlanningHierarchy5,JA
+2971202,PlanningHierarchy1,HND SOP
+2971302,PlanningHierarchy5,JA
+2971302,PlanningHierarchy1,HND SOP
+9431205,PlanningHierarchy5,JB
+9431205,PlanningHierarchy1,BB SHP
+90539700,PlanningHierarchy1,ADLT MTWSH
+90540100,PlanningHierarchy1,KDS MTWSH
+90539100,PlanningHierarchy1,ADLT MTWSH
+9430506,PlanningHierarchy5,JB
+90537000,PlanningHierarchy5,LST
+9431304,PlanningHierarchy5,JB
+9431304,PlanningHierarchy1,BB SHP
+9583503,PlanningHierarchy5,JB
+9583503,PlanningHierarchy1,BB CLNS LQ
+90301303,MinRemainingShelfLife,
+90301303,TotalShelfLife,
+90194201,MinRemainingShelfLife,
+9432004,PlanningHierarchy5,JB
+9432004,PlanningHierarchy1,BB SHP
+2905104,PlanningHierarchy5,CF
+2905104,PlanningHierarchy1,LNRS
+90086803,PlanningHierarchy5,LPM
+90086803,PlanningHierarchy1,ADTL BOD CLNS
+9430805,PlanningHierarchy1,BB SHP
+9428705,PlanningHierarchy1,BB BOD CR LTN
+90540000,PlanningHierarchy1,ADLT MTWSH
+90536300,PlanningHierarchy1,ADLT MTWSH
+9437203,PlanningHierarchy1,BB SHP
+3016813,PlanningHierarchy5,C&C
+9152606,PlanningHierarchy5,LST
+7125412,PlanningHierarchy5,LST
+4071504,MinRemainingShelfLife,
+5419620,Franchise,OR
+7125812,Franchise,OR
+9152906,Franchise,OR
+90093303,PlanningHierarchy5,LPM
+90093303,PlanningHierarchy1,ADTL BOD CLNS
+90238401,TotalShelfLife,
+90193201,TotalShelfLife,
+90193502,MinRemainingShelfLife,
+90193502,TotalShelfLife,
+90193601,MinRemainingShelfLife,
+90193601,TotalShelfLife,
+90193201,MinRemainingShelfLife,
+9430304,PlanningHierarchy5,JB
+90566000,MinRemainingShelfLife,
+90566000,TotalShelfLife,
+9328405,PlanningHierarchy5,JB
+90539700,PlanningHierarchy5,LST
+2675506,PlanningHierarchy5,CF
+2675506,PlanningHierarchy1,LNRS
+4973002,TotalShelfLife,
+4071504,TotalShelfLife,
+4973002,MinRemainingShelfLife,
+9435603,PlanningHierarchy5,JB
+9435603,PlanningHierarchy1,BB SHP
+9328105,PlanningHierarchy5,JB
+9328105,PlanningHierarchy1,BB BOD CR LTN
+90539400,PlanningHierarchy5,LST
+90539900,PlanningHierarchy5,LST
+9428506,PlanningHierarchy5,JB
+90184803,MinRemainingShelfLife,
+90184803,TotalShelfLife,
+90238301,MinRemainingShelfLife,
+90238301,TotalShelfLife,
+90238401,MinRemainingShelfLife,
+90536400,PlanningHierarchy5,LST
+90536200,PlanningHierarchy5,LST
+9755406,PlanningHierarchy5,PNT
+9755406,PlanningHierarchy1,BB CLNS LQ
+90539100,PlanningHierarchy5,LST
+6611510,TotalShelfLife,
+7671206,MinRemainingShelfLife,
+7671206,TotalShelfLife,
+90053202,PlanningHierarchy5,LPM
+9755207,PlanningHierarchy5,PNT
+9755207,PlanningHierarchy1,BB SHP
+5133511,MinRemainingShelfLife,
+90039805,PlanningHierarchy1,ADLT MTWSH
+90039805,PlanningHierarchy5,LST
+5135110,TotalShelfLife,
+5217325,MinRemainingShelfLife,
+5133511,TotalShelfLife,
+5134911,MinRemainingShelfLife,
+5134911,TotalShelfLife,
+5135110,MinRemainingShelfLife,
+90053202,PlanningHierarchy1,ADTL BOD CLNS
+90594100,PlanningHierarchy5,JB
+90594100,PlanningHierarchy1,BB SHP
+90276101,PlanningHierarchy5,LPM
+90276101,PlanningHierarchy1,HND SOP
+90194201,TotalShelfLife,
+366706,MinRemainingShelfLife,
+366706,TotalShelfLife,
+8180710,PlanningHierarchy5,LST
+8180710,PlanningHierarchy1,MDC MTWSH
+5217325,TotalShelfLife,
+5217921,MinRemainingShelfLife,
+5217921,TotalShelfLife,
+366907,MinRemainingShelfLife,
+366907,TotalShelfLife,
+5559118,MinRemainingShelfLife,
+5559118,TotalShelfLife,
+5559816,MinRemainingShelfLife,
+5559816,TotalShelfLife,
+6354516,MinRemainingShelfLife,
+6354516,TotalShelfLife,
+6414511,MinRemainingShelfLife,
+6414511,TotalShelfLife,
+6999211,MinRemainingShelfLife,
+6999211,TotalShelfLife,
+6611415,MinRemainingShelfLife,
+6611415,TotalShelfLife,
+6611510,MinRemainingShelfLife,
+90437002,MinRemainingShelfLife,
+90436803,MinRemainingShelfLife,
+90436803,TotalShelfLife,
+9088508,TotalShelfLife,
+9196608,MinRemainingShelfLife,
+9196608,TotalShelfLife,
+9088508,MinRemainingShelfLife,
+90276701,PlanningHierarchy5,LPM
+90276701,PlanningHierarchy1,HND SOP
+9400606,MinRemainingShelfLife,
+9400606,TotalShelfLife,
+90039804,MinRemainingShelfLife,
+90872200,PlanningHierarchy5,JB
+90872200,PlanningHierarchy1,BB SHP
+689116,PlanningHierarchy5,C&C
+689116,PlanningHierarchy1,ACN FCL CLNS
+90040004,MinRemainingShelfLife,
+90040004,TotalShelfLife,
+90039804,TotalShelfLife,
+90039904,MinRemainingShelfLife,
+90039904,TotalShelfLife,
+90536500,PlanningHierarchy5,LST
+90869200,PlanningHierarchy5,LST
+90869200,PlanningHierarchy1,ADLT MTWSH
+90250803,PlanningHierarchy5,LST
+90250803,PlanningHierarchy1,ADLT MTWSH
+90536200,PlanningHierarchy1,ADLT MTWSH
+90536500,PlanningHierarchy1,ADLT MTWSH
+90262101,MinRemainingShelfLife,
+90262101,TotalShelfLife,
+7125413,TotalShelfLife,
+7125521,MinRemainingShelfLife,
+7125521,TotalShelfLife,
+7125315,MinRemainingShelfLife,
+7125315,TotalShelfLife,
+7125413,MinRemainingShelfLife,
+90525700,PlanningHierarchy1,BB CLNS LQ
+6354421,PlanningHierarchy5,LST
+7671406,MinRemainingShelfLife,
+7125715,MinRemainingShelfLife,
+7125715,TotalShelfLife,
+7671406,TotalShelfLife,
+9422502,PlanningHierarchy5,JB
+9422502,PlanningHierarchy1,BB CLNS LQ
+90520702,MinRemainingShelfLife,
+90520802,MinRemainingShelfLife,
+90520802,TotalShelfLife,
+90520702,TotalShelfLife,
+90326802,PlanningHierarchy1,HND SOP
+90276002,PlanningHierarchy5,LPM
+90326802,PlanningHierarchy5,LPM
+90809400,MinRemainingShelfLife,
+90521102,TotalShelfLife,
+90521202,MinRemainingShelfLife,
+90520902,MinRemainingShelfLife,
+90520902,TotalShelfLife,
+90521002,MinRemainingShelfLife,
+90521002,TotalShelfLife,
+90521102,MinRemainingShelfLife,
+90275601,PlanningHierarchy5,LPM
+90275601,PlanningHierarchy1,HND SOP
+90809400,TotalShelfLife,
+90587700,PlanningHierarchy5,NTG
+90587700,PlanningHierarchy1,ADLT BOD MST
+90521402,TotalShelfLife,
+90521202,TotalShelfLife,
+90521302,MinRemainingShelfLife,
+90521302,TotalShelfLife,
+90521602,MinRemainingShelfLife,
+90521602,TotalShelfLife,
+90521702,MinRemainingShelfLife,
+90521402,MinRemainingShelfLife,
+2905704,PlanningHierarchy5,CF
+2905704,PlanningHierarchy1,LNRS
+9430805,PlanningHierarchy5,JB
+90525302,MinRemainingShelfLife,
+90521702,TotalShelfLife,
+90525302,TotalShelfLife,
+90525402,MinRemainingShelfLife,
+90525402,TotalShelfLife,
+90601501,MinRemainingShelfLife,
+90601501,TotalShelfLife,
+90437002,TotalShelfLife,
+90437102,MinRemainingShelfLife,
+90437102,TotalShelfLife,
+2168115,PlanningHierarchy5,CF
+2168115,PlanningHierarchy1,LNRS
+90275401,PlanningHierarchy1,HND SOP
+9428705,PlanningHierarchy5,JB
+90370201,PlanningHierarchy5,LPM
+90370201,PlanningHierarchy1,HND SOP
+7125714,PlanningHierarchy5,LST
+9152806,PlanningHierarchy5,LST
+7125314,PlanningHierarchy5,LST
+7222516,PlanningHierarchy5,LST
+90040003,PlanningHierarchy5,LST
+90276002,PlanningHierarchy1,HND SOP
+90275701,PlanningHierarchy5,LPM
+90276302,PlanningHierarchy5,LPM
+90276302,PlanningHierarchy1,HND SOP
+90275401,PlanningHierarchy5,LPM
+90275701,PlanningHierarchy1,HND SOP
+9731308,PlanningHierarchy5,LST
+90536300,PlanningHierarchy5,LST
+9437203,PlanningHierarchy5,JB
+9450001,PlanningHierarchy5,JB
+2675308,PlanningHierarchy5,CF
+2675308,PlanningHierarchy1,LNRS
+7382223,PlanningHierarchy5,LST
+6354515,PlanningHierarchy5,LST
+9755605,PlanningHierarchy5,PNT
+9755605,PlanningHierarchy1,BB CLNS LQ
+9423501,PlanningHierarchy5,JB
+9961402,PlanningHierarchy5,PNT
+9430704,PlanningHierarchy5,JB
+9430704,PlanningHierarchy1,BB SHP
+90520301,MinRemainingShelfLife,
+90520301,TotalShelfLife,
+8921904,PlanningHierarchy5,LST
+90561100,PlanningHierarchy5,LPM
+90557900,PlanningHierarchy5,LPM
+9961402,PlanningHierarchy1,BB CLNS LQ
+9424301,PlanningHierarchy5,JB
+9776805,PlanningHierarchy5,CF
+9776805,PlanningHierarchy1,LNRS
+5419733,PlanningHierarchy5,LST
+90715500,PlanningHierarchy5,LST
+90715500,PlanningHierarchy1,ADLT MTWSH
+90525700,PlanningHierarchy5,JB
+8250508,PlanningHierarchy5,LST
+8250508,PlanningHierarchy1,ADLT MTWSH
+5217324,PlanningHierarchy5,LST
+7125520,PlanningHierarchy5,LST
+9731408,PlanningHierarchy5,LST
+90545700,PlanningHierarchy5,NTG
+90545700,PlanningHierarchy1,FCL TN
+5419620,PlanningHierarchy5,LST
+9435504,PlanningHierarchy1,BB SHP
+9435504,PlanningHierarchy5,JB
+7222517,PlanningHierarchy5,LST
+7222517,PlanningHierarchy1,ADLT MTWSH
+3809418,PlanningHierarchy5,CF
+3809418,PlanningHierarchy1,LNRS
+9430705,PlanningHierarchy5,JB
+9430705,PlanningHierarchy1,BB SHP
+9777303,PlanningHierarchy5,CF
+9777303,PlanningHierarchy1,LNRS
+9504501,PlanningHierarchy5,JB
+9424401,PlanningHierarchy5,JB
+90566000,PlanningHierarchy5,PNT
+9328009,PlanningHierarchy1,BB BOD CR LTN
+9434213,PlanningHierarchy5,JB
+9434213,PlanningHierarchy1,BB SHP
+4912404,PlanningHierarchy5,AVN BB
+4912404,PlanningHierarchy1,BB CLNS LQ
+2908003,PlanningHierarchy5,CF
+2908003,PlanningHierarchy1,LNRS
+90714100,MinRemainingShelfLife,
+90714100,TotalShelfLife,
+90714200,TotalShelfLife,
+90714300,MinRemainingShelfLife,
+90714200,MinRemainingShelfLife,
+9791603,PlanningHierarchy5,JB
+9791603,PlanningHierarchy1,BB SHP
+2675407,PlanningHierarchy5,CF
+2675407,PlanningHierarchy1,LNRS
+90575101,PlanningHierarchy1,CND
+8912904,PlanningHierarchy5,LST
+8912702,PlanningHierarchy5,LST
+8876104,PlanningHierarchy5,LST
+9432802,PlanningHierarchy5,JB
+9432802,PlanningHierarchy1,BB SHP
+2483006,PlanningHierarchy5,CF
+2908406,PlanningHierarchy1,LNRS
+1282005,PlanningHierarchy5,CF
+1282005,PlanningHierarchy1,LNRS
+2908406,PlanningHierarchy5,CF
+7222517,MinRemainingShelfLife,
+7222517,TotalShelfLife,
+8250508,MinRemainingShelfLife,
+8250508,TotalShelfLife,
+9328009,PlanningHierarchy5,JB
+2886502,PlanningHierarchy5,NTG
+2886502,PlanningHierarchy1,ADLT BOD MST
+4911504,PlanningHierarchy5,AVN BB
+4911504,PlanningHierarchy1,BB CLNS LQ
+5902204,PlanningHierarchy5,LST
+5902204,PlanningHierarchy1,ADLT MTWSH
+2907604,PlanningHierarchy5,CF
+2907604,PlanningHierarchy1,LNRS
+2675207,PlanningHierarchy5,CF
+2675207,PlanningHierarchy1,LNRS
+90250803,MinRemainingShelfLife,
+90250803,TotalShelfLife,
+90745300,PlanningHierarchy5,JB
+90745300,PlanningHierarchy1,BB CTN
+7125812,PlanningHierarchy5,LST
+9152906,PlanningHierarchy5,LST
+1639405,PlanningHierarchy5,LST
+90632401,PlanningHierarchy5,OX
+90632401,PlanningHierarchy1,CND
+90832400,PlanningHierarchy5,LST
+90832400,PlanningHierarchy1,ADLT MTWSH
+90832500,PlanningHierarchy5,LST
+90513001,PlanningHierarchy1,SHP
+2483006,PlanningHierarchy1,LNRS
+1815903,PlanningHierarchy5,JB
+1815903,PlanningHierarchy1,BB CLNS LQ
+2882205,PlanningHierarchy1,BB SHP
+2882205,PlanningHierarchy5,JB
+90540100,PlanningHierarchy5,LST
+90540000,PlanningHierarchy5,LST
+90520301,PlanningHierarchy5,OX
+90520301,PlanningHierarchy1,SHP
+90005205,PlanningHierarchy1,LNRS
+90005205,PlanningHierarchy5,CF
+90823300,MinRemainingShelfLife,
+90823300,TotalShelfLife,
+90823200,MinRemainingShelfLife,
+90823200,TotalShelfLife,
+9431108,PlanningHierarchy1,BB SHP
+9431108,PlanningHierarchy5,JB
+1400600,MinRemainingShelfLife,
+1400600,TotalShelfLife,
+1400900,MinRemainingShelfLife,
+1400900,TotalShelfLife,
+1416202,MinRemainingShelfLife,
+1416202,TotalShelfLife,
+1466302,MinRemainingShelfLife,
+1466302,TotalShelfLife,
+1467601,MinRemainingShelfLife,
+1467601,TotalShelfLife,
+2658901,MinRemainingShelfLife,
+2658901,TotalShelfLife,
+8959905,PlanningHierarchy5,SF
+8959905,PlanningHierarchy1,LNRS
+2659201,MinRemainingShelfLife,
+2659201,TotalShelfLife,
+2683903,MinRemainingShelfLife,
+2683903,TotalShelfLife,
+2685702,MinRemainingShelfLife,
+2685702,TotalShelfLife,
+2168114,MinRemainingShelfLife,
+2168114,TotalShelfLife,
+1132305,MinRemainingShelfLife,
+1132305,TotalShelfLife,
+1132405,MinRemainingShelfLife,
+1132405,TotalShelfLife,
+1090304,MinRemainingShelfLife,
+1090304,TotalShelfLife,
+127404,MinRemainingShelfLife,
+127404,TotalShelfLife,
+2907203,PlanningHierarchy5,CF
+2907203,PlanningHierarchy1,LNRS
+1969115,MinRemainingShelfLife,
+1969115,TotalShelfLife,
+1969215,MinRemainingShelfLife,
+1969215,TotalShelfLife,
+1016416,MinRemainingShelfLife,
+1016416,TotalShelfLife,
+3065712,MinRemainingShelfLife,
+3065712,TotalShelfLife,
+2745003,MinRemainingShelfLife,
+2745003,TotalShelfLife,
+6057314,Franchise,WH
+90301302,Franchise,BB
+8959605,PlanningHierarchy1,LNRS
+8959605,PlanningHierarchy5,SF
+4711111,MinRemainingShelfLife,
+4711111,TotalShelfLife,
+2907701,MinRemainingShelfLife,
+2907701,TotalShelfLife,
+2904601,MinRemainingShelfLife,
+2904601,TotalShelfLife,
+2904801,MinRemainingShelfLife,
+2904801,TotalShelfLife,
+2908101,MinRemainingShelfLife,
+2908101,TotalShelfLife,
+2908201,MinRemainingShelfLife,
+2908201,TotalShelfLife,
+9817008,PlanningHierarchy5,CF
+9817008,PlanningHierarchy1,LNRS
+4848002,MinRemainingShelfLife,
+4848002,TotalShelfLife,
+4848602,MinRemainingShelfLife,
+4848602,TotalShelfLife,
+2899901,MinRemainingShelfLife,
+2899901,TotalShelfLife,
+2899401,MinRemainingShelfLife,
+2899401,TotalShelfLife,
+3682519,MinRemainingShelfLife,
+3682519,TotalShelfLife,
+2908601,MinRemainingShelfLife,
+2908601,TotalShelfLife,
+90714400,TotalShelfLife,
+90714500,MinRemainingShelfLife,
+90714500,TotalShelfLife,
+90714300,TotalShelfLife,
+90714400,MinRemainingShelfLife,
+6053415,PlanningHierarchy1,LNRS
+6053415,PlanningHierarchy5,CF
+2905901,MinRemainingShelfLife,
+2905501,MinRemainingShelfLife,
+2905501,TotalShelfLife,
+2905601,MinRemainingShelfLife,
+2905601,TotalShelfLife,
+2905901,TotalShelfLife,
+5166900,MinRemainingShelfLife,
+5166900,TotalShelfLife,
+7125412,PlanningHierarchy1,ADLT MTWSH
+3016813,PlanningHierarchy1,ACN FCL CLNS
+90039903,PlanningHierarchy1,ADLT MTWSH
+3809416,MinRemainingShelfLife,
+3809416,TotalShelfLife,
+90574001,PlanningHierarchy5,OX
+3881511,MinRemainingShelfLife,
+3881511,TotalShelfLife,
+3923211,MinRemainingShelfLife,
+3923211,TotalShelfLife,
+3834621,MinRemainingShelfLife,
+3834621,TotalShelfLife,
+90383802,PlanningHierarchy1,ADLT MTWSH
+4910600,MinRemainingShelfLife,
+4910600,TotalShelfLife,
+4910801,MinRemainingShelfLife,
+4910801,TotalShelfLife,
+4912302,MinRemainingShelfLife,
+4912302,TotalShelfLife,
+4912501,MinRemainingShelfLife,
+4912501,TotalShelfLife,
+90715300,TotalShelfLife,
+90715200,MinRemainingShelfLife,
+90715200,TotalShelfLife,
+90715300,MinRemainingShelfLife,
+4996200,MinRemainingShelfLife,
+4996200,TotalShelfLife,
+4830001,MinRemainingShelfLife,
+4830001,TotalShelfLife,
+6652114,MinRemainingShelfLife,
+6652114,TotalShelfLife,
+9152606,PlanningHierarchy1,KDS MTWSH
+90715500,MinRemainingShelfLife,
+90715500,TotalShelfLife,
+90715600,MinRemainingShelfLife,
+6238007,MinRemainingShelfLife,
+6238007,TotalShelfLife,
+6109710,MinRemainingShelfLife,
+6109710,TotalShelfLife,
+90715400,MinRemainingShelfLife,
+90715400,TotalShelfLife,
+9504501,MinRemainingShelfLife,
+9504501,TotalShelfLife,
+5217920,PlanningHierarchy1,ADLT MTWSH
+9152406,PlanningHierarchy1,KDS MTWSH
+8921904,PlanningHierarchy1,ADLT MTWSH
+9424401,TotalShelfLife,
+9450001,MinRemainingShelfLife,
+9450001,TotalShelfLife,
+90715600,TotalShelfLife,
+90715700,MinRemainingShelfLife,
+90715700,TotalShelfLife,
+7223209,MinRemainingShelfLife,
+7223209,TotalShelfLife,
+9424301,MinRemainingShelfLife,
+9424301,TotalShelfLife,
+9424401,MinRemainingShelfLife,
+9423501,MinRemainingShelfLife,
+9423501,TotalShelfLife,
+8356603,MinRemainingShelfLife,
+8356603,TotalShelfLife,
+90637601,PlanningHierarchy5,LST
+90637601,PlanningHierarchy1,ADLT MTWSH
+7968207,MinRemainingShelfLife,
+7968207,TotalShelfLife,
+90816300,PlanningHierarchy5,LST
+90816300,PlanningHierarchy1,ADLT MTWSH
+7684707,MinRemainingShelfLife,
+7684707,TotalShelfLife,
+2907503,PlanningHierarchy5,CF
+2907503,PlanningHierarchy1,LNRS
+9328405,MinRemainingShelfLife,
+9328405,TotalShelfLife,
+9430304,MinRemainingShelfLife,
+9430304,TotalShelfLife,
+9437003,MinRemainingShelfLife,
+9437003,TotalShelfLife,
+9437303,MinRemainingShelfLife,
+9437303,TotalShelfLife,
+7963106,MinRemainingShelfLife,
+7963106,TotalShelfLife,
+7321708,MinRemainingShelfLife,
+7321708,TotalShelfLife,
+7321808,MinRemainingShelfLife,
+7321808,TotalShelfLife,
+90311903,MinRemainingShelfLife,
+90311903,TotalShelfLife,
+8025306,MinRemainingShelfLife,
+8025306,TotalShelfLife,
+8025406,MinRemainingShelfLife,
+8025406,TotalShelfLife,
+8573407,TotalShelfLife,
+8959605,MinRemainingShelfLife,
+8959605,TotalShelfLife,
+8959905,MinRemainingShelfLife,
+8959905,TotalShelfLife,
+9428506,MinRemainingShelfLife,
+9428506,TotalShelfLife,
+9428705,MinRemainingShelfLife,
+9428705,TotalShelfLife,
+8191706,MinRemainingShelfLife,
+8191706,TotalShelfLife,
+8192005,MinRemainingShelfLife,
+8192005,TotalShelfLife,
+8192207,MinRemainingShelfLife,
+8192207,TotalShelfLife,
+7382223,PlanningHierarchy1,ADLT MTWSH
+6354515,PlanningHierarchy1,ADLT MTWSH
+5419620,PlanningHierarchy1,ADLT MTWSH
+8845205,MinRemainingShelfLife,
+8845205,TotalShelfLife,
+8573407,MinRemainingShelfLife,
+8192306,MinRemainingShelfLife,
+8192306,TotalShelfLife,
+8192605,MinRemainingShelfLife,
+8192605,TotalShelfLife,
+8191311,MinRemainingShelfLife,
+8191311,TotalShelfLife,
+8191406,MinRemainingShelfLife,
+8191406,TotalShelfLife,
+8191611,MinRemainingShelfLife,
+8191611,TotalShelfLife,
+5217324,PlanningHierarchy1,ADLT MTWSH
+7125314,PlanningHierarchy1,ADLT MTWSH
+8192805,MinRemainingShelfLife,
+8192805,TotalShelfLife,
+90729400,MinRemainingShelfLife,
+90729400,TotalShelfLife,
+90557800,PlanningHierarchy1,ADTL BOD CLNS
+90561100,PlanningHierarchy1,ADTL BOD CLNS
+8193005,MinRemainingShelfLife,
+8193005,TotalShelfLife,
+90557900,PlanningHierarchy1,ADTL BOD CLNS
+8193205,MinRemainingShelfLife,
+8193205,TotalShelfLife,
+90040003,PlanningHierarchy1,ADLT MTWSH
+7125520,PlanningHierarchy1,ADLT MTWSH
+9731408,PlanningHierarchy1,ADLT MTWSH
+7222516,PlanningHierarchy1,ADLT MTWSH
+6354421,PlanningHierarchy1,ADLT MTWSH
+7125812,PlanningHierarchy1,ADLT MTWSH
+9152906,PlanningHierarchy1,KDS MTWSH
+90557700,PlanningHierarchy1,ADTL BOD CLNS
+5419733,PlanningHierarchy1,ADLT MTWSH
+9731308,PlanningHierarchy1,ADLT MTWSH
+8323607,MinRemainingShelfLife,
+8323607,TotalShelfLife,
+90796600,PlanningHierarchy5,LPM BB
+90796600,PlanningHierarchy1,BB CLNS LQ
+7125714,PlanningHierarchy1,ADLT MTWSH
+9152806,PlanningHierarchy1,KDS MTWSH
+90796700,PlanningHierarchy1,BB CLNS LQ
+9298104,MinRemainingShelfLife,
+9298104,TotalShelfLife,
+90796700,PlanningHierarchy5,LPM BB
+9313400,MinRemainingShelfLife,
+9313400,TotalShelfLife,
+9314001,MinRemainingShelfLife,
+9314001,TotalShelfLife,
+90805500,PlanningHierarchy5,LST
+90805500,PlanningHierarchy1,ADLT MTWSH
+8931001,MinRemainingShelfLife,
+90909600,PlanningHierarchy1,ADLT MTWSH
+90909600,PlanningHierarchy5,LST
+90566000,PlanningHierarchy1,BB BOD CR LTN
+8931001,TotalShelfLife,
+9285702,MinRemainingShelfLife,
+9285702,TotalShelfLife,
+9285801,MinRemainingShelfLife,
+9285801,TotalShelfLife,
+9286402,MinRemainingShelfLife,
+9286402,TotalShelfLife,
+9286501,MinRemainingShelfLife,
+9286501,TotalShelfLife,
+8912904,PlanningHierarchy1,ADLT MTWSH
+8912702,PlanningHierarchy1,ADLT MTWSH
+8930701,MinRemainingShelfLife,
+8930701,TotalShelfLife,
+8876104,PlanningHierarchy1,ADLT MTWSH
+8931601,MinRemainingShelfLife,
+8931601,TotalShelfLife,
+9343504,MinRemainingShelfLife,
+9343504,TotalShelfLife,
+9343602,MinRemainingShelfLife,
+9343602,TotalShelfLife,
+9343704,MinRemainingShelfLife,
+9343704,TotalShelfLife,
+9298004,MinRemainingShelfLife,
+9298004,TotalShelfLife,
+8573507,MinRemainingShelfLife,
+8573507,TotalShelfLife,
+8573607,MinRemainingShelfLife,
+8573607,TotalShelfLife,
+8573707,MinRemainingShelfLife,
+8573707,TotalShelfLife,
+2908407,PlanningHierarchy5,CF
+2908407,PlanningHierarchy1,LNRS
+1639405,PlanningHierarchy1,ADLT MTWSH
+9341105,MinRemainingShelfLife,
+9341105,TotalShelfLife,
+9327201,MinRemainingShelfLife,
+9327201,TotalShelfLife,
+9449501,MinRemainingShelfLife,
+9449501,TotalShelfLife,
+9280205,MinRemainingShelfLife,
+9280205,TotalShelfLife,
+9280305,MinRemainingShelfLife,
+9280305,TotalShelfLife,
+1282005,MinRemainingShelfLife,
+1282005,TotalShelfLife,
+9431100,MinRemainingShelfLife,
+9431100,TotalShelfLife,
+9427102,MinRemainingShelfLife,
+9427102,TotalShelfLife,
+9064100,MinRemainingShelfLife,
+9064100,TotalShelfLife,
+9064300,MinRemainingShelfLife,
+9064300,TotalShelfLife,
+8698209,MinRemainingShelfLife,
+8698209,TotalShelfLife,
+9437400,MinRemainingShelfLife,
+9437400,TotalShelfLife,
+9437500,MinRemainingShelfLife,
+9437500,TotalShelfLife,
+9425300,MinRemainingShelfLife,
+9425300,TotalShelfLife,
+9422800,MinRemainingShelfLife,
+9422800,TotalShelfLife,
+9282402,MinRemainingShelfLife,
+9282402,TotalShelfLife,
+9282902,MinRemainingShelfLife,
+9282902,TotalShelfLife,
+9283603,MinRemainingShelfLife,
+9283603,TotalShelfLife,
+9328600,MinRemainingShelfLife,
+9328600,TotalShelfLife,
+8698310,MinRemainingShelfLife,
+9438900,MinRemainingShelfLife,
+9438900,TotalShelfLife,
+8698310,TotalShelfLife,
+8699405,MinRemainingShelfLife,
+8699405,TotalShelfLife,
+90513201,PlanningHierarchy5,OX
+90513201,PlanningHierarchy1,CND
+90575101,PlanningHierarchy5,OX
+9439000,MinRemainingShelfLife,
+9439000,TotalShelfLife,
+9283902,MinRemainingShelfLife,
+9283902,TotalShelfLife,
+9284003,MinRemainingShelfLife,
+9284003,TotalShelfLife,
+9284403,MinRemainingShelfLife,
+9284403,TotalShelfLife,
+9436900,MinRemainingShelfLife,
+9436900,TotalShelfLife,
+9423601,MinRemainingShelfLife,
+9423601,TotalShelfLife,
+9423701,MinRemainingShelfLife,
+9423701,TotalShelfLife,
+9424000,MinRemainingShelfLife,
+9424000,TotalShelfLife,
+9437102,MinRemainingShelfLife,
+9437102,TotalShelfLife,
+9437103,MinRemainingShelfLife,
+9437103,TotalShelfLife,
+9778302,MinRemainingShelfLife,
+9778302,TotalShelfLife,
+9430806,MinRemainingShelfLife,
+9430806,TotalShelfLife,
+9431205,MinRemainingShelfLife,
+9431205,TotalShelfLife,
+9434904,MinRemainingShelfLife,
+9434904,TotalShelfLife,
+9435504,MinRemainingShelfLife,
+9435504,TotalShelfLife,
+9504502,MinRemainingShelfLife,
+9504502,TotalShelfLife,
+9817904,MinRemainingShelfLife,
+9817904,TotalShelfLife,
+9775502,MinRemainingShelfLife,
+9775502,TotalShelfLife,
+9777302,MinRemainingShelfLife,
+9777302,TotalShelfLife,
+90504902,PlanningHierarchy5,NTG
+90504902,PlanningHierarchy1,ACN FCL CLNS
+9728602,MinRemainingShelfLife,
+9728602,TotalShelfLife,
+90796600,MinRemainingShelfLife,
+90796600,TotalShelfLife,
+90796700,MinRemainingShelfLife,
+90796700,TotalShelfLife,
+9813002,MinRemainingShelfLife,
+9813002,TotalShelfLife,
+9818203,MinRemainingShelfLife,
+9818203,TotalShelfLife,
+9776602,MinRemainingShelfLife,
+9776602,TotalShelfLife,
+9436400,MinRemainingShelfLife,
+9436400,TotalShelfLife,
+9436500,MinRemainingShelfLife,
+9436500,TotalShelfLife,
+9436600,MinRemainingShelfLife,
+9436600,TotalShelfLife,
+90738200,TotalShelfLife,
+90738100,MinRemainingShelfLife,
+90738100,TotalShelfLife,
+90738200,MinRemainingShelfLife,
+2907702,PlanningHierarchy5,CF
+2907702,PlanningHierarchy1,LNRS
+2675207,MinRemainingShelfLife,
+2675207,TotalShelfLife,
+90370102,PlanningHierarchy5,LPM
+90370102,PlanningHierarchy1,HND SOP
+90909800,PlanningHierarchy5,LST
+90909800,PlanningHierarchy1,ADLT MTWSH
+1815903,MinRemainingShelfLife,
+2565702,TotalShelfLife,
+90091200,MinRemainingShelfLife,
+90091200,TotalShelfLife,
+90091800,MinRemainingShelfLife,
+90091800,TotalShelfLife,
+90092000,MinRemainingShelfLife,
+90092000,TotalShelfLife,
+90102500,MinRemainingShelfLife,
+90102500,TotalShelfLife,
+90102600,MinRemainingShelfLife,
+90102600,TotalShelfLife,
+90049100,MinRemainingShelfLife,
+90049100,TotalShelfLife,
+2565207,TotalShelfLife,
+2565702,MinRemainingShelfLife,
+2483006,MinRemainingShelfLife,
+2483006,TotalShelfLife,
+2565207,MinRemainingShelfLife,
+90557700,Franchise,BT
+90087000,MinRemainingShelfLife,
+90087000,TotalShelfLife,
+90039200,MinRemainingShelfLife,
+90039200,TotalShelfLife,
+2675407,TotalShelfLife,
+2675308,MinRemainingShelfLife,
+2675308,TotalShelfLife,
+2675407,MinRemainingShelfLife,
+90048400,MinRemainingShelfLife,
+90048400,TotalShelfLife,
+90102700,MinRemainingShelfLife,
+90102700,TotalShelfLife,
+90102800,MinRemainingShelfLife,
+90102800,TotalShelfLife,
+1815903,TotalShelfLife,
+90557900,Franchise,BT
+90805500,MinRemainingShelfLife,
+90049900,MinRemainingShelfLife,
+90049900,TotalShelfLife,
+90050000,MinRemainingShelfLife,
+90050000,TotalShelfLife,
+90050400,MinRemainingShelfLife,
+90050400,TotalShelfLife,
+90805500,TotalShelfLife,
+90050700,MinRemainingShelfLife,
+90050700,TotalShelfLife,
+90050800,MinRemainingShelfLife,
+90050800,TotalShelfLife,
+90557800,Franchise,BT
+90561100,Franchise,BT
+90093800,MinRemainingShelfLife,
+90093800,TotalShelfLife,
+90094600,MinRemainingShelfLife,
+90094600,TotalShelfLife,
+90514000,Franchise,OR
+6057413,Franchise,WH
+90034800,MinRemainingShelfLife,
+90034800,TotalShelfLife,
+90094800,MinRemainingShelfLife,
+90094800,TotalShelfLife,
+90095000,MinRemainingShelfLife,
+90095000,TotalShelfLife,
+90095100,MinRemainingShelfLife,
+90095100,TotalShelfLife,
+90095200,MinRemainingShelfLife,
+90095200,TotalShelfLife,
+90156500,MinRemainingShelfLife,
+90156500,TotalShelfLife,
+90092100,MinRemainingShelfLife,
+90092100,TotalShelfLife,
+90092400,MinRemainingShelfLife,
+90092400,TotalShelfLife,
+90092600,MinRemainingShelfLife,
+90092600,TotalShelfLife,
+90092900,MinRemainingShelfLife,
+90092900,TotalShelfLife,
+90093000,MinRemainingShelfLife,
+90093000,TotalShelfLife,
+90745200,MinRemainingShelfLife,
+90745200,TotalShelfLife,
+90745300,MinRemainingShelfLife,
+90745300,TotalShelfLife,
+90637601,MinRemainingShelfLife,
+90637601,TotalShelfLife,
+90816300,MinRemainingShelfLife,
+90816300,TotalShelfLife,
+90540000,TotalShelfLife,
+90540000,MinRemainingShelfLife,
+1639405,TotalShelfLife,
+1639405,MinRemainingShelfLife,
+6354421,MinRemainingShelfLife,
+6354421,TotalShelfLife,
+6354515,MinRemainingShelfLife,
+6354515,TotalShelfLife,
+5419733,TotalShelfLife,
+5217324,MinRemainingShelfLife,
+5217324,TotalShelfLife,
+5217920,MinRemainingShelfLife,
+5217920,TotalShelfLife,
+5419620,MinRemainingShelfLife,
+5419620,TotalShelfLife,
+5419733,MinRemainingShelfLife,
+3016813,MinRemainingShelfLife,
+3016813,TotalShelfLife,
+9776603,MinRemainingShelfLife,
+7125314,MinRemainingShelfLife,
+7125314,TotalShelfLife,
+7125812,MinRemainingShelfLife,
+7125812,TotalShelfLife,
+7222516,MinRemainingShelfLife,
+7222516,TotalShelfLife,
+6053415,MinRemainingShelfLife,
+6053415,TotalShelfLife,
+7125412,MinRemainingShelfLife,
+7125412,TotalShelfLife,
+7125520,MinRemainingShelfLife,
+7125520,TotalShelfLife,
+90714200,PlanningHierarchy5,LST
+90714300,PlanningHierarchy1,ADLT MTWSH
+90714300,PlanningHierarchy5,LST
+8921904,TotalShelfLife,
+9776603,TotalShelfLife,
+9817008,MinRemainingShelfLife,
+9817008,TotalShelfLife,
+8876104,TotalShelfLife,
+8912702,MinRemainingShelfLife,
+8912702,TotalShelfLife,
+8876104,MinRemainingShelfLife,
+8912904,TotalShelfLife,
+8912904,MinRemainingShelfLife,
+8921904,MinRemainingShelfLife,
+90714200,PlanningHierarchy1,ADLT MTWSH
+90714100,PlanningHierarchy5,LST
+90714100,PlanningHierarchy1,ADLT MTWSH
+90715400,PlanningHierarchy5,LST
+90715400,PlanningHierarchy1,ADLT MTWSH
+9152406,MinRemainingShelfLife,
+9152406,TotalShelfLife,
+9152606,MinRemainingShelfLife,
+9152606,TotalShelfLife,
+90674000,PlanningHierarchy5,JA
+90674000,PlanningHierarchy1,ADTL BOD CLNS
+90705200,PlanningHierarchy5,LST
+90705200,PlanningHierarchy1,ADLT MTWSH
+9731408,MinRemainingShelfLife,
+9731408,TotalShelfLife,
+9152906,MinRemainingShelfLife,
+9152906,TotalShelfLife,
+90738200,PlanningHierarchy5,LST
+90738200,PlanningHierarchy1,ADLT MTWSH
+9731308,MinRemainingShelfLife,
+9731308,TotalShelfLife,
+90738100,PlanningHierarchy5,LST
+90738100,PlanningHierarchy1,ADLT MTWSH
+90737800,PlanningHierarchy5,NTG
+90737800,PlanningHierarchy1,ADLT BOD MST
+90737900,PlanningHierarchy5,NTG
+90737900,PlanningHierarchy1,ADLT BOD MST
+2971002,MinRemainingShelfLife,
+2971002,TotalShelfLife,
+2971102,MinRemainingShelfLife,
+2971102,TotalShelfLife,
+2971202,MinRemainingShelfLife,
+2971202,TotalShelfLife,
+2971302,MinRemainingShelfLife,
+2971302,TotalShelfLife,
+2882205,TotalShelfLife,
+2886502,MinRemainingShelfLife,
+2886502,TotalShelfLife,
+2882205,MinRemainingShelfLife,
+2905104,MinRemainingShelfLife,
+90040003,MinRemainingShelfLife,
+90040003,TotalShelfLife,
+3963003,TotalShelfLife,
+3963003,MinRemainingShelfLife,
+2905104,TotalShelfLife,
+2905704,MinRemainingShelfLife,
+2905704,TotalShelfLife,
+2907604,MinRemainingShelfLife,
+2907604,TotalShelfLife,
+2908003,MinRemainingShelfLife,
+2908003,TotalShelfLife,
+2908406,MinRemainingShelfLife,
+2908406,TotalShelfLife,
+90039903,MinRemainingShelfLife,
+4911504,TotalShelfLife,
+4911504,MinRemainingShelfLife,
+90039903,TotalShelfLife,
+4912404,TotalShelfLife,
+4912404,MinRemainingShelfLife,
+90557700,MinRemainingShelfLife,
+90557700,TotalShelfLife,
+90557800,MinRemainingShelfLife,
+90557800,TotalShelfLife,
+90557900,MinRemainingShelfLife,
+90557900,TotalShelfLife,
+90093201,Franchise,BT
+90102401,Franchise,BT
+90092501,Franchise,BT
+90091501,Franchise,BT
+90092202,Franchise,BT
+90093501,Franchise,BT
+90094202,Franchise,BT
+7901507,Franchise,OR
+90508200,PlanningHierarchy1,SHP
+90498000,PlanningHierarchy1,FCL TN
+90508200,MinRemainingShelfLife,
+90508200,TotalShelfLife,
+90508300,MinRemainingShelfLife,
+90508300,TotalShelfLife,
+90508400,MinRemainingShelfLife,
+90508400,TotalShelfLife,
+90498000,MinRemainingShelfLife,
+90498000,TotalShelfLife,
+90504100,MinRemainingShelfLife,
+90504100,TotalShelfLife,
+9962206,MinRemainingShelfLife,
+9962206,TotalShelfLife,
+9080303,MinRemainingShelfLife,
+9080303,TotalShelfLife,
+90508400,Franchise,BT
+90504100,Franchise,BT
+90508300,Franchise,BT
+9080303,Franchise,BT
+9962206,Franchise,BT
+90508200,Franchise,BT
+90508400,PlanningHierarchy5,LPM
+90504100,PlanningHierarchy5,NTG
+90508300,PlanningHierarchy5,LPM
+9080303,PlanningHierarchy5,NTG
+9962206,PlanningHierarchy5,NTG
+90498000,Franchise,BT
+90508200,PlanningHierarchy5,LPM
+90498000,PlanningHierarchy5,NTG
+90508400,PlanningHierarchy1,SHP
+90504100,PlanningHierarchy1,OTH FC CR
+90508300,PlanningHierarchy1,SHP
+9080303,PlanningHierarchy1,FCL TN
+9962206,PlanningHierarchy1,FCL TN
+4303202,MinRemainingShelfLife,
+4303202,TotalShelfLife,
+4305003,MinRemainingShelfLife,
+4305003,TotalShelfLife,
+7901507,MinRemainingShelfLife,
+7901507,TotalShelfLife,
+90093201,PlanningHierarchy5,LPM
+90093201,PlanningHierarchy1,ADTL BOD CLNS
+90102401,PlanningHierarchy5,LPM
+90102401,PlanningHierarchy1,ADTL BOD CLNS
+90092501,PlanningHierarchy5,LPM
+90092501,PlanningHierarchy1,ADTL BOD CLNS
+7901507,PlanningHierarchy5,LST
+7901507,PlanningHierarchy1,ADLT MTWSH
+90102401,MinRemainingShelfLife,
+90102401,TotalShelfLife,
+90093201,MinRemainingShelfLife,
+90093201,TotalShelfLife,
+90091501,PlanningHierarchy5,LPM
+90091501,PlanningHierarchy1,ADTL BOD CLNS
+90092202,PlanningHierarchy5,LPM
+90092202,PlanningHierarchy1,ADTL BOD CLNS
+90093501,MinRemainingShelfLife,
+90093501,TotalShelfLife,
+90094202,MinRemainingShelfLife,
+90094202,TotalShelfLife,
+90091501,MinRemainingShelfLife,
+90091501,TotalShelfLife,
+90092202,MinRemainingShelfLife,
+90092202,TotalShelfLife,
+90092501,MinRemainingShelfLife,
+90092501,TotalShelfLife,
+90093501,PlanningHierarchy5,LPM
+90093501,PlanningHierarchy1,ADTL BOD CLNS
+90094202,PlanningHierarchy5,LPM
+90094202,PlanningHierarchy1,ADTL BOD CLNS
+90478700,MinRemainingShelfLife,
+90478700,TotalShelfLife,
+90478900,MinRemainingShelfLife,
+90478900,TotalShelfLife,
+90480200,MinRemainingShelfLife,
+90480200,TotalShelfLife,
+9425502,Franchise,BB
+9456502,Franchise,BB
+5110401,PlanningHierarchy1,MDC MTWSH
+7090906,PlanningHierarchy1,CND
+90048104,PlanningHierarchy1,ADTL BOD CLNS
+90048005,PlanningHierarchy1,ADTL BOD CLNS
+7859808,PlanningHierarchy1,SHP
+7090806,PlanningHierarchy1,SHP
+90491500,PlanningHierarchy1,ADTL BOD CLNS
+4311003,PlanningHierarchy1,ADLT MTWSH
+4303202,PlanningHierarchy5,LST
+4303202,PlanningHierarchy1,ADLT MTWSH
+90491600,PlanningHierarchy1,ADTL BOD CLNS
+4305003,PlanningHierarchy5,LST
+4305003,PlanningHierarchy1,ADLT MTWSH
+7860008,PlanningHierarchy1,SHP
+90053402,PlanningHierarchy1,ADTL BOD CLNS
+90048805,PlanningHierarchy1,ADTL BOD CLNS
+90048602,PlanningHierarchy1,ADTL BOD CLNS
+90052304,PlanningHierarchy1,ADTL BOD CLNS
+90480200,PlanningHierarchy5,OX
+90480200,PlanningHierarchy1,CND
+90478700,PlanningHierarchy5,OX
+90478700,PlanningHierarchy1,CND
+90478900,PlanningHierarchy5,OX
+90478900,PlanningHierarchy1,SHP
+90053505,PlanningHierarchy1,ADTL BOD CLNS
+90048704,PlanningHierarchy1,ADTL BOD CLNS
+90052102,PlanningHierarchy1,ADTL BOD CLNS
+90047902,PlanningHierarchy1,ADTL BOD CLNS
+90052205,PlanningHierarchy1,ADTL BOD CLNS
+90053604,PlanningHierarchy1,ADTL BOD CLNS
+90514000,MinRemainingShelfLife,
+90514000,TotalShelfLife,
+90094301,Franchise,BT
+90093701,Franchise,BT
+90520500,Franchise,BT
+90094401,Franchise,BT
+4019402,MinRemainingShelfLife,
+4019402,TotalShelfLife,
+4019602,MinRemainingShelfLife,
+4019602,TotalShelfLife,
+90094501,Franchise,BT
+90091701,Franchise,BT
+90185202,Franchise,OR
+90185502,Franchise,OR
+90185401,Franchise,OR
+6057314,MinRemainingShelfLife,
+6057314,TotalShelfLife,
+6057413,MinRemainingShelfLife,
+6057413,TotalShelfLife,
+90184901,Franchise,OR
+90185101,Franchise,OR
+9456502,MinRemainingShelfLife,
+9456502,TotalShelfLife,
+9425502,MinRemainingShelfLife,
+9425502,TotalShelfLife,
+90053302,MinRemainingShelfLife,
+90053302,TotalShelfLife,
+90046402,MinRemainingShelfLife,
+90046402,TotalShelfLife,
+90048302,MinRemainingShelfLife,
+90048302,TotalShelfLife,
+90048902,MinRemainingShelfLife,
+90048902,TotalShelfLife,
+90301302,MinRemainingShelfLife,
+90301302,TotalShelfLife,
+9755207,Franchise,BB
+9755406,Franchise,BB
+9425502,PlanningHierarchy5,JB
+9425502,PlanningHierarchy1,BB CLNS LQ
+9456502,PlanningHierarchy5,JB
+9456502,PlanningHierarchy1,BB SHP
+4019602,PlanningHierarchy5,JB
+4019602,PlanningHierarchy1,BB CTN
+4019402,PlanningHierarchy5,JB
+4019402,PlanningHierarchy1,BB CTN
+90053302,PlanningHierarchy5,LPM
+90053302,PlanningHierarchy1,ADTL BOD CLNS
+90048902,PlanningHierarchy5,LPM
+90048902,PlanningHierarchy1,ADTL BOD CLNS
+90048302,PlanningHierarchy5,LPM
+90048302,PlanningHierarchy1,ADTL BOD CLNS
+90046402,PlanningHierarchy5,LPM
+90046402,PlanningHierarchy1,ADTL BOD CLNS
+2886404,PlanningHierarchy5,NTG
+2886404,PlanningHierarchy1,ADLT BOD MST
+2841005,PlanningHierarchy5,NTG
+2841005,PlanningHierarchy1,ADLT BOD MST
+90184901,MinRemainingShelfLife,
+90184901,TotalShelfLife,
+90185101,MinRemainingShelfLife,
+90185101,TotalShelfLife,
+90185202,MinRemainingShelfLife,
+90185202,TotalShelfLife,
+90185401,MinRemainingShelfLife,
+90185401,TotalShelfLife,
+90185502,MinRemainingShelfLife,
+90185502,TotalShelfLife,
+90091701,MinRemainingShelfLife,
+90091701,TotalShelfLife,
+90094301,PlanningHierarchy5,LPM
+90094301,PlanningHierarchy1,ADTL BOD CLNS
+90093701,PlanningHierarchy5,LPM
+90093701,PlanningHierarchy1,ADTL BOD CLNS
+90514000,PlanningHierarchy5,LST
+90514000,PlanningHierarchy1,ADLT MTWSH
+6057413,PlanningHierarchy5,CF
+6057413,PlanningHierarchy1,LNRS
+6057314,PlanningHierarchy5,CF
+6057314,PlanningHierarchy1,LNRS
+90301302,PlanningHierarchy5,JB
+90301302,PlanningHierarchy1,BB CTN
+90093701,MinRemainingShelfLife,
+90093701,TotalShelfLife,
+90094301,MinRemainingShelfLife,
+90094301,TotalShelfLife,
+90094401,MinRemainingShelfLife,
+90094401,TotalShelfLife,
+90094501,MinRemainingShelfLife,
+90094501,TotalShelfLife,
+90520500,PlanningHierarchy5,LPM
+90520500,PlanningHierarchy1,ADTL BOD CLNS
+90525600,Franchise,BB
+90094401,PlanningHierarchy5,LPM
+90094401,PlanningHierarchy1,ADTL BOD CLNS
+90094501,PlanningHierarchy5,LPM
+90094501,PlanningHierarchy1,ADTL BOD CLNS
+90091701,PlanningHierarchy5,LPM
+90091701,PlanningHierarchy1,ADTL BOD CLNS
+9454803,Franchise,BB
+9430506,Franchise,BB
+9428506,Franchise,BB
+9430304,Franchise,BB
+9328405,Franchise,BB
+2886404,MinRemainingShelfLife,
+2886404,TotalShelfLife,
+9428705,Franchise,BB
+2841005,MinRemainingShelfLife,
+2841005,TotalShelfLife,
+90520500,MinRemainingShelfLife,
+90520500,TotalShelfLife,
+90525700,Franchise,BB
+90185202,PlanningHierarchy5,LST
+90185202,PlanningHierarchy1,ADLT MTWSH
+90185502,PlanningHierarchy5,LST
+90185502,PlanningHierarchy1,ADLT MTWSH
+90185401,PlanningHierarchy5,LST
+90185401,PlanningHierarchy1,ADLT MTWSH
+90184901,PlanningHierarchy5,LST
+90184901,PlanningHierarchy1,ADLT MTWSH
+90185101,PlanningHierarchy5,LST
+90185101,PlanningHierarchy1,ADLT MTWSH
+90869900,PlanningHierarchy5,LST
+90869900,PlanningHierarchy1,ADLT MTWSH
+90275401,MinRemainingShelfLife,
+90275401,TotalShelfLife,
+90275502,MinRemainingShelfLife,
+90275502,TotalShelfLife,
+90275601,MinRemainingShelfLife,
+90275601,TotalShelfLife,
+90275701,MinRemainingShelfLife,
+90275701,TotalShelfLife,
+90275901,MinRemainingShelfLife,
+90275901,TotalShelfLife,
+90276002,MinRemainingShelfLife,
+90276002,TotalShelfLife,
+90276101,MinRemainingShelfLife,
+90276101,TotalShelfLife,
+90276201,MinRemainingShelfLife,
+90276201,TotalShelfLife,
+90276302,MinRemainingShelfLife,
+90276302,TotalShelfLife,
+90276401,MinRemainingShelfLife,
+90276401,TotalShelfLife,
+90276602,MinRemainingShelfLife,
+90276602,TotalShelfLife,
+90276701,MinRemainingShelfLife,
+90276701,TotalShelfLife,
+90280802,MinRemainingShelfLife,
+90280802,TotalShelfLife,
+90053202,MinRemainingShelfLife,
+90053202,TotalShelfLife,
+90086803,MinRemainingShelfLife,
+90086803,TotalShelfLife,
+90370101,MinRemainingShelfLife,
+90370101,TotalShelfLife,
+90370201,MinRemainingShelfLife,
+90370201,TotalShelfLife,
+90093303,MinRemainingShelfLife,
+90093303,TotalShelfLife,
+90326802,MinRemainingShelfLife,
+90326802,TotalShelfLife,
+5902204,MinRemainingShelfLife,
+5902204,TotalShelfLife,
+9328009,MinRemainingShelfLife,
+9328009,TotalShelfLife,
+9328105,MinRemainingShelfLife,
+9328105,TotalShelfLife,
+9431304,MinRemainingShelfLife,
+9431304,TotalShelfLife,
+9432004,MinRemainingShelfLife,
+9432004,TotalShelfLife,
+9432502,MinRemainingShelfLife,
+9432502,TotalShelfLife,
+9432802,MinRemainingShelfLife,
+9432802,TotalShelfLife,
+9435603,MinRemainingShelfLife,
+9435603,TotalShelfLife,
+2675506,MinRemainingShelfLife,
+2675506,TotalShelfLife,
+90540100,MinRemainingShelfLife,
+90540100,TotalShelfLife,
+9422502,MinRemainingShelfLife,
+9422502,TotalShelfLife,
+9430405,MinRemainingShelfLife,
+9430405,TotalShelfLife,
+9430704,MinRemainingShelfLife,
+9430704,TotalShelfLife,
+90561100,MinRemainingShelfLife,
+90561100,TotalShelfLife,
+9583503,MinRemainingShelfLife,
+9583503,TotalShelfLife,
+9791603,MinRemainingShelfLife,
+9791603,TotalShelfLife,
+8180710,MinRemainingShelfLife,
+8180710,TotalShelfLife,
+90539300,MinRemainingShelfLife,
+90539300,TotalShelfLife,
+90539400,MinRemainingShelfLife,
+90539400,TotalShelfLife,
+90539500,MinRemainingShelfLife,
+90539500,TotalShelfLife,
+90539600,MinRemainingShelfLife,
+90539600,TotalShelfLife,
+90539700,MinRemainingShelfLife,
+90539700,TotalShelfLife,
+90539900,MinRemainingShelfLife,
+90539900,TotalShelfLife,
+90525600,MinRemainingShelfLife,
+90525600,TotalShelfLife,
+90525700,MinRemainingShelfLife,
+90525700,TotalShelfLife,
+90587500,MinRemainingShelfLife,
+90587500,TotalShelfLife,
+90587600,MinRemainingShelfLife,
+90587600,TotalShelfLife,
+90587700,MinRemainingShelfLife,
+90587700,TotalShelfLife,
+90587800,MinRemainingShelfLife,
+90587800,TotalShelfLife,
+90594100,MinRemainingShelfLife,
+90594100,TotalShelfLife,
+90829800,PlanningHierarchy5,JB
+90829800,PlanningHierarchy1,BB BOD CR LTN
+9434213,MinRemainingShelfLife,
+9434213,TotalShelfLife,
+9777303,MinRemainingShelfLife,
+9777303,TotalShelfLife,
+90005205,MinRemainingShelfLife,
+90005205,TotalShelfLife,
+2168115,MinRemainingShelfLife,
+2168115,TotalShelfLife,
+2907203,MinRemainingShelfLife,
+2907203,TotalShelfLife,
+2907503,MinRemainingShelfLife,
+2907503,TotalShelfLife,
+2907702,MinRemainingShelfLife,
+2907702,TotalShelfLife,
+3809418,MinRemainingShelfLife,
+3809418,TotalShelfLife,
+9430705,MinRemainingShelfLife,
+9430705,TotalShelfLife,
+9431108,MinRemainingShelfLife,
+9431108,TotalShelfLife,
+90513001,MinRemainingShelfLife,
+90513001,TotalShelfLife,
+90513201,MinRemainingShelfLife,
+90513201,TotalShelfLife,
+90574001,MinRemainingShelfLife,
+90574001,TotalShelfLife,
+90575101,MinRemainingShelfLife,
+90575101,TotalShelfLife,
+90596001,MinRemainingShelfLife,
+90596001,TotalShelfLife,
+90632401,MinRemainingShelfLife,
+90632401,TotalShelfLife,
+90829800,MinRemainingShelfLife,
+90829800,TotalShelfLife,
+90832400,MinRemainingShelfLife,
+90832400,TotalShelfLife,
+90832500,MinRemainingShelfLife,
+90832500,TotalShelfLife,
+5904003,MinRemainingShelfLife,
+5904003,TotalShelfLife,
+90639501,PlanningHierarchy5,LST
+90639501,PlanningHierarchy1,ADLT MTWSH
+9459708,PlanningHierarchy5,JB
+9459708,PlanningHierarchy1,BB BOD CR OIL
+9422904,PlanningHierarchy5,JB
+9422904,PlanningHierarchy1,BB CLNS LQ
+5904003,PlanningHierarchy5,LST
+5904003,PlanningHierarchy1,ADLT MTWSH
+90504902,MinRemainingShelfLife,
+90504902,TotalShelfLife,
+9315305,PlanningHierarchy5,JB
+9315305,PlanningHierarchy1,BB BOD CR LTN
+9314006,MinRemainingShelfLife,
+9314006,TotalShelfLife,
+9315305,MinRemainingShelfLife,
+9315305,TotalShelfLife,
+9328308,MinRemainingShelfLife,
+9328308,TotalShelfLife,
+9420103,MinRemainingShelfLife,
+9420103,TotalShelfLife,
+9422904,MinRemainingShelfLife,
+9422904,TotalShelfLife,
+9424704,MinRemainingShelfLife,
+9424704,TotalShelfLife,
+9425106,MinRemainingShelfLife,
+9425106,TotalShelfLife,
+9449703,MinRemainingShelfLife,
+9449703,TotalShelfLife,
+9459708,MinRemainingShelfLife,
+9459708,TotalShelfLife,
+90525701,MinRemainingShelfLife,
+90525701,TotalShelfLife,
+90639501,MinRemainingShelfLife,
+90639501,TotalShelfLife,
+90784002,MinRemainingShelfLife,
+90784002,TotalShelfLife,
+90784002,PlanningHierarchy5,JB
+90784002,PlanningHierarchy1,BB BOD CR OIL
+9314006,PlanningHierarchy5,JB
+9314006,PlanningHierarchy1,BB CLNS LQ
+1815905,PlanningHierarchy5,JB
+1815905,PlanningHierarchy1,BB CLNS LQ
+90525701,PlanningHierarchy5,JB
+90525701,PlanningHierarchy1,BB CLNS LQ
+1502905,PlanningHierarchy5,JB
+1502905,PlanningHierarchy1,BB BOD CR OIL
+9328308,PlanningHierarchy5,JB
+9328308,PlanningHierarchy1,BB BOD CR LTN
+9424704,PlanningHierarchy5,JB
+9424704,PlanningHierarchy1,BB CLNS LQ
+9425106,PlanningHierarchy5,JB
+9425106,PlanningHierarchy1,BB CLNS LQ
+9420103,PlanningHierarchy5,JB
+9420103,PlanningHierarchy1,BB CLNS LQ
+9449703,PlanningHierarchy5,JB
+9449703,PlanningHierarchy1,BB CLNS LQ
+1502905,MinRemainingShelfLife,
+1502905,TotalShelfLife,
+1815905,MinRemainingShelfLife,
+1815905,TotalShelfLife,
+90898600,MinRemainingShelfLife,
+90898600,TotalShelfLife,
+90869200,MinRemainingShelfLife,
+90869200,TotalShelfLife,
+90869700,MinRemainingShelfLife,
+90869700,TotalShelfLife,
+90869900,MinRemainingShelfLife,
+90869900,TotalShelfLife,
+90872200,MinRemainingShelfLife,
+90872200,TotalShelfLife,
+90869700,PlanningHierarchy5,LST
+90869700,PlanningHierarchy1,ADLT MTWSH
+2908407,MinRemainingShelfLife,
+2908407,TotalShelfLife,
+90039805,MinRemainingShelfLife,
+90039805,TotalShelfLife,
+90865000,MinRemainingShelfLife,
+90865000,TotalShelfLife,
+90729401,MinRemainingShelfLife,
+90729401,TotalShelfLife,
+90927900,MinRemainingShelfLife,
+90927900,TotalShelfLife,
+90927900,PlanningHierarchy5,LST
+90927900,PlanningHierarchy1,ADLT MTWSH
+90909600,MinRemainingShelfLife,
+90909600,TotalShelfLife,
+90909800,MinRemainingShelfLife,
+90909800,TotalShelfLife,
+90909900,MinRemainingShelfLife,
+90909900,TotalShelfLife,
+90910000,MinRemainingShelfLife,
+90910000,TotalShelfLife,
+90928000,PlanningHierarchy5,LST
+90928000,PlanningHierarchy1,ADLT MTWSH
+90928000,MinRemainingShelfLife,
+90928000,TotalShelfLife,
+9814905,MinRemainingShelfLife,
+9814905,TotalShelfLife,
+90094204,MinRemainingShelfLife,
+90094204,TotalShelfLife,
+90370102,MinRemainingShelfLife,
+90370102,TotalShelfLife,

@@ -1,0 +1,18 @@
+\begin{table}[!htbp]
+\centering
+\caption{Epistemic taxonomy and interpretation of operational metrics.}
+\label{tab:information_status}
+\renewcommand{\arraystretch}{1.15}
+\small
+\begin{tabularx}{\textwidth}{>{\raggedright\arraybackslash}p{2.2cm}>{\raggedright\arraybackslash}p{4.2cm}X}
+\toprule
+\textbf{Data Status} & \textbf{Representative Example} & \textbf{Methodological Interpretation} \\
+\midrule
+Recorded & completed\_quantity, change\_over\_end & Raw values from ERP; require integrity audits. \\
+Derived & Elapsed duration = end $-$ start & Direct mathematical consequence of recorded timestamps. \\
+Allocated & Hourly allocated piece counts & Assumed uniform allocation; not a physical meter reading. \\
+Assumed & Availability at $t=0$; parameters $a, b$ & Baseline experimental conditions; not empirical facts. \\
+Simulated & Job completion epoch in G0 & Model-clock recurrence output under declared parameters. \\
+\bottomrule
+\end{tabularx}
+\end{table}

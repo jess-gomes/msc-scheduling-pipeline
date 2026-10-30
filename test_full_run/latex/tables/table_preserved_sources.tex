@@ -1,0 +1,17 @@
+\begin{table}[!htbp]
+\centering
+\caption{Preserved empirical source datasets, domain specifications, and analytical roles.}
+\label{tab:preserved_sources}
+\renewcommand{\arraystretch}{1.15}
+\small
+\begin{tabularx}{\textwidth}{>{\raggedright\arraybackslash}p{3.4cm}>{\raggedright\arraybackslash}p{3.0cm}X}
+\toprule
+\textbf{Source Entity} & \textbf{Physical Scope} & \textbf{Analytical Role} \\
+\midrule
+\texttt{production\_order.xlsx} & 2751 orders, 11 attributes & Primary transactional dataset for temporal reconstruction, capacity partition, and scheduling baseline. \\
+\texttt{ProductDetail.xlsx} & 144,185 attribute rows & Auxiliary catalog taxonomy table queried for referential attribute completeness. \\
+Operational Domain Note & 10 verified logging rules & Validates timestamp interpretations, setup placement, and single-capacity constraints (Prime Optimal Solutions). \\\\
+Study Data Protocol & Formal metric and mass rules & Establishes conventions for conforming piece counts and accounting reconciliations. \\\\
+\bottomrule
+\end{tabularx}
+\end{table}

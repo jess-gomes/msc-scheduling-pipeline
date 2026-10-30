@@ -1,0 +1,112 @@
+% Comprehensive technical report narrative converted to LaTeX
+% Preserves all methodological justifications, definitions, and interpretations.
+
+\section{Executive Summary and Research Question}
+\label{sec:executive_summary}
+
+This study addresses a focused industrial scheduling question: for a fixed batch of manufacturing orders on work centre LR3, what is the potential makespan contraction achievable by family-based order grouping, and under what changeover durations and pairwise parameter perturbations does this advantage hold?
+
+The evaluation is conducted within a closed-lot deterministic single-machine model, applying common transition setup rules to historical and permuted dispatch sequences. Transformation runtimes correspond to recorded elapsed production windows. Tooling family assignments are derived from an unvalidated 5-digit prefix heuristic, rendering all conclusions strictly conditional on declared assumptions.
+
+The raw enterprise database comprises \TotalRawOrders\ transactional order records across \MonitoredWorkCentres\ manufacturing work centres. On benchmark asset LR3, 78 of the 79 orders satisfy strict timestamp concordance. Order LR3\_074 exhibits an internal discrepancy of 1 hour, 14 minutes, and 59 seconds between its setup initiation timestamps. It is preserved within the baseline dataset and evaluated in sensitivity analyses, but isolated from the primary 78-order calibration batch.
+
+Under the exploratory baseline parameters ($a = \ReferenceSetupAMinutes\text{ minutes}$, $b = \ReferenceSetupBMinutes\text{ minutes}$), family grouping reduces inter-family changeovers from 76 to 24, contracting batch makespan from \HistoricalMakespanHours\ to \GroupedMakespanHours\ hours. This yields an absolute contraction of \ReferenceSavingHours\ hours (\ReferenceSavingPercent\%). However, this gain depends on unconstrained reordering: restricting reordering to 10-order positional blocks reduces the relative contraction to 0.021\%. Furthermore, global makespan reduction does not imply uniform improvement across individual orders: \CompletionLaterOrders\ orders complete later in the model clock under the grouped sequence.
+
+Under set-based pairwise perturbation analysis ($\mathcal{U}_\varepsilon$), the makespan advantage remains strictly positive for all realizations only while maximum pairwise setup deviation remains below $\varepsilon^* = \RobustCriticalEpsilonMinutes\text{ minutes}$. An adversarial witness realization with $\varepsilon = 15\text{ minutes}$ causes the grouped schedule to complete 13.372 hours later than the historical baseline.
+
+\input{tables/table_delivery_scope.tex}
+
+\section{Data Architecture, Epistemic Status, and Operational Definitions}
+\label{sec:data_definitions}
+
+The computational pipeline operates upon two primary transactional workbooks whose byte-level immutability is validated via cryptographic SHA-256 digests, governed by two formal operational specifications:
+\begin{itemize}
+    \item \texttt{production\_order.xlsx}: Primary transactional execution table providing order timestamps, planned targets, conforming volumes, and defect records across 2{,}751 dispatches.
+    \item \texttt{ProductDetail.xlsx}: Auxiliary product taxonomy catalog exhibiting 50.20\% missingness across engineering attributes, used strictly for referential verification.
+    \item Operational Domain Note: Verified industrial logging invariants established with the plant engineering team at Prime Optimal Solutions.
+    \item Study Data Protocol: Formal definitions governing mass conservation, non-negative piece allocations, and signed accounting reconciliation rules.
+\end{itemize}
+
+\input{tables/table_preserved_sources.tex}
+\input{tables/table_information_status.tex}
+
+Key operational indicators are formally defined to ensure mathematical and dimensional consistency:
+\begin{equation}
+\text{Plan Attainment Ratio} = \frac{Y}{P}, \quad \text{for } P > 0, \; Y \ge 0
+\end{equation}
+\begin{equation}
+\text{Process Conforming Yield} = \frac{Y}{Y + S}, \quad \text{Scrap Proportion} = \frac{S}{Y + S}, \quad \text{for } Y \ge 0, \; S \ge 0, \; Y + S > 0
+\end{equation}
+\begin{equation}
+\text{Signed Plan Deviation} = P - Y
+\end{equation}
+
+Plan attainment is evaluated as an unbounded ratio, preserving positive overproduction ($Y > P$) without artificial saturation at 100\%. Signed plan deviation measures absolute volume variance: positive values indicate under-delivery, whereas negative values reflect output exceeding schedule. Retrospective negative scrap records from accounting inventory adjustments are preserved in transactional mass balances but isolated via audit flags to avoid distorting physical process yield.
+
+\section{Temporal Reconstruction, Concurrency Auditing, and Mass Allocation}
+\label{sec:reconstruction_audit}
+
+Interval algebra operates over half-open sets $[t_1, t_2)$. The productive transformation window is delimited by changeover completion and order closure: $[\text{change\_over\_end}, \text{actual\_completion\_date})$. This is formally designated as an elapsed window, as unrecorded machine stoppages cannot be excluded.
+
+\input{tables/table_erp_anomalies.tex}
+
+Disjoint timeline partitioning confirms that raw ERP records contain \ResourceHoursWithConflict\ clock hours where concurrent orders share identical work centres, violating single-capacity physics. The transformation pipeline preserves these anomalies in dedicated audit logs rather than truncating them.
+
+\input{tables/table_quantity_reconciliation.tex}
+
+Mass conservation is guaranteed across all eligible hours using high-precision decimal arithmetic, assigning integer rounding residuals strictly to terminal operating hours.
+
+\section{Benchmark Asset LR3: Cohort Selection and Empirical Setup Dispersal}
+\label{sec:lr3_selection}
+
+\input{tables/table_lr3_074_divergence.tex}
+\input{tables/table_primary_cohort_metrics.tex}
+
+Benchmark asset LR3 contains 79 order dispatches. Quarantining order LR3\_074 leaves 78 verified orders comprising 29 distinct product references. Within the historical sequence, 75 eligible transitions occur between distinct families, and exactly 1 transition occurs within the same family.
+
+\input{tables/table_setup_supported_stats.tex}
+
+Recorded intergroup changeovers exhibit extreme dispersion (mean of 22.647 minutes versus median of 6.850 minutes, with a standard deviation of 39.287 minutes). Furthermore, 60 of the 77 directed transitions generated under the grouped schedule have zero empirical support in historical records, reinforcing the necessity of sensitivity and robustness evaluations.
+
+\section{Mathematical Formulation of the Closed-Lot Model}
+\label{sec:mathematical_model}
+
+The deterministic single-machine model evaluates batch makespan under the forward recurrence:
+\begin{equation}
+C_0 = 0, \quad S_k = C_{k-1}, \quad C_k = S_k + s_k + p_k
+\end{equation}
+For $n$ orders and $B$ intergroup transitions, makespan evaluates to the exact analytical closed form:
+\begin{equation}
+C(B) = \sum_{j=1}^{n} p_j + s_0 + (n - 1 - B)a + Bb
+\end{equation}
+Between historical sequence H0 ($B_H = 76$) and grouped sequence G0 ($B_G = 24$), makespan contraction evaluates to:
+\begin{equation}
+C_H - C_G = (B_H - B_G)(b - a) = 52(b - a)
+\end{equation}
+
+\input{tables/table_trace_reductions.tex}
+\input{tables/table_reference_scenarios.tex}
+
+\section{Sensitivity Analysis and Set-Based Robustness Evaluation}
+\label{sec:sensitivity_robustness}
+
+\input{tables/table_sensitivity_anchors.tex}
+\input{tables/table_sensitivity_blocks.tex}
+\input{tables/table_sensitivity_sample_cohort.tex}
+
+Makespan contraction is highly sensitive to the chosen descriptive anchor: utilizing the intergroup sample median reduces the gain from 1.110\% to 0.226\%. Restricting reordering to positional blocks demonstrates that local grouping yields negligible gains.
+
+\input{tables/table_robust_pair_uncertainty.tex}
+
+Under the bounded perturbation box $\mathcal{U}_\varepsilon$, where transition setups satisfy $s_e \in [\max(0, \mu_e - \varepsilon), \mu_e + \varepsilon]$, the lower saving bound follows:
+\begin{equation}
+\Delta_{\min}(\varepsilon) = \sum_{e} c_e \cdot \begin{cases} \max(0, \mu_e - \varepsilon), & \text{if } c_e \ge 0 \\ \mu_e + \varepsilon, & \text{if } c_e < 0 \end{cases}
+\end{equation}
+The critical threshold where guaranteed advantage reaches zero is $\varepsilon^* = \RobustCriticalEpsilonMinutes\text{ minutes}$. Beyond this radius, adversarial realizations can reverse the policy advantage.
+
+\section{Methodological Demarcation and Verification Status}
+\label{sec:verification_status}
+
+\input{tables/table_verification_demarcation.tex}
+
+Computational checks confirm that all programmatic transformations, rational arithmetic evaluations, and file exports pass without failure. However, physical tooling equivalence, operational schedule viability, and dynamic arrival constraints remain unverified on the shop floor.

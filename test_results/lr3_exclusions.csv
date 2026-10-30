@@ -1,0 +1,2 @@
+alias,order_id,source_row,timestamp_divergence,missing_time,invalid_time,zero_production,any_overlap
+LR3_074,100000020495_0100_P,2635,True,False,False,False,False

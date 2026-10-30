@@ -1,0 +1,14 @@
+{
+  "operational_domain_note.md": {
+    "sha256": "59402ce0f08f15b41f5a5a55c4ffbf97a18e48a70a0e0a7cf192ee6614de9642",
+    "bytes": 2967
+  },
+  "ProductDetail.xlsx": {
+    "sha256": "695d6c4f5bf605c055370dad5e8fdd2c03e7c13253749723f412636dc9521407",
+    "bytes": 2188713
+  },
+  "production_order.xlsx": {
+    "sha256": "a89890dedc54d62fcea938e14040261e676ad851267ff7766fc875da6979a206",
+    "bytes": 262242
+  }
+}

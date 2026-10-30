@@ -1,0 +1,33 @@
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Python bytecode and caches
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ipynb_checkpoints/
+
+# LaTeX compilation artefacts
+*.aux
+*.bbl
+*.blg
+*.log
+*.out
+*.toc
+*.synctex.gz
+*.fls
+*.fdb_latexmk
+
+# Operating system files
+Thumbs.db
+.DS_Store
+
+# Environment variables
+.env
+
+# Confidential raw input datasets
+input/production_order*
+input/ProductDetail*
+*.xlsx

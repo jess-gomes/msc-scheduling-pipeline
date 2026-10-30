@@ -1,0 +1,141 @@
+test_fractional_exact_conservation (test_core.AllocationTests.test_fractional_exact_conservation)
+Assert prime unit volume allocation absorbs rounding residual in the terminal hour. ... ok
+test_large_order_conservation (test_core.AllocationTests.test_large_order_conservation)
+Assert mass balance closure over high production volumes and long horizons. ... ok
+test_negative_rejected (test_core.AllocationTests.test_negative_rejected)
+Assert negative unit quantities raise ValueError. ... ok
+test_no_duration_rejected (test_core.AllocationTests.test_no_duration_rejected)
+Assert non-positive duration raises ValueError. ... ok
+test_uniform_80_20 (test_core.AllocationTests.test_uniform_80_20)
+Assert proportional allocation across two partial-hour segments. ... ok
+test_zero_valid (test_core.AllocationTests.test_zero_valid)
+Assert zero quantity allocation evaluates to zero without error. ... ok
+test_datetime_first (test_core.InputTests.test_datetime_first)
+Assert serial date conversion correctly aligns to integer second epoch. ... ok
+test_fractional_quantity_rejected (test_core.InputTests.test_fractional_quantity_rejected)
+Assert fractional unit volume raises ValueError. ... ok
+test_microsecond_precision_not_minutes (test_core.InputTests.test_microsecond_precision_not_minutes)
+Assert serialization correction is confined strictly within one microsecond. ... ok
+test_missing_marker (test_core.InputTests.test_missing_marker)
+Assert period marker string token is parsed as missing timestamp. ... ok
+test_negative_quantities_retained (test_core.InputTests.test_negative_quantities_retained)
+Assert negative scrap records and negative conforming adjustments are retained. ... ok
+test_negative_scrap_yield_missing (test_core.InputTests.test_negative_scrap_yield_missing)
+Assert process yield is marked uncomputable when scrap is negative. ... ok
+test_overplan_not_clipped (test_core.InputTests.test_overplan_not_clipped)
+Assert plan attainment is not artificially capped at 100 percent. ... ok
+test_quantities_source (test_core.InputTests.test_quantities_source)
+Assert total completed conforming unit volume matches raw input sum. ... ok
+test_sd_one_missing (test_core.InputTests.test_sd_one_missing)
+Assert standard deviation of a single-element sample evaluates to None. ... ok
+test_sixteen_divergences (test_core.InputTests.test_sixteen_divergences)
+Assert exactly 16 records exhibit divergent setup initiation timestamps. ... ok
+test_source_shape (test_core.InputTests.test_source_shape)
+Assert fleet-wide order row count is exactly 2,751. ... ok
+test_text_id_preserved (test_core.InputTests.test_text_id_preserved)
+Assert textual identifier normalizer preserves leading zeroes. ... ok
+test_three_missing_times (test_core.InputTests.test_three_missing_times)
+Assert exactly 3 transactional records exhibit missing timestamp attributes. ... ok
+test_blocks_one_no_reordering (test_core.ModelTests.test_blocks_one_no_reordering)
+Assert block size of one enforces historical sequence without reordering. ... ok
+test_changed_first_rejected (test_core.ModelTests.test_changed_first_rejected)
+Assert altering the initial anchor order raises ValueError. ... ok
+test_duplicate_sequence_rejected (test_core.ModelTests.test_duplicate_sequence_rejected)
+Assert duplicate order identifiers in dispatch sequence raise ValueError. ... ok
+test_empty_rejected (test_core.ModelTests.test_empty_rejected)
+Assert empty job collection raises ValueError. ... ok
+test_equal_setups_tie (test_core.ModelTests.test_equal_setups_tie)
+Assert identical setup parameters yield zero makespan difference across sequences. ... ok
+test_first_and_internal_order_preserved (test_core.ModelTests.test_first_and_internal_order_preserved)
+Assert grouped sequence preserves initial job anchor and historical priority. ... ok
+test_group_optimal_all_small_permutations (test_core.ModelTests.test_group_optimal_all_small_permutations)
+Assert grouped sequence achieves global minimal makespan across all permutations. ... ok
+test_manual_220_202 (test_core.ModelTests.test_manual_220_202)
+Verify makespan contraction on the three-job manual test case. ... ok
+test_negative_setup_rejected (test_core.ModelTests.test_negative_setup_rejected)
+Assert negative setup duration raises ValueError. ... ok
+test_nonfinite_rejected (test_core.ModelTests.test_nonfinite_rejected)
+Assert NaN setup duration raises ValueError. ... ok
+test_nonpositive_production_rejected (test_core.ModelTests.test_nonpositive_production_rejected)
+Assert non-positive production duration in job record raises ValueError. ... ok
+test_quantities_constant (test_core.ModelTests.test_quantities_constant)
+Assert total conforming output remains invariant across dispatch sequences. ... ok
+test_repeat_identical (test_core.ModelTests.test_repeat_identical)
+Assert determinism: identical inputs produce bitwise identical outputs. ... ok
+test_reversal (test_core.ModelTests.test_reversal)
+Assert makespan reversal when intragroup setup exceeds intergroup setup. ... ok
+test_setup_reduction_20_manual (test_core.ModelTests.test_setup_reduction_20_manual)
+Verify proportional setup scaling factor against exact manual calculation. ... ok
+test_single_job_initial (test_core.ModelTests.test_single_job_initial)
+Assert single job simulation correctly evaluates boundary setup and processing. ... ok
+test_zero_setups (test_core.ModelTests.test_zero_setups)
+Assert zero setup durations evaluate makespan strictly to total processing duration. ... ok
+test_box_corners_exact (test_core.RobustTests.test_box_corners_exact)
+Assert analytical lower and upper bounds match full combinatorial corner enumeration. ... ok
+test_negative_epsilon_rejected (test_core.RobustTests.test_negative_epsilon_rejected)
+Assert negative perturbation radius raises ValueError. ... ok
+test_radius_root (test_core.RobustTests.test_radius_root)
+Assert critical threshold epsilon_star evaluates exactly to zero lower bound. ... ok
+test_same_sequence_cancels_shared_errors (test_core.RobustTests.test_same_sequence_cancels_shared_errors)
+Assert comparing identical sequences yields zero difference across all box radii. ... ok
+test_witness_simulated (test_core.RobustTests.test_witness_simulated)
+Assert simulation under adversarial witness matrix reproduces theoretical lower bound. ... ok
+test_zero_width_recovers_nominal (test_core.RobustTests.test_zero_width_recovers_nominal)
+Assert zero perturbation radius collapses bounds to nominal difference. ... ok
+test_conflict_75_not_60_sum (test_core.TemporalTests.test_conflict_75_not_60_sum)
+Assert overlapping durations are not truncated to clock-hour bounds. ... ok
+test_distinct_centres (test_core.TemporalTests.test_distinct_centres)
+Assert intervals on different work centres have zero intersection. ... ok
+test_indeterminate_is_not_idle (test_core.TemporalTests.test_indeterminate_is_not_idle)
+Assert divergent setup intervals remain classified as indeterminate. ... ok
+test_invalid_interval_rejected (test_core.TemporalTests.test_invalid_interval_rejected)
+Assert interval creation raises ValueError when end precedes start. ... ok
+test_nested_length (test_core.TemporalTests.test_nested_length)
+Assert complete inclusion yields the exact duration of the nested interval. ... ok
+test_nonadjacent_pair_found (test_core.TemporalTests.test_nonadjacent_pair_found)
+Assert sweep line detects non-adjacent concurrent intervals on the same asset. ... ok
+test_partial_hours (test_core.TemporalTests.test_partial_hours)
+Assert decomposition across clock-hour boundaries correctly aligns segments. ... ok
+test_sequential_hour_no_idle (test_core.TemporalTests.test_sequential_hour_no_idle)
+Assert sequential contiguous intervals conserve window without false idle gaps. ... ok
+test_touching_is_not_overlap (test_core.TemporalTests.test_touching_is_not_overlap)
+Assert half-open intervals sharing a boundary point exhibit zero overlap. ... ok
+test_triple_pairs_not_union (test_core.TemporalTests.test_triple_pairs_not_union)
+Assert pairwise overlaps sum individual intersections rather than union extent. ... ok
+test_uncovered_time (test_core.TemporalTests.test_uncovered_time)
+Assert unrecorded gaps are assigned to the unrecorded activity state. ... ok
+test_zero_interval_allowed (test_core.TemporalTests.test_zero_interval_allowed)
+Assert degenerate zero-duration intervals do not generate positive overlaps. ... ok
+test_catalog_not_physical_validation (test_integration.IntegrationTests.test_catalog_not_physical_validation)
+Audit master catalog coverage without inferring unvalidated physical setup equivalence. ... ok
+test_completed_order_shifts (test_integration.IntegrationTests.test_completed_order_shifts)
+Verify completion time displacement counts along the reordered schedule. ... ok
+test_constructed_witness_reversal (test_integration.IntegrationTests.test_constructed_witness_reversal)
+Assert that the adversarial witness schedule reproduces the theoretical lower bound. ... ok
+test_no_false_approval (test_integration.IntegrationTests.test_no_false_approval)
+Ensure programmatic audit flags register failures and unvalidated dimensions. ... ok
+test_no_new_adjacency_in_calibration (test_integration.IntegrationTests.test_no_new_adjacency_in_calibration)
+Verify that order exclusion does not create synthetic empirical transitions. ... ok
+test_nominal_result_and_analytical (test_integration.IntegrationTests.test_nominal_result_and_analytical)
+Verify makespan contraction against the exact algebraic closed form 52(b - a). ... ok
+test_primary_sample (test_integration.IntegrationTests.test_primary_sample)
+Assert cohort dimensions and isolation of quarantined order LR3_074. ... ok
+test_radius_is_zero_not_probability (test_integration.IntegrationTests.test_radius_is_zero_not_probability)
+Verify critical perturbation radius epsilon_star where lower saving boundary reaches zero. ... ok
+test_ratio_one_ties (test_integration.IntegrationTests.test_ratio_one_ties)
+Assert that identical setup durations yield zero makespan difference. ... ok
+test_schema_conservation_and_counts (test_integration.IntegrationTests.test_schema_conservation_and_counts)
+Assert fleet-wide order row conservation and reference changeover reduction. ... ok
+test_two_start_definitions_reported (test_integration.IntegrationTests.test_two_start_definitions_reported)
+Verify pairwise concurrency counts under both setup initiation conventions. ... ok
+test_written_hourly_partition (test_integration.IntegrationTests.test_written_hourly_partition)
+Verify disjoint hour partition duration conservation in resource_hourly.csv.gz. ... ok
+test_written_quantities_by_order (test_integration.IntegrationTests.test_written_quantities_by_order)
+Verify mass balance closure and non-negative piece allocations. ... ok
+test_written_scenarios_same_jobs (test_integration.IntegrationTests.test_written_scenarios_same_jobs)
+Verify order preservation and non-preemptive execution across all benchmark scenarios. ... ok
+
+----------------------------------------------------------------------
+Ran 68 tests in 4.314s
+
+OK

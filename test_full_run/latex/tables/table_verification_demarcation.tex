@@ -1,0 +1,19 @@
+\begin{table}[!htbp]
+\centering
+\caption{Systematic demarcation between computational verification and empirical validation.}
+\label{tab:verification_demarcation}
+\renewcommand{\arraystretch}{1.15}
+\small
+\begin{tabularx}{\textwidth}{>{\raggedright\arraybackslash}p{2.8cm}>{\raggedright\arraybackslash}p{6.0cm}X}
+\toprule
+\textbf{Verification Level} & \textbf{Computational Evidence Base} & \textbf{Methodological Status} \\
+\midrule
+Raw data ingestion & 30,261 cells checked against dual independent readers without mismatch. & Verified for input spreadsheets. \\
+Data transformations & Exact signed ledger closure; disjoint partitions; immutable originals. & Controlled pipeline; raw anomalies preserved. \\
+Code and algorithms & 68 unit tests; analytical equality; adversarial witness schedule. & Formally verified. \
+Tooling families & Master catalog audited; heuristic 5-digit prefix applied. & Provisionally assumed; unvalidated. \\
+Operational model & No independent shop-floor comparison with live schedules. & Experimentally conditional; unvalidated. \\
+Deployment readiness & Lacks release epochs, deadlines, priorities, costs, and calendars. & Outside study scope. \\
+\bottomrule
+\end{tabularx}
+\end{table}

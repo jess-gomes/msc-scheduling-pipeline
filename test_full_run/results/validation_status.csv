@@ -1,0 +1,10 @@
+check,scope,status,value
+unique_keys,program,PASSED,2751
+quantity_reconciliation,program,PASSED,0
+temporal_partition_conserves_window,program,PASSED,0
+formulas_vs_scenario_engine,program,PASSED,0
+global_data_capacity,source_data,FAILED,255
+all_timestamps_concordance,source_data,FAILED,16
+lr3_sample_capacity,primary_sample,PASSED,0
+physical_families_confirmed,interpretation,NOT_EVALUATED,unconfirmed
+independent_operational_validation,interpretation,NOT_EVALUATED,no_independent_data

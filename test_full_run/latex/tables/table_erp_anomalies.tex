@@ -1,0 +1,21 @@
+\begin{table}[!htbp]
+\centering
+\caption{Fleet-wide structural anomalies identified in raw transactional tables.}
+\label{tab:erp_anomalies}
+\renewcommand{\arraystretch}{1.15}
+\small
+\begin{tabularx}{\textwidth}{X>{\raggedleft\arraybackslash}p{2.2cm}>{\raggedright\arraybackslash}p{5.8cm}}
+\toprule
+\textbf{Integrity Audit Condition} & \textbf{Observed Count} & \textbf{Methodological Treatment} \\
+\midrule
+Missing essential timestamps & 3 & Preserved; excluded from setup partitioning. \\
+Divergent setup initiation timestamps & 16 & Flagged; quarantined from primary time cohort. \\
+Zero productive transformation duration & 15 & Zero allocated pieces; excluded from machining run. \\
+Negative completed quantity & 1 & Signed financial adjustment; excluded from run rate. \\
+Negative scrap adjustments & 368 & Preserved signed values; yield marked uncomputable. \\
+Overlapping pairs on changeover start & 254 & Full pairwise sweep line conflict detection. \\
+Overlapping pairs on official actual start & 255 & Official window check; capacity unapproved. \\
+Total orders involved in overlaps & 290 & Flagged; quarantined from conservative allocation. \\
+\bottomrule
+\end{tabularx}
+\end{table}

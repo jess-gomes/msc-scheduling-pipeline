@@ -1,0 +1,15 @@
+{
+  "version": "1.0.0",
+  "target_work_centre": "LR3",
+  "group_rule": "prefix_5_provisional",
+  "primary_eligibility": "complete_concordant_positive_production_no_overlap",
+  "reference_intra": "sole_supported_observation_exploratory_anchor",
+  "reference_inter": "mean_original_adjacent_primary_pairs_descriptive_anchor",
+  "setup_reduction_fractions": [0.0, 0.1, 0.2, 0.3],
+  "ratio_grid": [0.0, 0.1, 0.25, 0.5, 0.75, 1.0, 1.25],
+  "inter_minutes_grid": [2, 5, 10, 15, 20, 30, 45, 60],
+  "robust_epsilon_minutes": [0, 1, 2, 5, 10, 15, 20, 30],
+  "illustrative_relative_thresholds": [0.005, 0.01, 0.02],
+  "block_sizes": [5, 10, 20],
+  "notes": "Exploratory parameter grids, not probability distributions or confidence intervals. Positional blocks represent sequence slots, not operational schedules or release dates."
+}
